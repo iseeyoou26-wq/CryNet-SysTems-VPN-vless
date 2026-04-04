@@ -2,7 +2,7 @@
 CryNet SysTems VPN vless 
 
 
-🇷🇺 Русская версия
+🇷🇺 Русская версия 
 🚀 VLESS Ultimate Aggregator
 Стабильная подписка | Авто-отбор | 24/7 мониторинг
 Собираю всё лучшее, что есть в мире бесплатного VLESS.
@@ -14,17 +14,23 @@ CryNet SysTems VPN vless
 Общий пул: от 10 000 до 20 000 сырых конфигов за цикл.
 
 🧪 Многоуровневая проверка каждого конфига
+
 ✅ Пинг и стабильность соединения
+
 ✅ Доступ к YouTube (видео 1080p+)
+
 ✅ Доступ к Telegram
+
 ✅ Доступ к Google
+
 📱 Эмуляция сети LTE — проверка работы в условиях мобильного интернета (ограниченная пропускная способность, задержки)
 
 🎯 Результат
-Из 20 000 конфигов остаётся только 10–30 стабильно рабочих
+Из 20 000 конфигов остаётся 100–300, из которых 10–30 стабильно рабочих
 Качество важнее количества.
 
 🔄 Жизненный цикл подписки
+
 Обновление каждые 6 часов
 
 Удаление мёртвых конфигов
@@ -36,11 +42,13 @@ CryNet SysTems VPN vless
 Стабильность подписки: не менее 24 часов (часто дольше)
 
 📥 Подписка (Subscription)
+
 Ссылка на подписку будет здесь (добавьте свою)
 
 Формат: VLESS (совместим с V2Ray, Nekoray, Shadowrocket, Clash и др.)
+⭐ Если проект полезен — поставь звезду / If you find this useful — leave a star
 
-🇬🇧 English version
+🇬🇧 English version 
 🚀 VLESS Ultimate Aggregator
 Stable subscription | Auto-selection | 24/7 monitoring
 I collect the best free VLESS configs available.
@@ -52,17 +60,23 @@ Parsing public sources (GitHub, Telegram, forums) and private channels.
 Total raw pool: from 10,000 to 20,000 configs per cycle.
 
 🧪 Deep validation for each config
+
 ✅ Ping & connection stability
+
 ✅ Access to YouTube (1080p+ streaming)
+
 ✅ Access to Telegram
+
 ✅ Access to Google
+
 📱 LTE network emulation — testing under mobile network conditions (limited bandwidth, latency)
 
 🎯 Final result
-Out of 20,000 configs, only 10–30 stable working ones survive
+Out of 20,000 configs, only 100–300 survive the first filter, and from them — just 10–30 truly stable working ones
 Quality over quantity.
 
 🔄 Subscription lifecycle
+
 Updates every 6 hours
 
 Dead configs are removed
@@ -74,10 +88,9 @@ Currently working configs stay as long as they remain alive
 Subscription stability: at least 24 hours (often longer)
 
 📥 Subscription link
+
 Your subscription link goes here
 
 Format: VLESS (compatible with V2Ray, Nekoray, Shadowrocket, Clash, etc.)
 
 ⭐ Если проект полезен — поставь звезду / If you find this useful — leave a star
-Это помогает проекту жить и развиваться.
-It helps the project grow and stay alive.
