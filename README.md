@@ -43,7 +43,7 @@ CryNet SysTems VPN vless
 
 📥 Подписка (Subscription)
 
-Ссылка на подписку будет здесь (добавьте свою)
+Ссылка на подписку будет здесь https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_all.txt
 
 Формат: VLESS (совместим с V2Ray, Nekoray, Shadowrocket, Clash и др.)
 ⭐ Если проект полезен — поставь звезду / If you find this useful — leave a star
@@ -89,7 +89,7 @@ Subscription stability: at least 24 hours (often longer)
 
 📥 Subscription link
 
-Your subscription link goes here
+Your subscription link goes here https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_all.txt
 
 Format: VLESS (compatible with V2Ray, Nekoray, Shadowrocket, Clash, etc.)
 
