@@ -2,6 +2,7 @@
 CryNet SysTems VPN vless 
 
 
+🇷🇺 Русская версия
 🚀 VLESS Ultimate Aggregator
 Стабильная подписка | Авто-отбор | 24/7 мониторинг
 Собираю всё лучшее, что есть в мире бесплатного VLESS.
@@ -33,3 +34,50 @@ CryNet SysTems VPN vless
 Текущие рабочие сохраняются до тех пор, пока живы
 
 Стабильность подписки: не менее 24 часов (часто дольше)
+
+📥 Подписка (Subscription)
+Ссылка на подписку будет здесь (добавьте свою)
+
+Формат: VLESS (совместим с V2Ray, Nekoray, Shadowrocket, Clash и др.)
+
+🇬🇧 English version
+🚀 VLESS Ultimate Aggregator
+Stable subscription | Auto-selection | 24/7 monitoring
+I collect the best free VLESS configs available.
+This repository is the result of a hard filter applied to tens of thousands of configs.
+
+⚙️ How it works
+🔍 Data collection
+Parsing public sources (GitHub, Telegram, forums) and private channels.
+Total raw pool: from 10,000 to 20,000 configs per cycle.
+
+🧪 Deep validation for each config
+✅ Ping & connection stability
+✅ Access to YouTube (1080p+ streaming)
+✅ Access to Telegram
+✅ Access to Google
+📱 LTE network emulation — testing under mobile network conditions (limited bandwidth, latency)
+
+🎯 Final result
+Out of 20,000 configs, only 10–30 stable working ones survive
+Quality over quantity.
+
+🔄 Subscription lifecycle
+Updates every 6 hours
+
+Dead configs are removed
+
+Fresh working configs are added
+
+Currently working configs stay as long as they remain alive
+
+Subscription stability: at least 24 hours (often longer)
+
+📥 Subscription link
+Your subscription link goes here
+
+Format: VLESS (compatible with V2Ray, Nekoray, Shadowrocket, Clash, etc.)
+
+⭐ Если проект полезен — поставь звезду / If you find this useful — leave a star
+Это помогает проекту жить и развиваться.
+It helps the project grow and stay alive.
