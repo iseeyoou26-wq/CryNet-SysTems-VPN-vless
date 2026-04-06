@@ -1,10 +1,11 @@
 # 🚀 VLESS Подписки для Hiddify и других клиентов
 
 ## 📊 Статистика
-- **Всего конфигов:** 66
+- **Всего конфигов:** 94
 - **Количество подписок:** 1
 - **Размер каждой подписки:** 100 конфигов
-- **Последнее обновление:** 2026-04-06 23:00:39
+- **Архив конфигов:** 61 конфигов
+- **Последнее обновление:** 2026-04-07 02:50:41
 
 ## 🔗 Ссылки для подписки
 
@@ -15,6 +16,10 @@
 ### Подписки (Base64)
 
 - [Подписка #1 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1_base64.txt)
+
+### 📦 Архивная подписка (нерабочие/старые конфиги)
+- [Архив VLESS конфигов](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive.txt)
+- [Архив VLESS конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
 
 ### Полный список
 - [Все конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_all.txt)
