@@ -1,12 +1,12 @@
 # 🚀 VLESS Подписки для Hiddify и других клиентов
 
 ## 📊 Статистика
-- **Всего конфигов:** 1879
-- **Количество подписок:** 3
+- **Всего конфигов:** 802
+- **Количество подписок:** 2
 - **Размер каждой подписки:** 750 конфигов
 - **Архив конфигов:** 750 конфигов
-- **Reality конфигов:** 1394 конфигов
-- **Последнее обновление:** 2026-04-28 08:42:38
+- **Reality конфигов:** 589 конфигов
+- **Последнее обновление:** 2026-04-28 14:09:11
 
 ## 🔗 Ссылки для подписки
 
@@ -14,13 +14,11 @@
 
 - [Подписка #1](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1.txt)
 - [Подписка #2](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2.txt)
-- [Подписка #3](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_3.txt)
 
 ### Подписки (Base64)
 
 - [Подписка #1 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1_base64.txt)
 - [Подписка #2 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2_base64.txt)
-- [Подписка #3 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_3_base64.txt)
 
 ### 🚀 Reality Подписка (только VLESS Reality)
 - [Reality конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_reality.txt)
