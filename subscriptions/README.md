@@ -1,27 +1,32 @@
-# 🚀 VLESS Подписки для Hiddify и других клиентов
+# 🚀 Мульти-протокольные подписки (VLESS + SS + Trojan + VMess + Hysteria2)
 
 ## 📊 Статистика
 
-- **Всего конфигов:** 180
+- **Всего рабочих конфигов:** 141
 - **Количество подписок:** 3
 - **Размер каждой подписки:** 750 конфигов
-- **Архив конфигов:** 0 конфигов
-- **Reality конфигов:** 142 конфигов
+- **Архив конфигов:** 177 конфигов (все протоколы)
+- **Reality конфигов:** 125
 - **DNS для проверки:** Google (8.8.8.8), Яндекс (77.88.8.8), Cloudflare (1.1.1.1)
-- **Последнее обновление:** 2026-05-19 05:41:23
+- **Последнее обновление:** 2026-05-19 09:06:54
+
+## 📋 Распределение по протоколам
+
+- **VLESS:** 141
+
 
 ---
 
 ## 🔗 Ссылки для подписки
 
-### Подписки (обычные)
+### Подписки (обычные) - Все протоколы
 
 - [Подписка #1](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1.txt)
 - [Подписка #2](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2.txt)
 - [Подписка #3](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_3.txt)
 
 
-### Подписки (Base64)
+### Подписки (Base64) - Все протоколы
 
 - [Подписка #1 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1_base64.txt)
 - [Подписка #2 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2_base64.txt)
@@ -33,10 +38,10 @@
 - [Reality конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_reality.txt)
 - [Reality конфиги Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_reality_base64.txt)
 
-### 📦 Архивная подписка (нерабочие/старые конфиги)
+### 📦 Архивная подписка (все протоколы)
 
-- [Архив VLESS конфигов](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive.txt)
-- [Архив VLESS конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
+- [Архив конфигов](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive.txt)
+- [Архив конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
 
 ### Полный список
 
@@ -85,6 +90,7 @@
 - **Метод проверки:** Proxy GET через Xray с кастомными DNS
 - **DNS серверы:** Google DNS, Яндекс DNS, Cloudflare DNS
 - **Эмуляция LTE:** Включена
+- **Протоколы:** VLESS, Shadowsocks, Trojan, VMess, Hysteria2
 
 > ⚡ Автоматически обновляется каждый час
-> 📅 Последнее обновление: 2026-05-19 05:41:23
+> 📅 Последнее обновление: 2026-05-19 09:06:54
