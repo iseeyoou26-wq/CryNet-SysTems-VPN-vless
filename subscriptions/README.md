@@ -1,40 +1,26 @@
-# 🚀 Мульти-протокольные подписки (VLESS + SS + Trojan + VMess + Hysteria2)
+# 🚀 VLESS Подписки для Hiddify и других клиентов
 
 ## 📊 Статистика
 
-- **Всего рабочих конфигов в подписках:** 8479
+- **Всего конфигов:** 69
 - **Количество подписок:** 3
-- **Размер каждой подписки:** до 750 конфигов
-- **Архив конфигов:** 511 конфигов (все протоколы)
-- **Reality конфигов:** 3111
-- **Метод проверки:** TCP + HTTP (прямые запросы)
-- **DNS для проверки:** Google (8.8.8.8), Яндекс (77.88.8.8), Cloudflare (1.1.1.1)
-- **Последнее обновление:** 2026-05-19 13:43:25
-
-## 📋 Распределение по протоколам
-
-- **VLESS:** 8373 (без лимита)
-- **Shadowsocks:** 50 (лимит: 50)
-- **Trojan:** 50 (лимит: 50)
-- **VMess:** 0 (лимит: 50)
-- **Hysteria2:** 6 (лимит: 50)
-
-
-> **Примечание:** Для SS, Trojan, VMess и Hysteria2 установлен лимит в 50 конфигов каждого типа в подписках.
-> VLESS добавляется без ограничений.
+- **Размер каждой подписки:** 750 конфигов
+- **Архив конфигов:** 0 конфигов
+- **Reality конфигов:** 64 конфигов
+- **Последнее обновление:** 2026-05-19 18:14:09
 
 ---
 
 ## 🔗 Ссылки для подписки
 
-### Подписки (обычные) - Все протоколы
+### Подписки (обычные)
 
 - [Подписка #1](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1.txt)
 - [Подписка #2](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2.txt)
 - [Подписка #3](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_3.txt)
 
 
-### Подписки (Base64) - Все протоколы
+### Подписки (Base64)
 
 - [Подписка #1 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_1_base64.txt)
 - [Подписка #2 Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_sub_2_base64.txt)
@@ -46,10 +32,10 @@
 - [Reality конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_reality.txt)
 - [Reality конфиги Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_reality_base64.txt)
 
-### 📦 Архивная подписка (все протоколы)
+### 📦 Архивная подписка (нерабочие/старые конфиги)
 
-- [Архив конфигов](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive.txt)
-- [Архив конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
+- [Архив VLESS конфигов](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive.txt)
+- [Архив VLESS конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
 
 ### Полный список
 
@@ -93,13 +79,5 @@
 
 ---
 
-## 🔧 Техническая информация
-
-- **Метод проверки:** TCP + HTTP (прямые запросы к YouTube, Telegram API, Google)
-- **Лимиты в подписках:** SS/Trojan/VMess/HY2 ≤ 50 каждого
-- **DNS серверы:** Google DNS, Яндекс DNS, Cloudflare DNS
-- **Эмуляция LTE:** Включена
-- **Протоколы:** VLESS, Shadowsocks, Trojan, VMess, Hysteria2
-
 > ⚡ Автоматически обновляется каждый час
-> 📅 Последнее обновление: 2026-05-19 13:43:25
+> 📅 Последнее обновление: 2026-05-19 18:14:09
