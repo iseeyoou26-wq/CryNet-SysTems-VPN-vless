@@ -3,17 +3,19 @@
 ## 📊 Статистика
 
 ### VLESS
-- **Всего конфигов:** 100
+- **Всего конфигов:** 48
 - **Количество подписок:** 3
 - **Размер каждой подписки:** 750 конфигов
-- **Архив конфигов:** 66 конфигов
-- **Reality конфигов:** 64 конфигов
+- **Архив конфигов:** 163 конфигов
+- **Reality конфигов:** 38 конфигов
 
 ### Other (SS, Hysteria2, VMess, Trojan)
-- **Всего конфигов:** 2114
-- **Архив конфигов:** 160 конфигов
+- **Лучших конфигов каждого типа:** 100
+- **Всего конфигов в подписке:** 204
+- **Архив конфигов:** 419 конфигов
 
-- **Последнее обновление:** 2026-05-21 15:11:44
+
+- **Последнее обновление:** 2026-05-21 18:01:21
 
 ---
 
@@ -44,6 +46,9 @@
 - [Архив VLESS конфигов Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/vless_archive_base64.txt)
 
 ### 🔗 Other Подписка (SS, Hysteria2, VMess, Trojan - TCP проверка)
+
+> 📊 **100 лучших конфигов каждого типа (SS, Hysteria2, VMess, Trojan)**
+> Всего: 204 конфигов
 
 - [Other конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/other_all.txt)
 - [Other конфиги Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/other_all_base64.txt)
@@ -91,5 +96,5 @@
 ---
 
 > ⚡ Автоматически обновляется каждый час
-> 📅 Последнее обновление: 2026-05-21 15:11:44
+> 📅 Последнее обновление: 2026-05-21 18:01:21
 > 🔍 VLESS проверяется через Xray (HTTP GET), Other протоколы - TCP проверка
