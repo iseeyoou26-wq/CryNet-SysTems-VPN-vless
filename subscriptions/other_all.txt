@@ -1,110 +1,54 @@
 # OTHER ПОДПИСКА
 # Shadowsocks: 0 лучших
-# Hysteria2: 0 лучших
-# VMess: 1 лучших
-# Trojan: 100 лучших
-# Всего: 101
-# Обновлено: 2026-06-11 07:54:31
+# Hysteria2: 8 лучших
+# VMess: 0 лучших
+# Trojan: 37 лучших
+# Всего: 45
+# Обновлено: 2026-06-11 10:07:45
 # Проверка: TCP
 
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment
-trojan://74480619-b6a8-4ab8-94e1-1132fc18b2fa@185.18.250.252:443?security=tls&sni=unnes.ac.id.r3xxe.eu.cc&type=ws&path=/au-mt&Host=unnes.ac.id.r3xxe.eu.cc
-trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co
-trojan://e35026da-e985-49ca-b43b-276062a535a6@104.21.79.246:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes
-trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com
-trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051?security=tls&sni=v2vn01.fuqiangren.com
-trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443?security=tls&sni=tws23.kallepache.store&type=ws&path=/update&Host=tws23.kallepache.store
-trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan
-trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=namayesh.com
-trojan://f6a0a650-306e-11ee-b692-1239d0255272@51.158.146.183:443?security=tls&sni=Speedtest.net
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org
-trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir
-trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir
-trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=%252Fassignment&Host=www.calmloud.com
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.190.80:443?security=tls&sni=Koma-YT.PAGeS.Dev
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.53.200.89:8443?security=tls&sni=Koma-YT.PAGeS.Dev
+trojan://%23RO2PEf%7D%3Cw%27B@81.255.155.10:443?path=%2FeyJqdW5rIjoiNzJHc0NRZUV6QkkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=AhMfyq76HFG6Yl-759Lpj03f6luOEr2c.kELArdaSHtt.WoRKerS.Dev
+trojan://humanity@81.255.155.10:443?type=ws&headerType=none&security=tls&encryption=none&sni=www.creationlong.org&path=/assignment&insecure=0
+trojan://Aimer@167.68.4.199:2053?security=tls&sni=epge.muarua.filegear-sg.me&insecure=0&allowInsecure=0&type=ws&host=epge.muarua.filegear-sg.me&path=%2F
+trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com
 trojan://0ldyjdhd-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=android&type=tcp&headerType=none&path=/&allow_insecure=0
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click
-trojan://6e3b4240-38f9-4321-9b3c-bc669a34b848@141.94.76.177:443?security=tls
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=asriran.com
-trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls
 trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=/assignment
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053?security=tls&sni=vpn5.rnmcnm.com
-trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@series-v1.samanehha.co:443?security=tls&sni=series-v1.samanehha.co&type=ws&path=/43xf5zgeApzDAfhOHq&Host=series-v1.samanehha.co
-trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com
-trojan://humanity@185.231.112.217:40443?security=tls&sni=www.creationlong.org&type=ws&sni=www.creationlong.org&path=/assignment&fp=chrome
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd
-trojan://ee2bccd3-0f30-42d4-86d6-3d393ad230bd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@194.33.45.157:443?security=tls
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45553?security=tls&sni=ch.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=15.204.210.176
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:48697?security=tls&sni=gh.01.naiun.bilibili.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
-trojan://800eb26c-cd0c-4269-aae7-e63d75de4edd@135.148.148.4:80?security=tls&sni=us3.trojanvh.xyz
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
-trojan://HdsUZmsHQW@148.113.141.99:443?security=tls
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.43:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls
-trojan://AZWY=WAZk5TeVYmMUudr2xmeb00I3ymeMQ@23.227.193.173:443?security=tls
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:48697?security=tls&sni=gh.01.naiun.bilibili.com
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:45619?security=tls&sni=fr.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:46424?security=tls&sni=de.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:48697?security=tls&sni=gh.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:46424?security=tls&sni=de.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:46424?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=de.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:41943?security=tls&sni=az.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45619?security=tls&sni=fr.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.82:47909?security=tls&sni=is.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:46424?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=de.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45553?security=tls&sni=ch.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:48697?security=tls&sni=gh.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:47909?security=tls&sni=is.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?security=tls&sni=fr.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.3:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?security=tls&sni=gh.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?security=tls&sni=ch.01.naiun.bilibili.com
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.3:47909?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=is.01.naiun.bilibili.com
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:45619?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=fr.01.naiun.bilibili.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.84:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.3:47909?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=is.01.naiun.bilibili.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45619?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=fr.01.naiun.bilibili.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.3:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk01.jgpy.help:10085/?insecure=1&sni=apple.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.95:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909/?type=tcp&security=tls&sni=is.01.naiun.bilibili.com&allowInsecure=1
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlIHwg8J+MkCB8IFtCTF0iLCJhZGQiOiJzZ3AtbmYtMS5ha2lqcC5jbG91ZCIsInBvcnQiOiIzMTAwMCIsImlkIjoiNDk0YzQxOWYtY2U0ZS00MzRkLWI1MTgtOWNkMGFhY2M5M2I2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoidi5xcS5jb20iLCJwYXRoIjoiL2ltYWdlcyIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk03.jgpy.help:10089/?insecure=1&sni=apple.com
+hysteria2://80deaf6e-6747-35f1-848e-b8e8aeb8b2fa@s544.ccgfw.online:443?sni=u727887us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@jp01.jgpy.help:10086?insecure=1&sni=apple.com
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@us01.jgpy.help:10078?insecure=1&sni=apple.com
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@jp01.jgpy.help:10086?sni=apple.com&insecure=1&allowInsecure=1
+trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment
+trojan://0ldyjdhd-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&fp=android&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:46424/?type=tcp&security=tls&sni=de.01.naiun.bilibili.com&allowInsecure=1
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk01.jgpy.help:10085?sni=apple.com&insecure=1&allowInsecure=1
+hysteria2://573402b7-156e-4141-8c3b-f01b6ebedf05@hk03.jgpy.help:10089?sni=apple.com&insecure=1&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943/?type=tcp&security=tls&sni=az.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.85:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.94:45619?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=fr.01.naiun.bilibili.com
