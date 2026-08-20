@@ -4,7 +4,7 @@
 # VMess: 1
 # Trojan: 443
 # Всего: 550
-# Обновлено: 2026-08-20 17:51:25
+# Обновлено: 2026-08-20 17:54:30
 # Проверка: TCP
 
 trojan://humanity@91.193.58.147:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com
