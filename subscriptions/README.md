@@ -11,10 +11,10 @@
 
 ### Other (SS, Hysteria2, VMess, Trojan)
 - **Лучших конфигов каждого типа:** 100
-- **Всего конфигов в подписке:** 217
+- **Всего конфигов в подписке:** 224
 - **Архив конфигов:** 0 конфигов
 
-- **Последнее обновление:** 2026-08-20 16:01:10
+- **Последнее обновление:** 2026-08-20 16:01:53
 
 ---
 
@@ -47,7 +47,7 @@
 ### 🔗 Other Подписка (SS, Hysteria2, VMess, Trojan - TCP проверка)
 
 > 📊 **100 лучших конфигов каждого типа (SS, Hysteria2, VMess, Trojan)**
-> Всего: 217 конфигов
+> Всего: 224 конфигов
 
 - [Other конфиги](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/other_all.txt)
 - [Other конфиги Base64](https://raw.githubusercontent.com/iseeyoou26-wq/CryNet-SysTems-VPN-vless/main/subscriptions/other_all_base64.txt)
@@ -95,5 +95,5 @@
 ---
 
 > ⚡ Автоматически обновляется каждый час
-> 📅 Последнее обновление: 2026-08-20 16:01:10
+> 📅 Последнее обновление: 2026-08-20 16:01:53
 > 🔍 VLESS проверяется через Xray (HTTP GET), Other протоколы - TCP проверка
