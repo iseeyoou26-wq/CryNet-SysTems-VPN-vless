@@ -1,6 +1,6 @@
 # VLESS Подписка #1
 # Всего: 17
-# Обновлено: 2026-08-20 17:04:56
+# Обновлено: 2026-08-20 17:06:06
 
 vless://fd6895d9-3ed1-4be4-8999-949c16a827fe@security.safeeclipse.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=security.safeeclipse.ru&pbk=D4SFTWC1S7rgHTrgxdrcdZXIrmzyTQioURVSVXckiCQ&sid=44db0221f6beeadd&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
 vless://fd6895d9-3ed1-4be4-8999-949c16a827fe@security.safeeclipse.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=security.safeeclipse.ru&pbk=D4SFTWC1S7rgHTrgxdrcdZXIrmzyTQioURVSVXckiCQ&sid=ef96e48b7fa27aef&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
