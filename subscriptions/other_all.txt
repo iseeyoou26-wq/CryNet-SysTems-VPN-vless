@@ -1,10 +1,10 @@
 # OTHER ПОДПИСКА
 # Shadowsocks: 101
-# Hysteria2: 5
+# Hysteria2: 6
 # VMess: 1
 # Trojan: 442
 # Всего: 577
-# Обновлено: 2026-08-20 17:22:04
+# Обновлено: 2026-08-20 17:27:04
 # Проверка: TCP
 
 trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com
@@ -205,6 +205,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080
+hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?security=tls&insecure=1&sni=ru-i-2.monkeyisland.xyz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080
@@ -558,7 +559,6 @@ trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls
 trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=android
-hysteria2://921db318-1694-4408-9cc7-c93df39f7f8e@ru-i-2.monkeyisland.xyz:443?security=tls&insecure=1&sni=ru-i-2.monkeyisland.xyz
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?sni=olp.crsmaps.com&insecure=0&allowInsecure=0
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=chrome
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=2-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=qq
