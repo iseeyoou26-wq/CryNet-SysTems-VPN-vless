@@ -4,7 +4,7 @@
 # VMess: 0
 # Trojan: 440
 # Всего: 563
-# Обновлено: 2026-08-20 16:08:39
+# Обновлено: 2026-08-20 16:10:40
 # Проверка: TCP
 
 trojan://humanity@198.62.62.23:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com
@@ -215,7 +215,6 @@ trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com
 trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?sni=olp.crsmaps.com&insecure=0&allowInsecure=0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080
 trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com
 trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz
@@ -282,6 +281,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?security=tls&sn
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@69.63.212.210:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553?security=tls&sni=ch.01.naiun.bilibili.com
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@207.246.97.245:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
+hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?sni=olp.crsmaps.com&insecure=0&allowInsecure=0
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.76.169.250:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:45619?security=tls&sni=fr.01.naiun.bilibili.com
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.91:47909?security=tls&sni=is.01.naiun.bilibili.com
@@ -306,9 +306,7 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:48697?security=tls&s
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@149.248.7.25:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@153.121.76.150:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?sni=kz.frkn.org
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@66.42.51.60:8443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?insecure=false&up-mbps=0
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?security=tls&sni=az.01.naiun.bilibili.com
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?security=tls&sni=az.01.naiun.bilibili.com
@@ -344,9 +342,12 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@150.230.249.88:443?security=tls&sn
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@160.16.59.9:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@153.121.32.71:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443
+hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@ni.cryptoofarm.com:443?security=tls&fm=%7B%7D&sni=ni.cryptoofarm.com&fp=firefox
 trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443?security=tls&sni=hkt.iamnotagoodman.com
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@43.170.8.95:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?sni=kz.frkn.org
+hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@kz.frkn.org:443?insecure=false&up-mbps=0
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.254.197:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.110.70.64:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com
@@ -395,7 +396,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443
 trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos
 trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls
 trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls
-hysteria2://ef18d810-719c-4bf1-83c6-615d01f217eb@ni.cryptoofarm.com:443?security=tls&fm=%7B%7D&sni=ni.cryptoofarm.com&fp=firefox
 trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos
