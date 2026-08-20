@@ -1,10 +1,10 @@
 # OTHER ПОДПИСКА
 # Shadowsocks: 102
-# Hysteria2: 5
+# Hysteria2: 6
 # VMess: 1
 # Trojan: 444
-# Всего: 552
-# Обновлено: 2026-08-20 18:02:58
+# Всего: 553
+# Обновлено: 2026-08-20 18:04:43
 # Проверка: TCP
 
 trojan://humanity@91.193.58.147:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com
@@ -207,6 +207,7 @@ trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com
+hysteria2://5ca83936-136d-4314-8453-4ba10a86cf60@217.150.197.54:8443/?sni=quic.tyr-agentstvo.tech
 trojan://humanity@104.18.152.152:443?security=tls&sni=www.ignitelimit.com
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com
