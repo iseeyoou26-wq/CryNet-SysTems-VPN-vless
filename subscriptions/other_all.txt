@@ -1,14 +1,15 @@
 # OTHER ПОДПИСКА
 # Shadowsocks: 103
 # Hysteria2: 10
-# VMess: 34
-# Trojan: 486
-# Всего: 633
-# Обновлено: 2026-08-20 19:44:04
+# VMess: 36
+# Trojan: 490
+# Всего: 639
+# Обновлено: 2026-08-20 19:45:46
 # Проверка: TCP
 
 trojan://humanity@91.193.58.147:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.183:8443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com
 trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com
 trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com
 trojan://humanity@91.193.58.77:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com
@@ -63,6 +64,7 @@ trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com
 trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fg-b%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=3-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=google.com&alpn=http%2F1.1&insecure=1&allowInsecure=1&fp=firefox
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443
+vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInYycmF5MS5kb3phcHAueHl6IiwgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIkdlbmVyYXRpb24tTGliZXJ0eSB8IPCfh6jwn4emIENhbmFkYSIsICJzY3kiOiAibm9uZSIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 trojan://humanity@104.16.174.36:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com
 trojan://humanity@104.16.174.124:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com
 trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com
@@ -261,6 +263,7 @@ trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls
 trojan://65c56e1f-5c41-40bc-b0b5-9346772476ca@cf.130209.xyz:2053?security=tls
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@82.40.42.119:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&type=ws
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.188.213.207:443
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.191.198.248:443
 trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com
@@ -306,6 +309,7 @@ hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?security=tls&sni=gh.01.naiun.bilibili.com
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?security=tls&sni=az.01.naiun.bilibili.com
 trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@207.126.167.150:443?security=tls&sni=207.126.167.150
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:45553?security=tls&sni=ch.01.naiun.bilibili.com
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553?security=tls&sni=ch.01.naiun.bilibili.com
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@us3.techdatacloud.org:8443?type=tcp&security=reality&pbk=rX_EsbUNJAUJH4HUKyqAzxQx-4zoDj3vhmXj6q2tazQ&fp=firefox&sni=cloud.mail.ru&sid=7df51a98b9d98a7a&spx=%2F
@@ -325,6 +329,7 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?security=tls&sni
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@96.126.130.217:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.24.94.127:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com
 trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls
 trojan://a196faa4-403e-4a8b-987a-d1789f379685@139.162.100.58:49755?security=tls
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@139.59.224.185:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd
@@ -428,6 +433,7 @@ trojan://AE62539071@18.183.182.132:443?security=tls&sni=exciting-grizzly.rooster
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&insecure=0&allowInsecure=0&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJcdUQ4M0NcdURERjlcdUQ4M0NcdURERUQg0KLQsNC40LvQsNC90LQgfCBWTUVTUyBXUyBbZXhwXSIsCiAgImFkZCI6ICJ3d3cudHJ1ZS50aCIsCiAgInBvcnQiOiAiODAiLAogICJpZCI6ICJhMTUwZDU1NC1lOTYyLTQ2MzItODI5Zi1lZTU4M2FkYTNmOTUiLAogICJhaWQiOiAiMCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwKICAicGF0aCI6ICIvaHR1biIsCiAgInRscyI6ICIiLAogICJzbmkiOiAiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaW5zZWN1cmUiOiAiMCIKfQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VuZXJhdGlvbi1MaWJlcnR5IHwg8J+HrfCfh7AgSG9uZyBLb25nIiwgImFkZCI6ICJ2MzAuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MzAiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidjMwLmhkYWNkLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 trojan://AE62539071@intense-wildcat.rooster465.autos:443?security=tls&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@cnamemc1.cdncisco4.co:443?security=tls&sni=c1mc.cdncisco4.co&type=ws&path=/422Kdfwzf49IxeZJa&Host=c1mc.cdncisco4.co
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls
