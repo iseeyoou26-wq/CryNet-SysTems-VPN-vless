@@ -1,6 +1,6 @@
 # VLESS REALITY
 # Всего: 5
-# Обновлено: 2026-08-20 20:19:55
+# Обновлено: 2026-08-20 20:27:37
 
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.123:8443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=&type=tcp&sni=s1.test.anti-zapret.com&sid=58fbcddfaae3ade9&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
