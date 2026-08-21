@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 16
-# Обновлено: 2026-08-21 18:04:51
+# Обновлено: 2026-08-21 18:07:24
 
 vless://9e27f64b-7ae9-461b-b4c4-99696276633b@ru.scaleservice.xyz:443?type=tcp&security=reality&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
