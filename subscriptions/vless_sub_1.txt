@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 12
-# Обновлено: 2026-08-21 17:36:00
+# Обновлено: 2026-08-21 17:37:12
 
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central%20LA%29%20%7C%20%5BBL%5D
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central%20LA%29%20%7C%20%5BBL%5D
