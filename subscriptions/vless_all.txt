@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 104
-# Обновлено: 2026-08-21 05:42:25
+# Обновлено: 2026-08-21 05:45:32
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 vless://78eb4455-0d07-3138-93e3-7c8654f11d74@80.66.65.30:8444?encryption=none&flow=xtls-rprx-vision&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=cdn.byteark.com&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23326
