@@ -1,11 +1,13 @@
 # Подписка #1
-# Всего: 14
-# Обновлено: 2026-08-21 17:57:36
+# Всего: 16
+# Обновлено: 2026-08-21 17:58:11
 
 vless://9e27f64b-7ae9-461b-b4c4-99696276633b@ru.scaleservice.xyz:443?type=tcp&security=reality&sni=storage.yandexcloud.net&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?security=tls&sni=vip-sg-1.hkd4fwmg.vip&fp=android
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central%20LA%29%20%7C%20%5BBL%5D
 vless://d0af05d4-d1f0-491e-a143-1def35ad6438@vip-us-6.hkd4fwmg.xyz:38609?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-us-6.hkd4fwmg.xyz&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central%20LA%29%20%7C%20%5BBL%5D
+trojan://Edk07MJ3Xqg5cl1j5519zqwX2f2EFjON@vip-sg-1.hkd4fwmg.vip:21802?security=tls&sni=vip-sg-1.hkd4fwmg.vip&fp=chrome
 vless://afa92127-9235-4f03-9663-5eaef3f3d7bb@72.56.8.87:443?encryption=none&type=tcp&security=reality&sni=www.bing.com&flow=xtls-rprx-vision&pbk=jqvmkS71kRIg4vycIPj0vNlb_COI6K8hILmNwHp-xj4&sid=cdb849205ccb59b0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://6419b6a6-87a1-4822-86a3-c5c391f80674@vip-ca-1.hkd4fwmg.xyz:44547?encryption=none&flow=xtls-rprx-vision&security=tls&sni=vip-ca-1.hkd4fwmg.xyz&type=tcp&allowInsecure=0&insecure=0&fp=android#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20C%C3%B4te-Saint-Luc%20%7C%20%5BBL%5D
 vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:6897?flow=xtls-rprx-vision&pbk=X2thmYgL8pXZBmFxMOPo3oIYAga5CTMEd-YMcJHk4Es&security=reality&sid=54efd54cf3e7&sni=docs.aws.amazon.com&fp=chrome#%F0%9F%87%B2%F0%9F%87%B4%20Macao%2C%20Macao%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
