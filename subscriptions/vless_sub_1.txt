@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 25
-# Обновлено: 2026-08-21 11:08:52
+# Всего: 27
+# Обновлено: 2026-08-21 12:45:33
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080
@@ -14,6 +14,7 @@ vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&fl
 vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.ray-balance.space&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&type=tcp&headerType=none&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
 vless://8e85752d-c04f-427d-9d70-b10d144c8492@153.76.204.2:443?type=tcp&headerType=none&security=reality&encryption=none&sni=nl.dataroute.biz&fp=firefox&pbk=9kQGK7IuVFWU9xCb4g9ygL1CEv87QmVZJzWLz74pTSc&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Ashburn%20%7C%20%5BBL%5D
 vless://710fc22f-06b2-03f6-bb3e-f57c17b670a6@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
+vless://6419b6a6-87a1-4822-86a3-c5c391f80674@vip-ca-1.hkd4fwmg.xyz:44547?flow=xtls-rprx-vision&security=tls&sni=vip-ca-1.hkd4fwmg.xyz#%F0%9F%87%A8%F0%9F%87%A6%20%5BVL%5D%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%231129%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://8e85752d-c04f-427d-9d70-b10d144c8492@191.101.239.23:443?type=tcp&headerType=none&security=reality&encryption=none&sni=us.dataroute.biz&fp=firefox&pbk=Wj3z-pELBGqNcsJXAB8cd0SYd-t1r2C8iBPupqVEDjs&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 trojan://fg20mtCFHy@47.86.107.20:5443?type=tcp&security=tls&encryption=none&fp=chrome&sni=hytfes.southbyte.xyz
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.247.156:443?encryption=none&flow=xtls-rprx-vision&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&security=reality&sid=dd3ff38418d29d22&sni=eu-west.cendora.ru&type=tcp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
@@ -27,3 +28,4 @@ vless://8e85752d-c04f-427d-9d70-b10d144c8492@13.143.130.158:443?type=tcp&headerT
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://9e94beb2-de41-40f6-bd26-37602fa74e22@189.74.106.67:443?encryption=none&flow=xtls-rprx-vision&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://22419260-5475-49d8-a29c-01905c54d1b8@31.76.246.61:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=v.gb-cdn.ru&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&sid=7a3f9e2b1c8d4f6a&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://8e85752d-c04f-427d-9d70-b10d144c8492@95.85.245.74:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee.horizonless.pro&fp=firefox&pbk=-lsoQLILEqZmMozOGX7Az7Isgoivd7q6XWxqila-XVc&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20%5BVL%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%2312921%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
