@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 536
+# Всего: 538
 
+vless://0554c552-da2c-4b65-9e3f-f42afdd4a484@95.154.221.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&sid=42171a632f3b99ed&sni=strapi.io&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
+vless://0554c552-da2c-4b65-9e3f-f42afdd4a484@95.154.221.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&sid=42171a632f3b99ed&sni=strapi.io#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=rub01.nwncd.com&serviceName=mygrpc&fp=safari
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=rub01.nwncd.com&serviceName=mygrpc&fp=android
 trojan://654df5c6-73ac-3b11-8269-6b21fb8d9dad@rub01.nwncd.com:489?allowInsecure=1&insecure=1&type=grpc&security=tls&sni=rub01.nwncd.com&serviceName=mygrpc&fp=chrome
