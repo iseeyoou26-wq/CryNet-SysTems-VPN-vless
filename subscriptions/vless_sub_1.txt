@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 7
-# Обновлено: 2026-08-22 12:18:58
+# Обновлено: 2026-08-22 12:21:56
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388
