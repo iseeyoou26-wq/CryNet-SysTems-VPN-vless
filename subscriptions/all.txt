@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 3
-# Обновлено: 2026-08-22 10:05:59
+# Обновлено: 2026-08-22 10:06:55
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@194.48.250.172:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&encryption=none&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@194.48.250.172:443?type=tcp&security=reality&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&fp=qq&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
