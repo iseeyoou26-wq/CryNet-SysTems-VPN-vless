@@ -1,6 +1,12 @@
 # АРХИВ
-# Всего: 447
+# Всего: 453
 
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@185.43.5.104:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&sni=google.com&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://2b6c15f0-6dee-4ad7-9664-f87ea420fc07@45.150.9.191:8093?encryption=none&security=reality&sni=travel.yandex.ru&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://663836b2-f676-43fb-977f-47c495b1b383@yt.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&encryption=none&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
 vless://663836b2-f676-43fb-977f-47c495b1b383@yt.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&encryption=none&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@200.165.232.177:443?encryption=none&host=ya.ru&path=%2Fweb%2Fcdn%2Fv2%2Fassets&pbk=2P7D_IkxXWre3YziEe2tkF9L_gUbdZE_WCu9_SQq4hE&security=reality&sid=2b5b1ffa8a6a1a68&sni=ya.ru&type=xhttp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5BSNI-RU%5D%20ya.ru
