@@ -1,6 +1,12 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 2
-# Обновлено: 2026-08-22 19:00:09
+# Всего: 8
+# Обновлено: 2026-08-22 19:01:05
 
 vless://2b6c15f0-6dee-4ad7-9664-f87ea420fc07@45.150.9.191:8093?encryption=none&security=reality&sni=travel.yandex.ru&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=firefox
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=ios
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=edge
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
 vless://b2461860-fe74-4c7a-898c-07db5554394a@89.19.223.252:8443?encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
