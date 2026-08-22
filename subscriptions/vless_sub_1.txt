@@ -1,15 +1,18 @@
 # Подписка #1
-# Всего: 29
-# Обновлено: 2026-08-22 19:08:49
+# Всего: 33
+# Обновлено: 2026-08-22 19:26:44
 
 vless://663836b2-f676-43fb-977f-47c495b1b383@yt.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
 vless://663836b2-f676-43fb-977f-47c495b1b383@yt.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 vless://663836b2-f676-43fb-977f-47c495b1b383@yt.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&sid=d484643ca8396614&encryption=none&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080
 vless://663836b2-f676-43fb-977f-47c495b1b383@pl2.chick-team.ru:443?type=tcp&security=reality&sni=st.ozone.ru&pbk=rgVwK1tNuKMOuTY2ZLXoV511cXPO-L8mXTq0jhG5_WU&sid=3476d0c6139ad353&encryption=none&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20st.ozone.ru
 vless://2b6c15f0-6dee-4ad7-9664-f87ea420fc07@45.150.9.191:8093?encryption=none&security=reality&sni=travel.yandex.ru&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@31.76.39.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=ukk.milas.click&fp=ios#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@31.76.39.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=ukk.milas.click&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@138.124.100.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=estonia.milas.click&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@31.76.39.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=ukk.milas.click&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@kuzya.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kuzya.api.dznn.net&sid=19aa22f681923dc8&fp=safari#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
 vless://0ab6b3f5-65f0-4a80-9672-6a311fab1187@us.ultraspeed.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WdQ6Bx39POGXpoEpeUeROr1RKv3FtchyVeXwkOii7nc&sid=f74998a7a304f6cd&sni=us.ultraspeed.top&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -26,6 +29,7 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&
 vless://6ed91f07-89b1-4819-b0d8-64393339dca4@itproxy2.lockdwn.com:443?type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@31.76.39.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=ukk.milas.click&fp=qq#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://0ab6b3f5-65f0-4a80-9672-6a311fab1187@us.ultraspeed.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WdQ6Bx39POGXpoEpeUeROr1RKv3FtchyVeXwkOii7nc&sid=f74998a7a304f6cd&sni=us.ultraspeed.top&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099
 vless://8a291364-b469-4276-a1f2-24ae4080dc61@31.76.39.158:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&sni=ukk.milas.click&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@kuzya.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kuzya.api.dznn.net&sid=19aa22f681923dc8&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
 vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@kuzya.api.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=kuzya.api.dznn.net&sid=19aa22f681923dc8&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
