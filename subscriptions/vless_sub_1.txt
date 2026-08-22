@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 48
-# Обновлено: 2026-08-22 07:01:44
+# Обновлено: 2026-08-22 07:02:24
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080
@@ -37,7 +37,7 @@ vless://366ae9eb-56b6-4ce7-a7c2-ab0e1f4ecf5c@vip-sg-2.hkd4fwmg.vip:42110?flow=xt
 vless://366ae9eb-56b6-4ce7-a7c2-ab0e1f4ecf5c@vip-sg-2.hkd4fwmg.vip:42110?security=tls&type=tcp&packetEncoding=xudp&sni=vip-sg-2.hkd4fwmg.vip&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%5BBL%5D
 vless://366ae9eb-56b6-4ce7-a7c2-ab0e1f4ecf5c@vip-sg-2.hkd4fwmg.vip:42110?flow=xtls-rprx-vision&security=tls&sni=vip-sg-2.hkd4fwmg.vip&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
-trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=firefox
+trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome
 vless://20df893e-dcf4-491d-8261-6dbb24f9566b@85.209.157.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bO6oE5j-3-ONc3nqNsicX1hs6UhmrNLS5g_aMIRDUEc&security=reality&sni=732.stream-host.site&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://6afc3dfb-c3d7-4e63-94a8-067ca5525e0b@146.75.119.82:80?path=ws/?ed=2048/@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR----@SPIDDY_IR/?2048&security=none&encryption=none&host=rb24.ir&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9aed98d0-303a-4479-91b7-75c2f59bd4bd@85.198.70.200:14405?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
@@ -45,7 +45,7 @@ vless://9aed98d0-303a-4479-91b7-75c2f59bd4bd@85.198.70.200:14405?security=realit
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.cloudflare.com&fp=edge&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&sid=face912fc5a49158#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Naaldwijk%20%7C%20%5BBL%5D
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=firefox&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&spx=/&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de137.mechvpn.online:443?type=tcp&headerType=none&security=tls&encryption=none&sni=de137.mechvpn.online&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=chrome
+trojan://fg20mtCFHy@172.237.3.17:5443/?type=tcp&security=tls&sni=www.bing.com&allowInsecure=1&fp=firefox
 vless://0554c552-da2c-4b65-9e3f-f42afdd4a484@95.154.221.155:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=tPyAWkalFM4yi9lYY0zLDRxQyfSwPDwiexAy9QOjrWI&sid=42171a632f3b99ed&sni=strapi.io#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de137.mechvpn.online:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=de137.mechvpn.online&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de137.mechvpn.online:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=de137.mechvpn.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
