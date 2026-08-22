@@ -1,0 +1,6 @@
+# Подписка #1
+# Всего: 2
+# Обновлено: 2026-08-22 18:59:58
+
+vless://2b6c15f0-6dee-4ad7-9664-f87ea420fc07@45.150.9.191:8093?encryption=none&security=reality&sni=travel.yandex.ru&pbk=kmLlM6u12bptp7icPOL3fkUJucwvYTRVMkXz2AGAN2A&sid=ca6703afd42cadcd&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://b2461860-fe74-4c7a-898c-07db5554394a@89.19.223.252:8443?encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
