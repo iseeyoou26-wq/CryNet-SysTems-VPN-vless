@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 234
-# Обновлено: 2026-08-23 07:41:52
+# Обновлено: 2026-08-23 07:42:49
 
 vless://419f25c1-bc35-412e-93fb-258efee859b5@81.31.210.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XOcyZvF63CHDPnh3UCL-u-X8HYeNGiRtrwDVRLBC1DI&security=reality&sid=f41bc0b00ca1a978&sni=nl3.murhost.network&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.70:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=cdnjs.com&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
@@ -198,31 +198,31 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443
 vless://5501e565-b13f-4a08-8b91-b672fc9ae03f@144.34.164.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bYUe-1eIsfsv63FLWIbF4PxT0hXCexkmlnn-UQu8ayM&security=reality&sid=463fc8b9297ac011&sni=www.bing.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 vless://5501e565-b13f-4a08-8b91-b672fc9ae03f@144.34.164.102:443?security=reality&type=tcp&sni=www.bing.com&flow=xtls-rprx-vision&sid=463fc8b9297ac011&pbk=bYUe-1eIsfsv63FLWIbF4PxT0hXCexkmlnn-UQu8ayM&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=edge
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=qq
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=firefox
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=android
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=firefox
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443
-vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?encryption=none&flow=xtls-rprx-vision&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
+vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?encryption=none&flow=xtls-rprx-vision&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=ios
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=safari
 vless://5501e565-b13f-4a08-8b91-b672fc9ae03f@144.34.164.102:443?security=reality&type=tcp&sni=www.bing.com&flow=xtls-rprx-vision&sid=463fc8b9297ac011&pbk=bYUe-1eIsfsv63FLWIbF4PxT0hXCexkmlnn-UQu8ayM&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?encryption=none&flow=xtls-rprx-vision&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=edge
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@est3.freeinternat.com:443?security=reality&type=tcp&sni=est3.freeinternat.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://0f6a3565-44e6-46ec-a562-a6c73bf6b685@178.250.157.206:443?encryption=none&flow=xtls-rprx-vision&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&security=reality&sid=c9e5505275320b51&sni=dunlix.norvexa.online&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?encryption=none&flow=xtls-rprx-vision&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&security=reality&sid=a1b2&sni=learn.microsoft.com&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=qq
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=safari
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388
 vless://4a680c6d-10b6-44ec-afbd-e2621760e347@23.172.40.60:443?type=tcp&security=reality&sni=learn.microsoft.com&fp=chrome&pbk=C7nhExS9e3_WQIDfYrGaG6ycw2jlrfSh3b-nf8eikSI&sid=a1b2&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=ios
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&sni=deepl.com&type=tcp&host=Leviko_v2ray&fp=qq&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@72.56.236.77:443?encryption=none&flow=xtls-rprx-vision&pbk=6gz_3tpT8L9jwst8r9r-FRdekpGNobE6AVDMjQaRvlo&security=reality&sid=b44f10d2fc37a45a&sni=r.windconnect.pro&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%5B%2ACIDR%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319
@@ -232,7 +232,7 @@ vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.5.kfc-520.com:10007?s
 vless://b886e85b-f6bc-4019-9781-b35bd46f3b5d@109.169.76.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JZ6o_q7-OSJ87w9kTrcn9I4UiMVZdPUnjXoRs4TbLzE&security=reality&sid=61811b12a62fb2a4&sni=slashdot.org&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
 vless://7aecb4a5-f0a4-32a0-aabe-c9d5241e313f@family.bucket.5.kfc-520.com:10007?&security=reality&flow=xtls-rprx-vision&pbk=uMDcH_hT82rYMOiaYGGPJ5Aa9hk9Sdo2svtRIHBSBFo&sid=61e4433c2b25da&fp=firefox&sni=www.amd.com&type=tcp&headerType=none&host=www.amd.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 vless://663836b2-f676-43fb-977f-47c495b1b383@109.73.206.180:443?encryption=none&flow=xtls-rprx-vision&pbk=6J829WZ6hhEtCmz8CfBBBP69ikMDlYPF2Lumyel6XTI&security=reality&sid=d484643ca8396614&sni=st.ozone.ru&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwidmNuIjoiIn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwidmNuIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20%5BBL%5D
