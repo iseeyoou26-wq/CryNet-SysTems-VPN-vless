@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 157
-# Обновлено: 2026-08-23 05:47:24
+# Всего: 175
+# Обновлено: 2026-08-23 05:54:14
 
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-15.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-15.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=88d9dc52ef39c8bd&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-14.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-14.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=3bfc752d8f882e89&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
@@ -14,6 +14,7 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@93.123.101.78:443?encryption=none&f
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa1.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lapa1.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://10f05197-7cea-4f3b-89f1-1f3b7028ea70@94.183.255.150:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&security=reality&sid=1e623c6d7f4d01eb&sni=nl1.panel11.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@217.179.220.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=ang.freeinternat.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Slough%20%7C%20%5BBL%5D
+trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa2.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lapa2.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-04.usp-vpn.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-04.usp-vpn.store&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=99dfcb9d097445d0&spiderX=%2F#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%2C%20Ljubljana%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-01.usp-vpn.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-01.usp-vpn.store&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=5d08d7c6e0132d2d&spiderX=%2F#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%2C%20Ljubljana%20%7C%20%5BBL%5D
@@ -29,26 +30,35 @@ vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-21.optmarketshali.ru:443?encry
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-10.usp-vpn.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-10.usp-vpn.store&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=f5f8e70c4b6ee811&spiderX=%2F#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%2C%20Ljubljana%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-22.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-22.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=5d08d7c6e0132d2d&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://1a2edf79-257e-44c1-b17f-7299f04ce557@138.124.104.136:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol.pinkmoon.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28Mokot%C3%B3w%29%20%7C%20%5BBL%5D
+trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos
 vless://1a2edf79-257e-44c1-b17f-7299f04ce557@pol.pinkmoon.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pol.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28Mokot%C3%B3w%29%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%2C%20Tehr%C4%81n%20%7C%20%5BBL%5D
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@lapa10.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=lapa10.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-17.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-17.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=79dfcb9d067445d0&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://FH72359861@magnetic-caiman.rooster465.autos:443?security=tls&sni=magnetic-caiman.rooster465.autos
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org
 vless://1a2edf79-257e-44c1-b17f-7299f04ce557@pol.pinkmoon.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pol.pinkmoon.pro&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&flow=xtls-rprx-vision&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-07.usp-vpn.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-07.usp-vpn.store&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=cb979b63f8325904&spiderX=%2F#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%2C%20Ljubljana%20%7C%20%5BBL%5D
 vless://1a2edf79-257e-44c1-b17f-7299f04ce557@138.124.104.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=pol.pinkmoon.pro&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28Mokot%C3%B3w%29%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-05.usp-vpn.store:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-05.usp-vpn.store&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=5d08d7c6e0132d2d&spiderX=%2F#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%2C%20Ljubljana%20%7C%20%5BBL%5D
+trojan://AE62539071@thorough-falcon.rooster465.autos:443?security=tls
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s3.storage.anti-zapret.com:443?encryption=none&security=reality&sni=s3.storage.anti-zapret.com&fp=edge&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s3.storage.anti-zapret.com:443?encryption=none&security=reality&sni=s3.storage.anti-zapret.com&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.43:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%2C%20Tehr%C4%81n%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@s3.storage.anti-zapret.com:443?encryption=none&security=reality&sni=s3.storage.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-25.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-25.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=f0cf473295b5632d&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.36.142.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=est2.freeinternat.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@restore.anti-zapret.com:443?encryption=none&security=reality&sni=restore.anti-zapret.com&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%2C%20Tehr%C4%81n%20%7C%20%5BBL%5D
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@91.239.6.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban2.freeinternat.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.43:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@est3.freeinternat.com:443?security=reality&type=tcp&sni=est3.freeinternat.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&encryption=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@91.239.6.19:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=alban2.freeinternat.com&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@83.168.111.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=pol4.freeinternat.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Wroclaw%20%7C%20%5BBL%5D
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@138.249.242.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=ukri.freeinternat.com&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
@@ -60,6 +70,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080
+trojan://AE62539071@enough-basilisk.rooster465.autos:443?security=tls&sni=enough-basilisk.rooster465.autos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388
@@ -110,6 +121,7 @@ vless://10f05197-7cea-4f3b-89f1-1f3b7028ea70@nl1.panel11.ru:443?security=reality
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@88.119.176.50:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=lit3.freeinternat.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 vless://ac7fb60f-0b7a-465d-a002-05160ec04ed6@wok1.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=wok1.api3-max.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Ba%C5%9Fak%C5%9Fehir%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443
@@ -124,6 +136,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@194.238.42.191:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=kz.freeinternat.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001
@@ -143,17 +156,22 @@ trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=ios
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=android
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?security=tls&sni=www.microsoft.com
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443
+trojan://ND91608427@ace-starling.rooster465.autos:443?security=tls&sni=ace-starling.rooster465.autos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233
+trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319
+trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls&sni=magical-kodiak.rooster465.autos
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443
+trojan://AE62539071@together-dingo.rooster465.autos:443?security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
