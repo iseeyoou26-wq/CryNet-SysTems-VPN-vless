@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-08-23 14:19:18
+# Всего: 1
+# Обновлено: 2026-08-23 14:20:28
 
-# Пока нет рабочих конфигов
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@46.243.232.131:7449?security=reality&encryption=none&pbk=-IBlhBn8rn8BwgG60YXaz3-o6mR_wvn6WlXLDYvVLkU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl1.cdnvideo.app&sid=b9f8f9772217538f&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20CDN
