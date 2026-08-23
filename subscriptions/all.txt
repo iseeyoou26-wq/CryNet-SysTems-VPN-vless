@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 151
-# Обновлено: 2026-08-23 05:46:35
+# Всего: 157
+# Обновлено: 2026-08-23 05:47:28
 
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-15.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-15.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=88d9dc52ef39c8bd&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://f8ddbec7-05c3-4669-934f-65df92b7694e@node-14.optmarketshali.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-14.optmarketshali.ru&fp=firefox&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&type=tcp&sid=3bfc752d8f882e89&spiderX=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
@@ -128,24 +128,29 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=edge
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=firefox
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=qq
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1
 trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=safari
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=chrome
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:27732?security=tls&sni=www.microsoft.com&type=tcp&allowInsecure=1&fp=ios
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=android
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:20065?security=tls&sni=www.microsoft.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:59385?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=chrome
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=android
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:54657?security=tls&sni=www.microsoft.com&type=tcp&headerType=none&allowInsecure=1&fp=ios
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8319
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwidmNuIjoiIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443
@@ -153,3 +158,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?type=ws&security=none&path=/v1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwidmNuIjoiIn0=
