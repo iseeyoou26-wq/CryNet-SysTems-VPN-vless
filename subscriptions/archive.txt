@@ -1,6 +1,11 @@
 # АРХИВ
-# Всего: 330
+# Всего: 335
 
+vless://8d44a812-229a-4c54-a461-8109b29621a7@111.88.223.82:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&serviceName=grpc-tunnel&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://8d44a812-229a-4c54-a461-8109b29621a7@111.88.223.82:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&serviceName=grpc-tunnel&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://8d44a812-229a-4c54-a461-8109b29621a7@111.88.223.82:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&serviceName=grpc-tunnel&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://8d44a812-229a-4c54-a461-8109b29621a7@111.88.223.82:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&serviceName=grpc-tunnel&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://8d44a812-229a-4c54-a461-8109b29621a7@111.88.223.82:443?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&serviceName=grpc-tunnel&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9002?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sni=api-maps.yandex.ru&type=grpc&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
