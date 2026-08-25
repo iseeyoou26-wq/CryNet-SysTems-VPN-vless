@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 106
-# Обновлено: 2026-08-25 23:28:03
+# Обновлено: 2026-08-25 23:30:23
 
 vless://d11613a1-2e1f-eac4-a275-aabd986b7ad1@bla-bla-bla-de.anti-zapret.com:8443?security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&sni=bla-bla-bla-de.anti-zapret.com&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 vless://d11613a1-2e1f-eac4-a275-aabd986b7ad1@bla-bla-bla-de.anti-zapret.com:8443?security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb&sni=bla-bla-bla-de.anti-zapret.com&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
