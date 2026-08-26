@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 27
-# Обновлено: 2026-08-26 23:41:07
+# Всего: 31
+# Обновлено: 2026-08-26 23:41:51
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388
 vless://bc6a863f-f482-03f2-a950-3dc3d3b17249@84.23.54.213:443?encryption=none&flow=xtls-rprx-vision&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList%20%23147
@@ -28,4 +28,8 @@ vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&enc
 vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Akiruno%20%28Ushinuma%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Akiruno%20%28Ushinuma%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://063e01c2-4c0f-418e-9375-3cc1312f635b@162.141.131.102:50159/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=fLtEa_5BiN89xQDypfFMOu5o6DoUf6ch42jGdkXy6zE&sid=7f24526f7307c07a&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Akiruno%20%28Ushinuma%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android
 vless://bc6a863f-f482-03f5-a950-3dc3d3b17249@in-ru-vk-01.ray-balance.space:443?flow=xtls-rprx-vision&headertype=none&pbk=3tOekmYYkNW9IwHGuui6Y9bLmXoyiAmwAgtAdUAmDis&security=reality&sni=www.ray-balance.space&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8%20Gh0st_WhiteList%20%23158
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=chrome
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
