@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 59
-# Обновлено: 2026-08-26 19:40:46
+# Обновлено: 2026-08-26 19:41:55
 
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@83.168.108.135:443?encryption=none&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=pol5.helper-internet.com&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@83.168.108.135:443?encryption=none&flow=xtls-rprx-vision&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=pol5.helper-internet.com&type=tcp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
