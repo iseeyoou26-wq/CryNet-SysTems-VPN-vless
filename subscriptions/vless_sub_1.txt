@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 44
-# Обновлено: 2026-08-27 01:36:46
+# Обновлено: 2026-08-27 01:39:43
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443
 trojan://123123@node5.quaxly.com:25830?security=tls&fp=chrome&sni=node5.quaxly.com
