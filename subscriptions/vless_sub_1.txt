@@ -1,0 +1,6 @@
+# Подписка #1
+# Всего: 2
+# Обновлено: 2026-08-27 23:49:37
+
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
