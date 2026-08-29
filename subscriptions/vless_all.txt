@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 152
-# Обновлено: 2026-08-29 19:31:56
+# Всего: 153
+# Обновлено: 2026-08-29 19:32:49
 
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?type=tcp&security=reality&sni=nl.superbuba.top&flow=xtls-rprx-vision&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?type=tcp&security=reality&sni=nl.superbuba.top&flow=xtls-rprx-vision&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
@@ -151,6 +151,7 @@ vless://ac03a793-7bc7-49a9-8de5-ade37db7707c@185.194.53.124:443?security=reality
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
 vless://39e19fad-ef39-4532-bd01-3c9454b0865d@52.220.246.115:47085?security=reality&encryption=none&pbk=iziU0KuUM47h4rgtUNwywwzgOlVzC7uPhjuTuSbq4E4&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=8aa7065d8b40&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
