@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 90
-# Обновлено: 2026-08-29 19:05:04
+# Обновлено: 2026-08-29 19:05:49
 
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?type=tcp&security=reality&sni=nl.superbuba.top&flow=xtls-rprx-vision&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@nl.superbuba.top:443?type=tcp&security=reality&sni=nl.superbuba.top&flow=xtls-rprx-vision&pbk=z37XIezsPyfMgmdXyFd9qT4C4maDAs1OcRt-wfyrXVo&sid=9c2378562188c3cb&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
