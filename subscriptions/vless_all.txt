@@ -1,10 +1,12 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 24
-# Обновлено: 2026-08-30 23:56:34
+# Всего: 26
+# Обновлено: 2026-08-30 23:57:18
 
 vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a&fp=ios#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Taranto%20%7C%20%5BBL%5D
 vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Taranto%20%7C%20%5BBL%5D
+vless://65329316-aca9-4825-8118-f85786865f0f@31.76.39.194:443?security=reality&encryption=none&pbk=cHqBaoHSqOkL5OK2aT-Xi9ZwpjdI42PlFS5O0F5sYCU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
 vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a&fp=qq#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Taranto%20%7C%20%5BBL%5D
+vless://65329316-aca9-4825-8118-f85786865f0f@31.76.39.194:443?security=reality&encryption=none&pbk=cHqBaoHSqOkL5OK2aT-Xi9ZwpjdI42PlFS5O0F5sYCU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
 vless://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&encryption=none&pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=dd6ce6af95001a&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Taranto%20%7C%20%5BBL%5D
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=chrome
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=firefox
