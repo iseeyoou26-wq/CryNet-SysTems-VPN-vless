@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 51
-# Обновлено: 2026-08-31 09:02:15
+# Всего: 52
+# Обновлено: 2026-08-31 09:03:15
 
 vless://f10d83e0-976a-4b02-81a9-1c89044ff728@167.104.217.246:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-246.atlanta-api.com&fp=edge&pbk=Eoposq769I1yGDD6PPsS-_FJ8dwKTJPc65VDZgzaj2c&sid=fad7e3b745b23e34#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://f10d83e0-976a-4b02-81a9-1c89044ff728@193.160.71.250:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-uk2.mystatic-cdn.ru&fp=firefox&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&sid=ee169e93d3c277a1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
@@ -32,8 +32,8 @@ vless://9d4e62b2-b2fd-46bf-b63b-e129edd1524d@155.248.229.115:8443?encryption=non
 vless://9d4e62b2-b2fd-46bf-b63b-e129edd1524d@155.248.229.115:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=SfFw8nx4WUjN5xs-4-al4coSfu31GWgWTpTJiwse420&fp=qq#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Saint-Laurent%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9d4e62b2-b2fd-46bf-b63b-e129edd1524d@155.248.229.115:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=SfFw8nx4WUjN5xs-4-al4coSfu31GWgWTpTJiwse420&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Saint-Laurent%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=chrome
-trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=android
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=firefox
+trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&fp=android
 vless://1ebdb8ff-1217-4a94-b69d-d0f84b25fea9@hokm-a8.igatel.com:8526?security=reality&encryption=none&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=62ad184af31fc8cf#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.159.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-jp2.mystatic-cdn.ru&pbk=Qeq99BW8Q4M2obG89q0-oJMTAzsrVgwgH237AC1-NH8&sid=0ee10657e84bbd30&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://f10d83e0-976a-4b02-81a9-1c89044ff728@50.7.159.122:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=edge-jp2.mystatic-cdn.ru&fp=firefox&pbk=Qeq99BW8Q4M2obG89q0-oJMTAzsrVgwgH237AC1-NH8&sid=0ee10657e84bbd30#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
@@ -49,7 +49,8 @@ vless://39e19fad-ef39-4532-bd01-3c9454b0865d@52.220.246.115:47085?security=reali
 vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@watmtmawdwlslzlssm.cfooov.xyz:35991?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.apple.com&flow=xtls-rprx-vision&sid=89b39d3075794c&pbk=7Uvr0TZMgPREo4M4w-CJ5ih53HnHe5yTRu5QR_-GUgc&fp=qq#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a9ad5751-32e3-4fdc-b250-36b594bed2be@194.110.207.89:443?encryption=none&flow=xtls-rprx-vision&pbk=oXYB-DXrI08UVBRFq8MERP36betSSd7Yb6MLN88F2R4&security=reality&sid=f6b5862c1f73ab80&sni=frantax.my3cx.de&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Sandefjord%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios
