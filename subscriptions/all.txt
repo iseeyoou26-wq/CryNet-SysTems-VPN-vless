@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-08-31 22:37:05
+# Всего: 3
+# Обновлено: 2026-08-31 22:38:06
 
-# Пока нет рабочих конфигов
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
