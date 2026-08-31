@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 31
-# Обновлено: 2026-08-31 23:08:42
+# Обновлено: 2026-08-31 23:09:38
 
 vless://84491c04-b011-4fdc-b97d-770975586f3a@50.7.95.195:443?security=reality&flow=xtls-rprx-vision&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&sni=app1.jarvestip.ru&type=tcp&headerType=none&host=app1.jarvestip.ru&path=%2F&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Sk%C3%B6ndal%20%28Farsta%20distrikt%29%20%7C%20%5BBL%5D
 vless://84491c04-b011-4fdc-b97d-770975586f3a@app1.jarvestip.ru:443?flow=xtls-rprx-vision&security=reality&type=tcp&sni=app1.jarvestip.ru&pbk=8HYqDHdQ1IuLPhAOENT70_j0prAi1PNkwlT6venYAEM&sid=a78da1f7&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
@@ -24,12 +24,12 @@ vless://6f2dd601-8ca8-4e68-90a8-64b988ae95b4@139.177.103.135:8443?encryption=non
 vless://6f2dd601-8ca8-4e68-90a8-64b988ae95b4@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://6f2dd601-8ca8-4e68-90a8-64b988ae95b4@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://6f2dd601-8ca8-4e68-90a8-64b988ae95b4@139.177.103.135:8443?encryption=none&security=reality&sni=tesla.com&flow=xtls-rprx-vision&type=tcp&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=ios#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=qq#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=edge#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=safari#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=firefox#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@165.154.55.105:20984?encryption=none&pbk=Ns3J1Dc0WBSu560uhGwDfn1kic7IZm3ZHggSpExhyRo&security=reality&sni=dl.google.com&type=tcp&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Ho%20Chi%20Minh%20City%20%7C%20%5BBL%5D
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
