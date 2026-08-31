@@ -1,6 +1,13 @@
 # АРХИВ
-# Всего: 475
+# Всего: 482
 
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=firefox
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
 vmess://eyJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsInNjeSI6ImF1dG8iLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkgfCBbKkNJRFJdIiwiYWRkIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93Iiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJlY2hmcSI6Im5vbmUiLCJhbGxvd0luc2VjdXJlIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInYiOiIyIiwicG9ydCI6IjQ0MyIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsImFscG4iOiIifQ==
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.34.121:443?security=reality&type=tcp&sni=russia.cendora.ru&flow=xtls-rprx-vision&sid=bef240e96a8474a3&pbk=uo-U-FDlo7Cqldg7JKUe8jHvYnwP08NanGX0tUFrqEc&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200?encryption=none&type=ws&path=%252Fv1&host=77.222.53.218#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
