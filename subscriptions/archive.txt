@@ -1,6 +1,11 @@
 # АРХИВ
-# Всего: 395
+# Всего: 400
 
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&sid=3199b70105c62ce0&spx=%2F&type=tcp&sni=www.sun6-21.userapi.com&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&flow=xtls-rprx-vision&encryption=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&sid=3199b70105c62ce0&spx=%2F&type=tcp&sni=www.sun6-21.userapi.com&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&flow=xtls-rprx-vision&encryption=none&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&sid=3199b70105c62ce0&spx=%2F&type=tcp&sni=www.sun6-21.userapi.com&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&flow=xtls-rprx-vision&encryption=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&sid=3199b70105c62ce0&spx=%2F&type=tcp&sni=www.sun6-21.userapi.com&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&flow=xtls-rprx-vision&encryption=none&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?security=reality&sid=3199b70105c62ce0&spx=%2F&type=tcp&sni=www.sun6-21.userapi.com&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&flow=xtls-rprx-vision&encryption=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://601bde9d-475d-4bae-ad69-c3e44ca30e12@201.24.124.146:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=web.max.ru&pbk=gd2fqgWRBZL_U7tMX6YIdl6yg7I2l3tRuwJj7qjubW8&sid=860ee689&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%A8%20%5BSNI-RU%5D%20web.max.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
