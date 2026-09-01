@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 35
-# Обновлено: 2026-09-01 22:35:14
+# Обновлено: 2026-09-01 22:37:41
 
 vless://f0064871-07f6-42d1-a159-81213a52a5c3@91.228.227.172:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://f0064871-07f6-42d1-a159-81213a52a5c3@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
