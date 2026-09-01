@@ -1,6 +1,25 @@
 # АРХИВ
-# Всего: 197
+# Всего: 216
 
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
+trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws&allowInsecure=1&fp=android
+trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws&allowInsecure=1&fp=chrome
+trojan://humanity@188.42.145.180:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws&allowInsecure=1&fp=qq
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=android
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=chrome
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=edge
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=qq
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com&fp=safari
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=qq
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=safari
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=android
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=edge
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoid3dhZmo1bGhsNmJpOGF1OS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d2FmajVsaGw2Ymk4YXU5LnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiMTg5LjI0LjEwNi4xNjUiLCJwb3J0IjoiNDY5NDUiLCJpZCI6IjdhYTNhMDI0LWUzMzMtNGI2My05OWEyLTNkYjlkM2IyMDU0ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imd3LmFsaWNkbi5jb20iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJuMTc0NzYyNDI3NC40dTltYS5pY3UiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im4xNzQ3NjI0Mjc0LjR1OW1hLmljdSIsImlkIjoiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZywgSG9uZyBLb25nIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMzAuOTQuOTMuNjMiLCJpZCI6Ijc3N2QwZWFkLTk3MGEtNDE0NC1iOGFhLWUzYWFmM2E2MjFmNiIsInBvcnQiOiIxNDgxMiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvNzc3ZDBlYWQiLCJ0bHMiOiJub25lIiwicHMiOiLwn4eu8J+HqSBJbmRvbmVzaWEsIEpha2FydGEgfCBbQkxdIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://b4bd9c97-ba8e-4f31-8616-7812d03a8447@sixseven.orionv4.online:443?encryption=none&type=ws&security=tls&sni=sixseven.orionv4.online&path=%2Fcdn%2Fstream&host=sixseven.orionv4.online&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://b4bd9c97-ba8e-4f31-8616-7812d03a8447@sixseven.orionv4.online:443?encryption=none&type=ws&security=tls&sni=sixseven.orionv4.online&path=%2Fcdn%2Fstream&host=sixseven.orionv4.online&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://b4bd9c97-ba8e-4f31-8616-7812d03a8447@sixseven.orionv4.online:443?encryption=none&type=ws&security=tls&sni=sixseven.orionv4.online&path=%2Fcdn%2Fstream&host=sixseven.orionv4.online&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
