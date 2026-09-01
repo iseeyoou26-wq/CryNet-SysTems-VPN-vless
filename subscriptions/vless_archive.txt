@@ -1,6 +1,17 @@
 # АРХИВ
-# Всего: 350
+# Всего: 361
 
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@104.223.73.149:13779?encryption=none&security=reality&sni=tesla.com&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@104.223.73.149:13779?encryption=none&security=reality&sni=tesla.com&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@104.223.73.149:13779?security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&sni=tesla.com&type=tcp&headerType=none&host=tesla.com&path=%2F&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@104.223.73.149:13779?encryption=none&security=reality&sni=tesla.com&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&type=tcp&headerType=none&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http%2F1.1&fp=chrome
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=vps.tropicalhosting.net&alpn=http%2F1.1&fp=android
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@104.223.73.149:13779?security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664&sni=tesla.com&type=tcp&headerType=none&host=tesla.com&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?nonce=g9tMw8Ma&encryption=none&seq=you_are_beautiful4137&serviceName=grpc-reality&type=grpc&security=reality&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4f76de&sni=api-maps.yandex.ru&mode=gun&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?nonce=g9tMw8Ma&encryption=none&seq=you_are_beautiful4137&serviceName=grpc-reality&type=grpc&security=reality&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4f76de&sni=api-maps.yandex.ru&mode=gun&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001?nonce=g9tMw8Ma&encryption=none&seq=you_are_beautiful4137&serviceName=grpc-reality&type=grpc&security=reality&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4f76de&sni=api-maps.yandex.ru&mode=gun&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
