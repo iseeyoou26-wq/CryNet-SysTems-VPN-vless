@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 377
+# Всего: 378
 
+trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001?encryption=none&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=grpc-reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=grpc&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
