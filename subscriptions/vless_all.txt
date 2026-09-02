@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 7
-# Обновлено: 2026-09-02 12:17:55
+# Обновлено: 2026-09-02 12:20:00
 
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
