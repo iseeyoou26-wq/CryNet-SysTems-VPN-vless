@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 7
-# Обновлено: 2026-09-02 12:10:40
+# Обновлено: 2026-09-02 12:12:05
 
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=android
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
