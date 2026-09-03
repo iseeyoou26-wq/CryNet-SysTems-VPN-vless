@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 390
+# Всего: 391
 
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?security=reality&encryption=none&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11448?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=firefox#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11448?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=ios#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
 vless://d7430ae7-320c-4658-808b-3006d0627d82@46.16.36.222:11448?encryption=none&type=grpc&security=reality&sni=mageia.ubuntuhosting.host&pbk=gUU8rOYxXtE2ENvQ-RLrmaON2lw2L9lObStu-EaJxhs&sid=b34f41089f1e&serviceName=gun&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20%5B%2ACIDR%5D
