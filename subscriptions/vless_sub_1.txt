@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 60
-# Обновлено: 2026-09-03 06:01:57
+# Всего: 62
+# Обновлено: 2026-09-03 06:02:49
 
 trojan://DQMH0rnu-nQ2FL7fddCA306ApdzGuvFA@90.156.218.126:2223?allowInsecure=1&alpn=h2%2Chttp%2F1.1&security=tls&sni=vkc7.secured-by-tenzo.sbs&fp=safari
 trojan://DQMH0rnu-nQ2FL7fddCA306ApdzGuvFA@90.156.218.126:2223?allowInsecure=1&alpn=h2%2Chttp%2F1.1&security=tls&sni=vkc7.secured-by-tenzo.sbs&fp=firefox
@@ -49,6 +49,8 @@ vless://72c3c771-a721-4646-98d8-2bacfeead232@45.78.68.134:46028?encryption=none&
 vless://72c3c771-a721-4646-98d8-2bacfeead232@45.78.68.134:46028?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=7fnTqbsj7tf1vmq6F2FvKEvdLzn5tphpz0k6MkHeDTY&sid=387416d7&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 vless://72c3c771-a721-4646-98d8-2bacfeead232@45.78.68.134:46028?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=7fnTqbsj7tf1vmq6F2FvKEvdLzn5tphpz0k6MkHeDTY&sid=387416d7&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 vless://72c3c771-a721-4646-98d8-2bacfeead232@45.78.68.134:46028?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=7fnTqbsj7tf1vmq6F2FvKEvdLzn5tphpz0k6MkHeDTY&sid=387416d7&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&insecure=1&security=tls&sni=vk.com&type=tcp&fp=firefox
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&insecure=1&security=tls&sni=vk.com&type=tcp&fp=android
 vless://8c64cae9-a513-4e37-a68c-980bcaf2c591@47.80.63.187:443?security=reality&type=tcp&sni=kr1.hat.onl&fp=firefox&flow=xtls-rprx-vision&sid=0d6903ea350815e1&pbk=me6tyn-I8IolkgJK4sggSsC9sinhkLPBdPwtVlPk5TI&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
 vless://3a09e0c9-4194-4b85-8d7f-fd1fc38f00b2@sinavm.soft10.ir:443?type=ws&security=tls&path=/assignment----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM----SiNAVM&sni=sinavm.soft10.ir&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?security=tls&sni=194.9.172.236&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=ios
