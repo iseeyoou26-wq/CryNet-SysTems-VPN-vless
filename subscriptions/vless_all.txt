@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 13
-# Обновлено: 2026-09-04 08:21:57
+# Обновлено: 2026-09-04 08:22:29
 
 vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.109:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
 vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.11:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
