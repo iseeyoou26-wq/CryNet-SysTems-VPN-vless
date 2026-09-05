@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-05 17:09:46
+# Всего: 3
+# Обновлено: 2026-09-05 17:10:36
 
-# Пока нет рабочих конфигов
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=firefox
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=safari
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=chrome
