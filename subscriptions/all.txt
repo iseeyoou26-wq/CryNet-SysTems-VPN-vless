@@ -1,5 +1,13 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-05 15:10:48
+# Всего: 9
+# Обновлено: 2026-09-05 15:11:36
 
-# Пока нет рабочих конфигов
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&peer=pus.mmdaqaorg2.ir&security=tls&fp=firefox
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&peer=pus.mmdaqaorg2.ir&security=tls&fp=android
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&peer=pus.mmdaqaorg2.ir&security=tls&fp=chrome
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=firefox
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=safari
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=edge
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=safari
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=chrome
