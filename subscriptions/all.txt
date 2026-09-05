@@ -1,7 +1,8 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 3
-# Обновлено: 2026-09-05 17:10:36
+# Всего: 4
+# Обновлено: 2026-09-05 17:11:52
 
 trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=firefox
 trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=safari
 trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=chrome
+vless://f8738084-d3e4-457b-a15e-10d85709681f@clrpbqwolexxn.cfooov.xyz:24165?flow=xtls-rprx-vision&pbk=GnLh9Cc0jj9BMW81u6stEYKe1xu6pf8DDpXHI9AmvFk&security=reality&sid=545525c503fd5b&sni=addons.mozilla.org&type=tcp&fp=chrome#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Go%20Vap%20%7C%20%5BBL%5D
