@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 60
-# Обновлено: 2026-09-06 00:20:16
+# Обновлено: 2026-09-06 00:26:51
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443
