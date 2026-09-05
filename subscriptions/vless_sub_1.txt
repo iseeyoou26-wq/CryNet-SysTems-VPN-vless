@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 42
-# Обновлено: 2026-09-05 23:52:31
+# Всего: 43
+# Обновлено: 2026-09-05 23:53:49
 
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@31.77.201.33:443?encryption=none&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=it.superbuba.top&type=tcp&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@31.77.201.33:443?encryption=none&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=it.superbuba.top&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
@@ -36,6 +36,7 @@ vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@31.76.113.212:443?encryption=none&f
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=edge#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20Chisinau%20%7C%20%5BBL%5D
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20Chisinau%20%7C%20%5BBL%5D
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
+vless://38eb3e71-4349-4bd6-9baf-9740e1896495@play.main-soft.ru:1035?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=cdnjs.com&type=tcp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20CDN
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=ios#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20Chisinau%20%7C%20%5BBL%5D
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@217.60.33.44:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=fi.aeternavpn.space&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&security=reality&sid=a1b2c3d4&sni=hotcoals.aeternavpn.space&type=tcp&fp=firefox#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20Chisinau%20%7C%20%5BBL%5D
