@@ -1,0 +1,7 @@
+# Подписка #1
+# Всего: 3
+# Обновлено: 2026-09-05 17:10:26
+
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=firefox
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=safari
+trojan://2EXii6JlhaDvgSiTsC@ggboy.ggboyz.online:8444?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ggboy.ggboyz.online&fp=chrome
