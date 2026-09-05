@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 47
-# Обновлено: 2026-09-05 23:54:30
+# Обновлено: 2026-09-05 23:55:31
 
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@31.77.201.33:443?encryption=none&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=it.superbuba.top&type=tcp&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
 vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@31.77.201.33:443?encryption=none&flow=xtls-rprx-vision&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&security=reality&sid=4fa44664f6a566d3&sni=it.superbuba.top&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
