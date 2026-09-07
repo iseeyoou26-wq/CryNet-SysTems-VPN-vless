@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 29
-# Обновлено: 2026-09-07 11:28:23
+# Всего: 30
+# Обновлено: 2026-09-07 11:35:00
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080
@@ -15,6 +15,7 @@ vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=n
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&freeinternet=kizyak_vpn178871239138&fp=firefox#%F0%9F%8C%90%20Gh0st_WhiteList%20%23133
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@flarora.ferreo.sbs:443?encryption=none&flow=xtls-rprx-vision&pbk=HKKWGVu7xJfscDTH_28WhqSfSnp8fA5jpj7X1eMO-mU&security=reality&sid=1067b23f928e7618&sni=flarora.ferreo.sbs&type=tcp&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
