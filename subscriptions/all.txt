@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 73
-# Обновлено: 2026-09-08 06:01:02
+# Всего: 75
+# Обновлено: 2026-09-08 06:07:56
 
 vless://7a97f64d-5fc7-4011-9028-58d2ba751595@155.212.164.21:443?flow=xtls-rprx-vision&pbk=MRh1vF7XBdr5KhoaMOC8BcZJy0xs5ZfD9gwiVyzhN08&security=reality&sid=79281cd08b6fad6a&sni=turtlethriftsuds.spindlehouse.art&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 vless://7a97f64d-5fc7-4011-9028-58d2ba751595@155.212.164.21:443?flow=xtls-rprx-vision&pbk=MRh1vF7XBdr5KhoaMOC8BcZJy0xs5ZfD9gwiVyzhN08&security=reality&sid=79281cd08b6fad6a&sni=turtlethriftsuds.spindlehouse.art&type=tcp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
@@ -39,9 +39,11 @@ vless://02f3a6a2-289e-4026-8e26-616d47e0914f@5.181.201.42:443?encryption=none&fl
 vless://14f4be39-cb89-4f2b-8200-704666b6fa4e@95.85.241.209:443?security=reality&encryption=none&pbk=vZ22ThhkpXUd5-tY-v5TTrouLHjgYYmeQgqeLt7HRz0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://7a97f64d-5fc7-4011-9028-58d2ba751595@200.169.182.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg&security=reality&sid=7505bfa3b6b933e6&sni=defaultenginedimly.rivetpress.me&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://b02ff150-ee30-46e0-9ea1-adbfd7762a06@151.242.168.125:390?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bowandbead.com&pbk=5RCgAVjaT7hwdVIKAEULswXGqR127ZOZV6X17nEhYk8&sid=b545fe8c5e22f92d&fp=safari#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Sandefjord%20%7C%20%5BBL%5D
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=ios
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=firefox
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=qq
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge
