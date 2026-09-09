@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 6
-# Обновлено: 2026-09-09 16:57:13
+# Обновлено: 2026-09-09 16:59:00
 
 vless://6d94a576-3eb3-4f1d-bf88-1ed29b09e9e4@printcrisplyword.rivetsmith.net:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=printcrisplyword.rivetsmith.net&pbk=qLS4d6euX1lkM7W1PJk2F_aNp9dDa75FlgR4uWRW9y4&sid=ec26905968745f40&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vmess://eyJhZGQiOiJuZXdyZWxheC5yZWxheGVkYm95Lm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiY3MiOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
