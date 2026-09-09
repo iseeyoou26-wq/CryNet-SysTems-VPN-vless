@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 6
-# Обновлено: 2026-09-09 20:05:33
+# Обновлено: 2026-09-09 20:07:01
 
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge
 trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=qq
