@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 528
+# Всего: 530
 
+vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@201.34.132.8:31443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&sid=43989f5e2e34d4a8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5B%2ACIDR%5D
+vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@201.34.132.8:31443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&sid=43989f5e2e34d4a8&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5B%2ACIDR%5D
 vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@37.49.227.53:443?type=tcp&headerType=none&security=reality&encryption=none&sni=start.ru&pbk=FjpMCq9ynDLMGWZQqIR141CRmrvHUoe21Kvq6JXtLHk&sid=a573bb9fbc7a&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20start.ru
 vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@37.49.227.53:443?type=tcp&headerType=none&security=reality&encryption=none&sni=start.ru&pbk=FjpMCq9ynDLMGWZQqIR141CRmrvHUoe21Kvq6JXtLHk&sid=a573bb9fbc7a&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20start.ru
 vless://64c3ae71-4874-4a05-8d52-73b2fbb8a207@37.49.227.71:443?type=tcp&headerType=none&security=reality&encryption=none&sni=start.ru&pbk=I_30FETciZuI0G0wfVWB13YmMFXr8e3QF0dd0ddVgF0&sid=4ac81024d45e&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20start.ru
