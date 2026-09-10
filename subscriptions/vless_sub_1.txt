@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 49
-# Обновлено: 2026-09-10 17:40:41
+# Обновлено: 2026-09-10 17:41:40
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443
@@ -23,8 +23,11 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new-ded.moritech.net:443?type=tc
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@at-new-ded.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=at-new-ded.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%28Floridsdorf%29%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsImFpZCI6IjAiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzIHwg8J+MkCB8IFtCTF0iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=firefox
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=ios
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=qq
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzIHwg8J+MkCB8IFtCTF0iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&sni=localhost&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&sni=localhost&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -32,22 +35,19 @@ vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&sni=localhost&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&headerType=none&type=tcp&sni=localhost&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443?security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=localhost&type=tcp&headerType=none&host=freshjuniper.download&path=%2F&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1VEJqWmhEbU9Nd0JWQUpJ@45.32.16.53:8388
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=firefox
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
-trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=firefox
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=android
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=edge
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=chrome
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=ios
-trojan://BxceQaOe@100.42.228.109:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1&fp=qq
 trojan://d742752c-4231-4695-801e-f06d77f0f277@hk04.qianmoip.win:52224?security=tls&sni=taobao.com&type=tcp&udp=1&allowInsecure=1&fp=edge
 trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=firefox
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=edge
+trojan://kakashka13222@194.9.172.236:1105?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari
