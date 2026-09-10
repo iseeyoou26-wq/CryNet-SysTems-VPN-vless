@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 23
-# Обновлено: 2026-09-10 23:46:17
+# Обновлено: 2026-09-10 23:47:12
 
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@201.34.132.8:31443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&sid=43989f5e2e34d4a8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5B%2ACIDR%5D
 vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@201.34.132.8:31443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&sid=43989f5e2e34d4a8&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5B%2ACIDR%5D
