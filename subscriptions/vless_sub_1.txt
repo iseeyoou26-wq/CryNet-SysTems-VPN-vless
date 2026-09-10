@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 39
-# Обновлено: 2026-09-10 17:19:44
+# Обновлено: 2026-09-10 17:20:55
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-ded.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl-new-ded.moritech.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pl-new-ded.moritech.net&alpn=h2&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
