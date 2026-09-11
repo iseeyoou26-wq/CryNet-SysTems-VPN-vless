@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 38
-# Обновлено: 2026-09-11 10:43:28
+# Обновлено: 2026-09-11 10:44:25
 
 vless://c7c1e422-ed22-478c-c0a6-fa527d58209e@200.169.180.108:26644?type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4yIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsIm5ldCI6InJhdyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzIHwg8J+MkCB8IFtCTF0iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
