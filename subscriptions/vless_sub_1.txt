@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 73
-# Обновлено: 2026-09-12 18:58:47
+# Обновлено: 2026-09-12 19:17:08
 
 vless://158b7cb6-6076-4e35-8a45-29e5275facf7@109.107.166.106:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=4b82d1f6a5e039c7&sni=www.amd.com&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://158b7cb6-6076-4e35-8a45-29e5275facf7@109.107.166.106:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=4b82d1f6a5e039c7&sni=www.amd.com&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
