@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 73
-# Обновлено: 2026-09-12 18:52:44
+# Обновлено: 2026-09-12 18:54:00
 
 vless://158b7cb6-6076-4e35-8a45-29e5275facf7@109.107.166.106:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=4b82d1f6a5e039c7&sni=www.amd.com&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://a71ad164-3b29-4dbe-aa66-24d095ca7b6d@app-twa-19.deep-aispb-analytics.com:443?security=reality&encryption=none&pbk=xlNqoESN53Lu1RsEjOAdDLVJDSsiSqRBMOLn5Sv5ZkA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=assets-twa-19.deep-aispb-analytics.com&sid=304b62be6101bb5e&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D
