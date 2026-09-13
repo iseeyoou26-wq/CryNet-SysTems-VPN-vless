@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 9
-# Обновлено: 2026-09-13 06:40:40
+# Обновлено: 2026-09-13 06:42:12
 
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa9.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?security=tls&alpn=h3&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=posa9.api3-max.ru&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
