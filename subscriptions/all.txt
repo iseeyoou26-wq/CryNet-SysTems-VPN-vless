@@ -1,5 +1,13 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-13 06:39:18
+# Всего: 9
+# Обновлено: 2026-09-13 06:40:51
 
-# Пока нет рабочих конфигов
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa9.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?security=tls&alpn=h3&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=posa9.api3-max.ru&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@185.65.148.217:15443?security=reality&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none&type=tcp&sid=43dcff53849b81e6&fp=safari&headerType=none&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa9.api3-max.ru:443?security=tls&alpn=h3&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=posa9.api3-max.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://94b6a70a-73a6-4997-a322-b02a6f9b78db@171.22.119.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZPdVCztKOeffv0v4TpdQ8X5LMGmVNxZe1ZC7BFC8118&security=reality&sid=940dbf5b&sni=www.uva.nl&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@185.65.148.217:15443?type=tcp&headerType=none&security=reality&encryption=none&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@185.65.148.217:15443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa7.api3-max.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=posa7.api3-max.ru&alpn=h3&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://97ecaad4-452c-45ec-b591-d68d3308aad4@posa8.api3-max.ru:443?security=tls&alpn=h3&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=posa8.api3-max.ru&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
