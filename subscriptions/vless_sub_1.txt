@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 90
-# Обновлено: 2026-09-13 10:26:35
+# Обновлено: 2026-09-13 10:27:31
 
 vless://a3f573b2-6c6f-4e83-87ce-c0c1fdeba95b@185.23.19.25:8443?encryption=none&fp=firefox&pbk=ySGdExSQZ93z67nSi9jbIEdDkCjc1ZgnqXmH2qeBdE0&security=reality&sid=660cd5e2&sni=dl.google.com&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
 vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?type=tcp&security=reality&sni=www.intel.com&flow=xtls-rprx-vision&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&sid=a0a305ccc8e94aa8#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
