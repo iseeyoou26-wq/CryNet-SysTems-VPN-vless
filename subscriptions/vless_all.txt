@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 8
-# Обновлено: 2026-09-14 16:55:32
+# Обновлено: 2026-09-14 16:58:28
 
 vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=api5.vk-maps.net&sid=08#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%231535%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
