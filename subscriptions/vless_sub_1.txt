@@ -1,0 +1,5 @@
+# Подписка #1
+# Всего: 1
+# Обновлено: 2026-09-14 15:32:07
+
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
