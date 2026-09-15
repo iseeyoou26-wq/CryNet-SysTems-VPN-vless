@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 158
-# Обновлено: 2026-09-15 04:26:50
+# Всего: 159
+# Обновлено: 2026-09-15 04:32:13
 
 vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reality&encryption=none&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=d9fd4fa80238cd05#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 vless://4360f941-b541-43d4-8507-2de3763e0cfd@131.123.25.4:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr.convert-flow.net&fp=qq&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&sid=00a61d55a07de885&flow=xtls-rprx-vision#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
@@ -76,6 +76,7 @@ vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy41NiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNjVh
 vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwiYWRkIjoiMTY1LjE0MC4yMTcuMTQiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuvCfh7ggfCBbQkxdIiwiYWRkIjoiMTY1LjE0MC4yMTcuMzAiLCJwb3J0IjoiNDQzIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJhaWQiOiIwIiwic2N5Ijoibm9uZSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxNjUuMTQwLjIxNy4xMzkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgQW55Y2FzdC1JUCB8IPCfh7rwn4e4IHwgW0JMXSIsInNjeSI6Im5vbmUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=chrome
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
