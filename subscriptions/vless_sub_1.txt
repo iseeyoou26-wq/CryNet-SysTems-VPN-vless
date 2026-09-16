@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 50
-# Обновлено: 2026-09-16 13:39:10
+# Обновлено: 2026-09-16 13:40:06
 
 vless://13c245fd-ac78-0007-9378-97968a70dac4@ru.axolab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=strm-rad-23.strm.yandex.net&sid=cd0b563c7e0ea754&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&flow=xtls-rprx-vision&sid=d9fd4fa80238cd05&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&encryption=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
