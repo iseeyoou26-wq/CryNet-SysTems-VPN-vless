@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 130
-# Обновлено: 2026-09-16 10:35:19
+# Обновлено: 2026-09-16 10:37:03
 
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@88.216.57.128:443?encryption=none&fp=firefox&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&security=reality&sid=9c2378562188c3cb&sni=usa.superbuba.top&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Chicago%20%7C%20%5BBL%5D
 vless://e016d072-ed97-40d4-a83f-04c00f8df2a5@us-1.gsafevpnapi.com:20270?security=reality&pbk=9I4kbgR2flpbRraCLQ-C0umbyQO26riRY3-GY-Tp9DE&sid=e67d9a00676f15ac&sni=www.yahoo.com&type=tcp&headerType=none&host=www.yahoo.com&path=%2F&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
