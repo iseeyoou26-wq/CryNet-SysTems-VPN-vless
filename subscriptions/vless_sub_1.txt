@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 130
-# Обновлено: 2026-09-16 10:30:16
+# Обновлено: 2026-09-16 10:31:13
 
 vless://765390bc-1daf-41dd-9012-a04b93f07139@5.188.114.71:443?encryption=none&flow=xtls-rprx-vision&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&security=reality&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://765390bc-1daf-41dd-9012-a04b93f07139@5.188.114.71:443?encryption=none&flow=xtls-rprx-vision&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&security=reality&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
