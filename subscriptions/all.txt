@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 117
-# Обновлено: 2026-09-16 07:22:49
+# Обновлено: 2026-09-16 07:23:33
 
 vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&flow=xtls-rprx-vision&sid=d9fd4fa80238cd05&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&encryption=none&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&flow=xtls-rprx-vision&sid=d9fd4fa80238cd05&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&encryption=none&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
