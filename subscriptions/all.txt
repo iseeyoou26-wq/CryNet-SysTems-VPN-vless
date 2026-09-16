@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-16 13:29:59
+# Всего: 1
+# Обновлено: 2026-09-16 13:31:30
 
-# Пока нет рабочих конфигов
+vless://13c245fd-ac78-0007-9378-97968a70dac4@ru.axolab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=strm-rad-23.strm.yandex.net&sid=cd0b563c7e0ea754&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
