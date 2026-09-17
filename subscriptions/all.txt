@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 39
-# Обновлено: 2026-09-17 10:16:05
+# Всего: 40
+# Обновлено: 2026-09-17 10:22:12
 
 vless://fe64e0af-e39b-4335-874e-5bb6993e465a@46.33.8.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&sid=10debbdf94767541&sni=filesconvert.org#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://8f9c5260-9456-472b-8ee2-444500ba6cab@deutch.snappycore.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=deutch.snappycore.com&fp=firefox&pbk=SCuasCPva4lPGu-QRP955zZB8f6i7ydHBQh6bsSlrgo&sid=3d87c490ddd41305&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
@@ -10,6 +10,7 @@ trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=chrome
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
 vless://2bf192f1-7d86-43a3-88b3-8f72b7eb5ad9@sg-1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&flow=xtls-rprx-vision&fp=chrome&pbk=q78tZmuaXQTsrrjZtjjRDtoni6tzN-HhXcAY-iT5zF0&sid=fc13d6208ebbae16#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
 vless://2bf192f1-7d86-43a3-88b3-8f72b7eb5ad9@hk-1.gsafevpnapi.com:20270?flow=xtls-rprx-vision&fp=chrome&packetencoding=xudp&pbk=0MIamX22OTB4zDokZ5WN_GHBVYs7MkFceuipUvql9Q8&security=reality&sid=d5b538acf8a93540&sni=www.yahoo.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
