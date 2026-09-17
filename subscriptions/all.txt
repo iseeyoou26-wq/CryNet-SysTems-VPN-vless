@@ -1,5 +1,12 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-17 09:42:27
+# Всего: 8
+# Обновлено: 2026-09-17 09:44:05
 
-# Пока нет рабочих конфигов
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVHVya2V5LCBBdGHFn2VoaXIgfCBbQkxdIiwiYWRkIjoiOTEuMjI4LjIyNy4yMTEiLCJwb3J0IjoiMjM5NTciLCJpZCI6IjkyOTg3YWI4LTBhNTMtNGExNi04ZDZjLTI5NWQ1ZGY4NjQwNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=chrome
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1
+trojan://skynet@cloud.lakshan.us:119?sni=cloud.lakshan.us&peer=cloud.lakshan.us&security=tls
+trojan://skynet@cloud.lakshan.us:119?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=cloud.lakshan.us
