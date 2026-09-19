@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-19 15:15:57
+# Всего: 1
+# Обновлено: 2026-09-19 15:16:41
 
-# Пока нет рабочих конфигов
+vless://950beaff-a665-4b36-baad-2251ba6bbd6a@45.131.212.39:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fr.lstu.ru&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&sid=848b53fea10a561e&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
