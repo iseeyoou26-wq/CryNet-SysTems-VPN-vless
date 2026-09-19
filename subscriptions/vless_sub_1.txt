@@ -1,7 +1,16 @@
 # Подписка #1
-# Всего: 3
-# Обновлено: 2026-09-19 05:10:43
+# Всего: 12
+# Обновлено: 2026-09-19 05:11:54
 
+vmess://eyJhZGQiOiI5MS4yMjguMjI3LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJpZCI6IjkyOTg3YWI4LTBhNTMtNGExNi04ZDZjLTI5NWQ1ZGY4NjQwNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBvcnQiOiIyMzk1NyIsInBzIjoi8J+HufCfh7cgVHVya2V5IHwg8J+MkCB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVHVya2V5LCBBdGHFn2VoaXIgfCBbQkxdIiwiYWRkIjoiOTEuMjI4LjIyNy4yMTEiLCJwb3J0IjoiMjM5NTciLCJpZCI6IjkyOTg3YWI4LTBhNTMtNGExNi04ZDZjLTI5NWQ1ZGY4NjQwNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6IiIsImhvc3QiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://2cbf425a-aed6-4c8f-937f-6265ed13a7fa@188.225.56.11:443?security=reality&encryption=none&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&headerType=&type=tcp&flow=xtls-rprx-vision&sid=a9dc98a7dc87a7dc&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=chrome
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=edge
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=firefox
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
 vless://f79fe29a-39c9-445d-a6e9-85bfa76d5f02@217.16.31.193:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=nvPp2FY7spulp6eCgHmPFJeRke_NVO9m2SReXgkCdX4&sid=e4063089&flow=xtls-rprx-vision&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5B%2ACIDR%5D%20VK
 vless://f79fe29a-39c9-445d-a6e9-85bfa76d5f02@217.16.31.193:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&pbk=nvPp2FY7spulp6eCgHmPFJeRke_NVO9m2SReXgkCdX4&sid=e4063089&flow=xtls-rprx-vision&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20VK
