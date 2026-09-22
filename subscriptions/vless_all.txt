@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 25
-# Обновлено: 2026-09-22 09:37:04
+# Всего: 26
+# Обновлено: 2026-09-22 09:55:17
 
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@dedicated.pivo.lol:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dedicated.pivo.lol&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@ndi.lavivas.org:2096/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ndi.lavivas.org&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
@@ -19,6 +19,7 @@ vless://38eb3e71-4349-4bd6-9baf-9740e1896495@isr.accessgate.link:8080?encryption
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=qq
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=chrome
 trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=android
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
 vless://38eb3e71-4349-4bd6-9baf-9740e1896495@fin2.accessgate.link:2096?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://38eb3e71-4349-4bd6-9baf-9740e1896495@fin2.accessgate.link:2096?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://38eb3e71-4349-4bd6-9baf-9740e1896495@sgp.accessgate.link:8080?encryption=none&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&security=reality&sid=b0d8c9a285c70f6f&sni=unpkg.com&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
