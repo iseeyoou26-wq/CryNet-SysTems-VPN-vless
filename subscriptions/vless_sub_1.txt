@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 33
-# Обновлено: 2026-09-22 11:23:10
+# Обновлено: 2026-09-22 11:26:07
 
 vmess://eyJhZGQiOiIzMS43Ny44Ljk3IiwiaWQiOiJlODc1OGJmMC1jMjM0LTQ4MDktODlmNy0yNWZkODY4MzE2ZDAiLCJwb3J0IjoiMTEwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBPcmVtIHwgW0JMXSIsImFpZCI6IjAiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://44e1105d-b46e-402f-933b-eaa136fcbb24@dedicated.pivo.lol:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dedicated.pivo.lol&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
