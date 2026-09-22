@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 3
-# Обновлено: 2026-09-22 17:23:58
+# Обновлено: 2026-09-22 17:26:51
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099
 vless://135852be-3cfc-4551-b6bf-641911655174@144.31.166.205:10000?security=reality&type=tcp&packetEncoding=xudp&sni=zoom.us&fp=ios&sid=9791feaccc1ca4d8&pbk=UOa0v_JpSPRPMO6ABMM7tIir-GclotOVfnbI2WqJGVE#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231989%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
