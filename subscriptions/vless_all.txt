@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-09-22 09:25:38
+# Всего: 3
+# Обновлено: 2026-09-22 09:26:26
 
-# Пока нет рабочих конфигов
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=qq
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=chrome
+trojan://sg-trojan-2026@43.173.90.202:443?allowInsecure=1&insecure=1&security=tls&sni=sg-proxy.local&type=tcp&headerType=none&fp=android
