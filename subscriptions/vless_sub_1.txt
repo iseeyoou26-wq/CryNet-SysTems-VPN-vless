@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 23
-# Обновлено: 2026-09-23 04:56:07
+# Обновлено: 2026-09-23 04:58:51
 
 vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?encryption=none&flow=xtls-rprx-vision&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&sid=a1facbc8575701ae&sni=chistomat.dry.care&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge
