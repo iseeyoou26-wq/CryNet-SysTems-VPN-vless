@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 14
-# Обновлено: 2026-09-24 00:53:41
+# Обновлено: 2026-09-24 00:55:14
 
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome
