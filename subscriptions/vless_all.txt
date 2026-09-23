@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 14
-# Обновлено: 2026-09-24 00:52:24
+# Обновлено: 2026-09-24 00:53:52
 
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome
