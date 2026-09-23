@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 34
-# Обновлено: 2026-09-23 06:42:02
+# Обновлено: 2026-09-23 06:44:55
 
 vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@arcturus.yokkastars.com:40443?security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=db46e2946fc466fd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%231730%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://a3c861cb-e1e7-4ad6-8be2-7c2314ec6f18@78.129.208.44:421?encryption=none&flow=xtls-rprx-vision&pbk=zUdAvpr07q1Yd0Om-jc4-Vu4Un5tVird8FGoN-7W9Tg&security=reality&sid=a1facbc8575701ae&sni=chistomat.dry.care&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Maidenhead%20%7C%20%5BBL%5D
