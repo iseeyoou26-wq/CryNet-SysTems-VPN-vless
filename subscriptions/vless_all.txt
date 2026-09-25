@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 15
-# Обновлено: 2026-09-25 07:33:27
+# Всего: 16
+# Обновлено: 2026-09-25 07:40:18
 
 vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIzMS43Ny44Ljk3IiwicG9ydCI6IjExMCIsImlkIjoiZTg3NThiZjAtYzIzNC00ODA5LTg5ZjctMjVmZDg2ODMxNmQwIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://3db8407b-1f96-4b82-bfeb-55258c1e57b4@zodiacgrapedefiant.berylcord.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=zodiacgrapedefiant.berylcord.net&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&sid=fda83f2787e6016d&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
@@ -12,6 +12,7 @@ trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecu
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=random
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=firefox
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
