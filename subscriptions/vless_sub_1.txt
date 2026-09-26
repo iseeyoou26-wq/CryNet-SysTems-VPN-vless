@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 12
-# Обновлено: 2026-09-26 20:07:53
+# Обновлено: 2026-09-26 20:11:43
 
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
 trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%2Fripaojiedian
