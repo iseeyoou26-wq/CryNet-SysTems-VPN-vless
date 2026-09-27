@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 9
-# Обновлено: 2026-09-27 06:50:22
+# Всего: 19
+# Обновлено: 2026-09-27 06:51:06
 
 vless://4254ffc8-87d9-0004-b3c7-0421e879775f@185.186.143.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=msk3.maxtelemost.com&pbk=nKikcOP7PyFvJevamH27_aQNWs-WhylrF8sii96TMmE&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://9e4f675b-d6bf-42d1-be55-389f622783af@185.229.9.160:443?encryption=none&fp=firefox&mode=gun&pbk=4Y0QLEasqtkWqfbrRedWqrZSPTnB14FDfI9q1v5SsHs&security=reality&sid=0afbd1d3&sni=smartcaptcha.yandexcloud.net&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23161
@@ -11,3 +11,13 @@ vless://9e4f675b-d6bf-42d1-be55-389f622783af@62.152.58.182:443?encryption=none&f
 vless://41164ee6-90ad-479a-ba3c-a152217ef34a@c.jjndnfiiodnindndnnfbfbfbf.xyz:9997?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=node-9227.nodr.app&pbk=AQ4m70o84QwVvLjTcqCdzPQo6fOUq4-UwG3fBkRCpRU&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
 vless://41164ee6-90ad-479a-ba3c-a152217ef34a@c.jjndnfiiodnindndnnfbfbfbf.xyz:9997?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=node-9227.nodr.app&pbk=AQ4m70o84QwVvLjTcqCdzPQo6fOUq4-UwG3fBkRCpRU&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
 vless://41164ee6-90ad-479a-ba3c-a152217ef34a@c.jjndnfiiodnindndnnfbfbfbf.xyz:9997?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=node-9227.nodr.app&pbk=AQ4m70o84QwVvLjTcqCdzPQo6fOUq4-UwG3fBkRCpRU&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=safari
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=ios
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=ios
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=chrome
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=firefox
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=edge
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=t.me%252Fripaojiedian&type=tcp&allowInsecure=1&fp=android
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=random
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=edge
+trojan://BxceQaOe@100.42.228.109:443?security=tls&sni=100.42.228.109&allowInsecure=1&type=tcp&fp=firefox
