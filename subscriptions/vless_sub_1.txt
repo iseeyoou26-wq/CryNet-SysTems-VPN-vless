@@ -1,8 +1,0 @@
-# Подписка #1
-# Всего: 4
-# Обновлено: 2026-10-02 16:05:41
-
-trojan://a2cd097a-9b02-4e45-ab60-799b3f8e8d6c@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=safari
-trojan://a2cd097a-9b02-4e45-ab60-799b3f8e8d6c@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=android
-trojan://a2cd097a-9b02-4e45-ab60-799b3f8e8d6c@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=qq
-trojan://a2cd097a-9b02-4e45-ab60-799b3f8e8d6c@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=firefox
