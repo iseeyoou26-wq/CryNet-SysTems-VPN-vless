@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 4
-# Обновлено: 2026-10-02 08:44:36
+# Обновлено: 2026-10-02 08:45:21
 
 vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:563?encryption=none&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://1b719dea-8174-4c27-ae5b-d0d41e227da0@135.106.223.241:655?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
