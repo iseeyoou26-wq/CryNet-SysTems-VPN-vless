@@ -1,5 +1,8 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-03 16:31:09
+# Всего: 4
+# Обновлено: 2026-10-03 16:31:53
 
-# Пока нет рабочих конфигов
+trojan://a2d27bc0-bbcc-4798-b156-62059c537737@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=android
+trojan://a2d27bc0-bbcc-4798-b156-62059c537737@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=chrome
+trojan://a2d27bc0-bbcc-4798-b156-62059c537737@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=edge
+trojan://a2d27bc0-bbcc-4798-b156-62059c537737@45.205.27.78:10443?security=tls&sni=45.205.27.78&allowInsecure=1&insecure=1&type=tcp&fp=safari
