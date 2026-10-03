@@ -1,6 +1,12 @@
 # АРХИВ
-# Всего: 123
+# Всего: 129
 
+trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=android
+trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=firefox
+trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=ios
+trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=qq
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBTaW5nYXBvcmUgfCBbQkxdIiwiYWRkIjoiSFpYcURzbEFOMjQzZGVRNy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiMTA2YTFlZWI0OTVjNGRlYWI1NDE0MzQ5MWMzZTAyMjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiSFpYcURzbEFOMjQzZGVRNy52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IkhaWHFEc2xBTjI0M2RlUTcudi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7cgU291dGggS29yZWEsIFlvbmdzYW4tZG9uZyB8IFtCTF0iLCJhZGQiOiI0QlRlOFNNVlV3OFdrM2xOLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5YjMxNDkwZC0xOTBlLTRlZjEtYWYwYS03Y2NhYjNlN2MzYjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiNEJUZThTTVZVdzhXazNsTi52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IjRCVGU4U01WVXc4V2szbE4udi4zZG5zLnZpcCIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://195c005f-ec14-5d06-885c-02fb42575608@185.147.26.218:443?encryption=none&pbk=jgFG50Yuw5A-La-S54Sge3vnkF3N0GVH6ZDXg15CbHg&security=reality&sid=58a148ca1ae650b1&sni=id.vk.com&type=grpc&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 vless://195c005f-ec14-5d06-885c-02fb42575608@185.147.26.218:443?encryption=none&pbk=jgFG50Yuw5A-La-S54Sge3vnkF3N0GVH6ZDXg15CbHg&security=reality&sid=58a148ca1ae650b1&sni=id.vk.com&type=grpc&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 vless://195c005f-ec14-5d06-885c-02fb42575608@185.147.26.218:443?encryption=none&pbk=jgFG50Yuw5A-La-S54Sge3vnkF3N0GVH6ZDXg15CbHg&security=reality&sid=58a148ca1ae650b1&sni=id.vk.com&type=grpc&fp=android#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B%2ACIDR%5D
