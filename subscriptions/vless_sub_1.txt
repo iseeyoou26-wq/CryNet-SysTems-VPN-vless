@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 12
-# Обновлено: 2026-10-05 16:57:04
+# Обновлено: 2026-10-05 16:57:39
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded-once.failspace.top:443?type=tcp&security=tls&sni=nl-new-ded-once.failspace.top&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@nl-new-ded-once.failspace.top:443?type=tcp&security=tls&sni=nl-new-ded-once.failspace.top&alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Halfweg%20%7C%20%5BBL%5D
