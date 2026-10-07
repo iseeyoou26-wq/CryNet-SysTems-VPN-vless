@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 3
-# Обновлено: 2026-10-07 21:06:16
+# Обновлено: 2026-10-07 21:09:10
 
 vless://2a0b565e-904e-4d3b-a7eb-0725d6a2c7cd@13.143.166.245:443?security=reality&encryption=none&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=cdn.jsdelivr.net&sid=ff867ed245c73f43#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%233142%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@de.zhabulik.ru:443?allowInsecure=1&sni=de.zhabulik.ru&alpn=h2%2Chttp/1.1
