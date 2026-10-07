@@ -1,5 +1,5 @@
 # Подписка #1
 # Всего: 1
-# Обновлено: 2026-10-07 18:06:06
+# Обновлено: 2026-10-07 18:17:27
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?encryption=none&type=ws&path=/&host=opencode-api.darkmind.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Phoenix%20%7C%20%5BBL%5D
