@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 5
-# Обновлено: 2026-10-08 23:24:14
+# Обновлено: 2026-10-08 23:26:38
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351
