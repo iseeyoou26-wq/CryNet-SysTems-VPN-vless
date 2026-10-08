@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-08 22:53:05
+# Всего: 1
+# Обновлено: 2026-10-08 22:56:09
 
-# Пока нет рабочих конфигов
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Dubai%20%28Nadd%20ash%20Shib%C4%81%29%20%7C%20%5BBL%5D
