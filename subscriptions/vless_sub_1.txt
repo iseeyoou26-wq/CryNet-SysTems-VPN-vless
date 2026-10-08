@@ -1,9 +1,9 @@
 # Подписка #1
 # Всего: 5
-# Обновлено: 2026-10-08 13:45:55
+# Обновлено: 2026-10-08 13:46:53
 
 vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?type=ws&sni=psf-2.weedly.top&host=beat.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
 vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&sni=aws.amazon.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Gambiran%20Satu%20%7C%20%5BBL%5D
-vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&type=tcp&headerType=none&host=aws.amazon.com&path=%2F#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Gambiran%20Satu%20%7C%20%5BBL%5D
 vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@217.60.24.36:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&security=reality&sid=a7c31f92&sni=cipher961.filebeam.website&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=tcp&security=reality&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&type=tcp&headerType=none&host=aws.amazon.com&path=%2F#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Gambiran%20Satu%20%7C%20%5BBL%5D
