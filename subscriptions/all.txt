@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 13
-# Обновлено: 2026-10-08 09:03:19
+# Обновлено: 2026-10-08 09:03:49
 
 vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:8443?encryption=none&fp=firefox&security=tls&sni=13.143.174.97&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
 vless://cfae6477-e8ad-4114-8efd-a7c3e5d8a05b@13.143.174.97:8443?encryption=none&security=tls&sni=13.143.174.97&fp=random&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
