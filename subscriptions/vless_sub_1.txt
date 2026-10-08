@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 5
-# Обновлено: 2026-10-08 13:43:32
+# Обновлено: 2026-10-08 13:45:55
 
 vless://e4ed5619-5e91-442a-92f1-755a7f6331b8@psf-2.weedly.top:80?type=ws&sni=psf-2.weedly.top&host=beat.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
 vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&sni=aws.amazon.com#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Gambiran%20Satu%20%7C%20%5BBL%5D
