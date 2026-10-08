@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 4
-# Обновлено: 2026-10-08 06:47:57
+# Обновлено: 2026-10-08 06:49:56
 
 vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?type=ws&host=machinemag.ir&sni=psf-3.weedly.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
