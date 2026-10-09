@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 61
-# Обновлено: 2026-10-10 02:50:07
+# Обновлено: 2026-10-10 02:52:04
 
 vless://5ac49a12-f275-44b4-b11d-26505f3f268e@177.1.192.81:443?security=reality&encryption=none&pbk=JNr60Nnq_sdeAz5jd25bxNDx_c9CeYLu7DRbQH3P5xk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=85766a81#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&type=tcp&sni=portal.citygrainla.com&flow=xtls-rprx-vision&fp=random&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
