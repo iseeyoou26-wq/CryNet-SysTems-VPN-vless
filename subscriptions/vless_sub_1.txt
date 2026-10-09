@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-10-09 12:33:23
+# Обновлено: 2026-10-09 12:38:04
 
 vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=edge#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
 vless://31c236ad-92ed-4771-9d51-0d1f5a9b850a@188.225.34.111:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&sid=ad7dab462a323acb&type=tcp&fp=random#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%5B%2ACIDR%5D
