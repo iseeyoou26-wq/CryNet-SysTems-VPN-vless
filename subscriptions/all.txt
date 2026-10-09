@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 17
-# Обновлено: 2026-10-10 02:43:07
+# Всего: 18
+# Обновлено: 2026-10-10 02:46:14
 
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=reality&encryption=none&pbk=TixECE6AqdT0DEihGXGqBAovNYMxZSB2csK0Lmm1ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=11e097a032298bd8&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20CDN
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=reality&encryption=none&pbk=TixECE6AqdT0DEihGXGqBAovNYMxZSB2csK0Lmm1ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=11e097a032298bd8&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20CDN
@@ -9,6 +9,7 @@ vless://741809be-e44e-0008-b411-bf66f0ae3860@147.45.213.54:443?security=reality&
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=reality&encryption=none&pbk=TixECE6AqdT0DEihGXGqBAovNYMxZSB2csK0Lmm1ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=11e097a032298bd8&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20CDN
 vless://741809be-e44e-0008-b411-bf66f0ae3860@147.45.213.54:443?security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=tcp&security=reality&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=tcp&security=reality&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.ru&sid=db04ce8bdb8900f1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=tcp&security=reality&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
