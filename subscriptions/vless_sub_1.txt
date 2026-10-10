@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 56
-# Обновлено: 2026-10-10 05:54:39
+# Всего: 57
+# Обновлено: 2026-10-10 06:00:42
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl3.nztvpn.com&fp=firefox&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
@@ -17,6 +17,7 @@ vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=realit
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=reality&encryption=none&pbk=TixECE6AqdT0DEihGXGqBAovNYMxZSB2csK0Lmm1ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=11e097a032298bd8&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23125
 vless://741809be-e44e-0008-b411-bf66f0ae3860@147.45.213.54:443?security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://f23bc4f1-cc71-4003-ae6c-d6abe21d8191@46.243.235.246:7449?security=reality&encryption=none&pbk=TixECE6AqdT0DEihGXGqBAovNYMxZSB2csK0Lmm1ch0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=11e097a032298bd8&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%2367
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls
 vless://741809be-e44e-0008-b411-bf66f0ae3860@147.45.213.54:443?security=reality&sni=diffoscope.com&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://f0e2feb9-cbe0-49fc-a148-8ec97cb0f948@20.212.105.115:41202?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qy3mbHGSK-cWrJ_Dsaj-R8ydGtWo4lr3EtAvrEWv3mo&security=reality&sni=aws.amazon.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
