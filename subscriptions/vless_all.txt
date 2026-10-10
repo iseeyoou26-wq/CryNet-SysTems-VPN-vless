@@ -1,13 +1,15 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 71
-# Обновлено: 2026-10-10 12:40:30
+# Всего: 73
+# Обновлено: 2026-10-10 12:58:57
 
 vless://73d86324-dd6a-4f90-9289-8d594d4c1e5f@pleasejuststop.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pleasejuststop.net&pbk=10cNLHvCZCR7juArEvYiSMPN2vqgZixYqsx-3UhMtl0&sid=c249024951068cc1&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://73d86324-dd6a-4f90-9289-8d594d4c1e5f@pleasejuststop.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pleasejuststop.net&pbk=10cNLHvCZCR7juArEvYiSMPN2vqgZixYqsx-3UhMtl0&sid=c249024951068cc1&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@nd-3.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@185.114.48.103:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@nd-3.ardesnode.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-3.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388
 vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.133:443?security=reality&encryption=none&pbk=UXJLPiZERc6kP5cJ40BJVlmobrFc2ztp2aHkK1P-UAU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=worki.puffixhosting.com&sid=0a816eb58c4e3fd9&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://e937b92c-701f-420e-a621-3eb3b75de467@45.13.186.133:443?security=reality&encryption=none&pbk=UXJLPiZERc6kP5cJ40BJVlmobrFc2ztp2aHkK1P-UAU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=worki.puffixhosting.com&sid=0a816eb58c4e3fd9&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@45.82.56.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nd-2.ardesnode.ru&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
