@@ -1,6 +1,10 @@
 # АРХИВ
-# Всего: 125
+# Всего: 129
 
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=qq
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
