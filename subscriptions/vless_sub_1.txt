@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 63
-# Обновлено: 2026-10-13 08:33:00
+# Обновлено: 2026-10-13 08:38:43
 
 vless://2b64baf4-6499-407e-abe8-67c1eb0475f9@45.139.24.66:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mpmind.ru&fp=safari&pbk=8T_dvQtISKE6Z6kuLg_-3NkERywrnQwZj_81j_ieQDI&sid=bd78771a70d2da96&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?security=reality&encryption=none&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maple.hubnori.ink&sid=d574a560c675152e#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
