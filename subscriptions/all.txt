@@ -1,9 +1,10 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 62
-# Обновлено: 2026-10-13 08:13:02
+# Всего: 63
+# Обновлено: 2026-10-13 08:31:10
 
 vless://2b64baf4-6499-407e-abe8-67c1eb0475f9@45.139.24.66:443?type=tcp&headerType=none&security=reality&encryption=none&sni=mpmind.ru&fp=safari&pbk=8T_dvQtISKE6Z6kuLg_-3NkERywrnQwZj_81j_ieQDI&sid=bd78771a70d2da96&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?security=reality&encryption=none&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maple.hubnori.ink&sid=d574a560c675152e#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?&security=reality&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&fp=chrome&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp&headerType=none&host=ge-s-1.pythonmakemigreat.wiki&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl.srv.vbuste-bot.com:444?encryption=none&type=grpc&security=reality&sni=nl.srv.vbuste-bot.com&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
