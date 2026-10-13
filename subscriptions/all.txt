@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 16
-# Обновлено: 2026-10-13 15:19:51
+# Обновлено: 2026-10-13 15:25:34
 
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@lineartronic-iii.subaru-volga.com:443?encryption=none&security=reality&sni=lineartronic-iii.subaru-volga.com&fp=random&pbk=HGQg7VrNlEhfOEjLR1LNeBZaVJg-J1f4DhxqOp-orjA&sid=6facda&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari
