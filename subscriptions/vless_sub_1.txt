@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 13
-# Обновлено: 2026-10-13 12:57:58
+# Обновлено: 2026-10-13 13:01:46
 
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
