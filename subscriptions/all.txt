@@ -1,8 +1,15 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 4
-# Обновлено: 2026-10-13 14:45:34
+# Всего: 11
+# Обновлено: 2026-10-13 14:47:18
 
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=qq
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=safari
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23105
+trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=edge
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=chrome&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23106
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23104
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsIm5ldCI6InRjcCIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwic2N5IjoiYXV0byIsImhvc3QiOiIiLCJwYXRoIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6IjM1MDM0IiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJhaWQiOiIwIiwidGxzIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://741809be-e44e-0008-b411-bf66f0ae3860@201.24.55.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=diffoscope.com&fp=random&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
