@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 24
-# Обновлено: 2026-10-13 19:10:44
+# Всего: 25
+# Обновлено: 2026-10-13 19:12:20
 
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@nl1.aiage.work:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=vSa3rWZfq5OftXO2RSgggbTOxbHlWGTLpP8bNDki3wk&sni=nl1.aiage.work&sid=adcbde41b1cf27ba&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@nl1.aiage.work:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=vSa3rWZfq5OftXO2RSgggbTOxbHlWGTLpP8bNDki3wk&sni=nl1.aiage.work&sid=adcbde41b1cf27ba&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
@@ -10,6 +10,7 @@ trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowI
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none&fp=android
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%2372
+vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%2392
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%2371
 vless://3084f0d9-cb7e-425d-8d8f-7b5e3b5570c6@hs.riverveil.com:27631?&security=reality&pbk=ydFMrFC_HRlVDj7e4jVGx1XZCuogpHZ82K3j-Kns0AE&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Hoofddorp%20%7C%20%5BBL%5D
 vless://3084f0d9-cb7e-425d-8d8f-7b5e3b5570c6@hs.riverveil.com:27631?security=reality&pbk=ydFMrFC_HRlVDj7e4jVGx1XZCuogpHZ82K3j-Kns0AE&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Hoofddorp%20%7C%20%5BBL%5D
