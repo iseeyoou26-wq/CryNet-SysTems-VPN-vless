@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 368
+# Всего: 370
 
+vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5BSNI-RU%5D%20strm.yandex.net
+vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=safari#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%7C%20%5BSNI-RU%5D%20strm.yandex.net
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
