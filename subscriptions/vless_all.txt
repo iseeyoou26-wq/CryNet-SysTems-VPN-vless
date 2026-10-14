@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 12
-# Обновлено: 2026-10-14 14:12:13
+# Обновлено: 2026-10-14 14:13:19
 
 vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23101
 vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@45.147.28.146:443?encryption=none&security=reality&sni=amd.com&flow=xtls-rprx-vision&type=tcp&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%5BBL%5D
