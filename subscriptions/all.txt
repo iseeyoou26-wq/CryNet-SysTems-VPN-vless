@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 36
-# Обновлено: 2026-10-14 08:06:23
+# Обновлено: 2026-10-14 08:07:35
 
 vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@salt0.khovanski.mom:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=salt0.khovanski.mom&pbk=III2StgFziJtisbaKDYlEF2qYwBHJZnzZH5DHdwuFQ8&sid=d110331f200987ae&fp=firefox&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&encryption=none&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=296f27de82dad7ff#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
