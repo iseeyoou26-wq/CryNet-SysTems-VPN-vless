@@ -1,6 +1,52 @@
 # АРХИВ
-# Всего: 215
+# Всего: 261
 
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=edge
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=ios
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=qq
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=chrome
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=edge
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=firefox
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=ios
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=qq
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=safari
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=android
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=chrome
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=edge
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=ios
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=qq
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=safari
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=android
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=chrome
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=edge
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=firefox
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=qq
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=safari
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=android
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=chrome
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=firefox
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=ios
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=qq
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=safari
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=chrome
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=ios
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=safari
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=android
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=edge
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=firefox
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=qq
+trojan://mitivpn@151.101.38.6:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=www.firefox.com&fp=chrome
+trojan://mitivpn@151.101.38.6:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=www.firefox.com&fp=qq
+trojan://mitivpn@199.232.78.160:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=chrome
+trojan://mitivpn@167.82.64.46:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=firefox.com&fp=chrome
+trojan://mitivpn@167.82.64.46:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSs---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=firefox.com&fp=safari
+trojan://mitivpn@199.232.78.160:443?path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--s2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=google.com&fp=qq
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.videopereval.cc:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.videopereval.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
 vless://525033a1-1dca-4c0c-91ad-d801af6ed18f@fru01.tunnely.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=f03.tunnely.space&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=d1694c220d4b13e7&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://525033a1-1dca-4c0c-91ad-d801af6ed18f@fru01.tunnely.space:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=f03.tunnely.space&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=d1694c220d4b13e7&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
