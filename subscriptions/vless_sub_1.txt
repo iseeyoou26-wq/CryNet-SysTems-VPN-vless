@@ -1,5 +1,6 @@
 # Подписка #1
-# Всего: 1
-# Обновлено: 2026-10-16 11:49:43
+# Всего: 2
+# Обновлено: 2026-10-16 12:57:33
 
-vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@sdttr.azad0namah.ir:8080?encryption=none&security=none&type=tcp&headerType=none&host=play.google.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
+vless://fc12fb20-4380-11ec-8c97-d707e267af0b@hk02.ccdn3.work:797?security=reality&flow=xtls-rprx-vision&pbk=jhXvFm1aXjddgGBpBVOX3YPz2tUMCsZ8gv_Sew3aTDs&sid=c1b7aeca5dff4089&sni=i1.hdslb.com&type=tcp&headerType=none&host=i1.hdslb.com&path=%2F&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
