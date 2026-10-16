@@ -1,6 +1,9 @@
 # АРХИВ
-# Всего: 651
+# Всего: 654
 
+vless://XpnTeam-10@199.232.78.160:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%7C%20%5BBL%5D
+vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFpZCI6IjAiLCJob3N0IjoiZGUuemhvdS15dWZhbi5jb20iLCJpZCI6ImYzOGU1OTFkLWQxM2EtNGMzMC05NzYzLTZiZTNhZDY1ZjNlYyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgRMO8c3NlbGRvcmYgfCDwn4yQIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HsPCfh78gS2F6YWtoc3RhbiwgQWxtYXR5IHwgW0JMXSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.251.101.248:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fhtml%2Fmovies%2Fwatch%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.251.110.54:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Ftrade%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.77.201.227:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Faccount%2Fpicture%2Fstudy%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
