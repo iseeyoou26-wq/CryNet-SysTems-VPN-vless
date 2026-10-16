@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 15
-# Обновлено: 2026-10-16 13:05:40
+# Обновлено: 2026-10-16 13:07:57
 
 vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?encryption=none&security=reality&sni=addons.mozilla.org&type=tcp&fp=randomized&flow=xtls-rprx-vision&alpn=&allowInsecure=1&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&sid=5ea112e8#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%5B%2ACIDR%5D
 vless://adc11f30-e4cb-4985-bf5e-f9ded69c019f@90.156.218.163:443?type=tcp&security=reality&host=%3FTELEGRAM--MARAMBASHI--MARAMBASHI&sni=eh.vk.ru&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
