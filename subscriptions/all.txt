@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 24
-# Обновлено: 2026-10-16 09:50:47
+# Всего: 25
+# Обновлено: 2026-10-16 09:56:15
 
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=f8379ce795f2e5ed&sni=hu1.aiage.work&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%28XI.%20ker%C3%BClet%29%20%7C%20%5BBL%5D
 vless://d9e4985b-ba78-0166-b174-020ec04c1de8@husky.nodegrimbird.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=bcy_7CXApQ_XiN6TAjzey8LcFHAhJpLOIeXDA1Lh8Bc&sni=cloudbird.top#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
@@ -15,6 +15,7 @@ trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws&path=%2Ff2fc2a1f&host=hl-freedom-2.undef.network&fp=chrome
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=f8379ce795f2e5ed&sni=hu1.aiage.work&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
 vless://497f5381-3533-4c6a-939c-66eb3a7de108@cdn.topingr.ir:443?type=ws&security=tls&path=/gropcdn&sni=cdn.topingr.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls
 vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&security=reality&sid=3c6afdc4124d0560&sni=lv.aiage.work&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
 trojan://ZLNrfFIw6IXWvhFvGEWi4EcsWJ76ZiDh@160.21.74.183:8443?security=tls&sni=160.21.74.183&insecure=1&allowInsecure=1&fp=chrome&type=tcp
 vless://e5544327-834c-455a-9db5-2454c788fa17@117.55.194.76:443?security=reality&encryption=none&pbk=V-6tk21giXjug4ZXwpAhT4aXHjsXYwkgznT4dQEc9Aw&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=d1-au.cloud-cdn.xyz&sid=48d6ed723454f6db#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%5BBL%5D
