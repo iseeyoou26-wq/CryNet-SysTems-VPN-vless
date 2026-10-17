@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 16
-# Обновлено: 2026-10-17 11:28:23
+# Обновлено: 2026-10-17 11:31:53
 
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20%C3%84lvsj%C3%B6%20%7C%20%5BBL%5D
