@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 37
-# Обновлено: 2026-10-18 06:35:34
+# Обновлено: 2026-10-18 06:36:53
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?path=/real&security=none&encryption=none&host=farancenew.mamadhpbot.ir&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
@@ -8,16 +8,16 @@ vless://4cb9157c-cd6f-451f-b786-1c92edec32cb@193.23.209.1:8467?security=reality&
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?type=ws&security=none&path=/real#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=ios
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=safari
-vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@roxnsk.color-shop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=qq
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=android
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=qq
-trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD
+vless://e3026ffb-cde6-4cfe-b4b7-f76d5264e969@roxnsk.color-shop.ir:8080?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=chrome
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=ios
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=qq
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=android
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=safari
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=qq
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?type=ws&security=none&path=/real#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Staten%20Island%20%7C%20%5BBL%5D
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?path=/real&security=none&encryption=none&host=www.goo.gl&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Staten%20Island%20%7C%20%5BBL%5D
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=ios&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&type=tcp&headerType=none&host=se3.h1cloud.net&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20%C3%84lvsj%C3%B6%20%7C%20%5BBL%5D
