@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 480
+# Всего: 481
 
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@rus.noooo.win:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=id-6ad3c751.adhil.uk&alpn=h2&type=tcp&headerType=none&path=%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@rus.noooo.win:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=id-6ad3c751.adhil.uk&alpn=h2&type=tcp&headerType=none&path=%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@rus.noooo.win:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=id-6ad3c751.adhil.uk&alpn=h2&type=tcp&headerType=none&path=%2F&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
