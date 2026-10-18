@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 19
-# Обновлено: 2026-10-18 13:33:45
+# Обновлено: 2026-10-18 13:52:19
 
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=qq
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=ios
