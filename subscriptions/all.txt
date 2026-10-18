@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 22
-# Обновлено: 2026-10-18 09:46:23
+# Обновлено: 2026-10-18 09:47:16
 
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=qq
