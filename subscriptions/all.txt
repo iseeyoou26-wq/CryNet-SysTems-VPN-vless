@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 39
-# Обновлено: 2026-10-18 06:42:22
+# Обновлено: 2026-10-18 06:45:52
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall
