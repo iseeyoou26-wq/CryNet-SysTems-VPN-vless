@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 40
-# Обновлено: 2026-10-18 07:57:00
+# Всего: 41
+# Обновлено: 2026-10-18 07:57:54
 
 vless://b1babf7b-442f-4a68-ac7e-e84127b35d5b@188.130.209.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G4fqCmAVU43HdijV43q-USF8wRgPt8Ld3L7_msJyfTo&security=reality&sid=fc1b2a12a84ea61b&sni=promo-digital.wb.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?type=ws&security=none&path=/real#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
@@ -39,6 +39,7 @@ vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?path=/real&security=none&encryption=none&host=www.goo.gl&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Staten%20Island%20%7C%20%5BBL%5D
 vless://bcfbb19f-5b0e-4862-a77b-904fffd0b513@ali-hk.qrfly.top:10102?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tesla.com&fp=random&pbk=kVpVhfT5_4__Sxj4i0S2DOQKKfK549rgy2HWP9QU4iw&sid=db6c60f1&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
 vless://4cb9157c-cd6f-451f-b786-1c92edec32cb@193.23.209.1:8467?security=reality&sni=ru.tradingview.com&fp=qq&pbk=n3BiVX_oDQXcqC0OmOm5o0RuOaXoHHhdiQ2s-xqkayA&sid=d7c8227902c1d878&flow=xtls-rprx-vision&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://a4b5dc53-2eee-4c5e-ac43-d8f0fdc36a40@95.163.152.205:2053?encryption=none&flow=xtls-rprx-vision&pbk=KEwhHRW2YSUHYAKsyX0KE3uKkGVDMudZUhLKfmb8eR0&security=reality&sid=4b27271677fa6fde&sni=www.rutube.ru&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5BSNI-RU%5D%20www.rutube.ru
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?security=reality&type=tcp&sni=www.samsung.com&path=&flow=xtls-rprx-vision&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20%C3%84lvsj%C3%B6%20%7C%20%5BBL%5D
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=firefox&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20%C3%84lvsj%C3%B6%20%7C%20%5BBL%5D
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@se3.h1cloud.net:25119?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=szPq4a3cvxfBOmGyg-UJCV3d1Jqjnj7YR3gaxyYtnk4&sid=10f517&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20%C3%84lvsj%C3%B6%20%7C%20%5BBL%5D
