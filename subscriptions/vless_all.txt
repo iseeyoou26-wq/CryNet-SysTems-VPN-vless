@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 13
-# Обновлено: 2026-10-18 07:50:16
+# Всего: 24
+# Обновлено: 2026-10-18 07:51:42
 
 vless://b1babf7b-442f-4a68-ac7e-e84127b35d5b@188.130.209.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G4fqCmAVU43HdijV43q-USF8wRgPt8Ld3L7_msJyfTo&security=reality&sid=fc1b2a12a84ea61b&sni=promo-digital.wb.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?flow=xtls-rprx-vision&fp=ios&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapolyana.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
@@ -13,5 +13,16 @@ vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?flow=xtls-r
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?flow=xtls-rprx-vision&fp=chrome&host=api.mediapolyana.cc&path=%2F&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapolyana.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapolyana.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediapolyana.cc&type=tcp&headerType=none&host=api.mediapolyana.cc&path=%2F&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.mediapolyana.cc&fp=chrome&security=reality&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediapolyana.cc:443?flow=xtls-rprx-vision&fp=safari&host=api.mediapolyana.cc&path=%2F&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediapolyana.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=chrome
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=ios
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=safari
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=qq
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD&fp=android
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=qq
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?sni=FREETOPLAY-2.TETRIS-GAME.WORLD&peer=FREETOPLAY-2.TETRIS-GAME.WORLD&security=tls&fp=android
