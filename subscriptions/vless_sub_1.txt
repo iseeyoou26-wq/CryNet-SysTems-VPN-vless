@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 40
-# Обновлено: 2026-10-18 07:56:03
+# Обновлено: 2026-10-18 07:57:00
 
 vless://b1babf7b-442f-4a68-ac7e-e84127b35d5b@188.130.209.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G4fqCmAVU43HdijV43q-USF8wRgPt8Ld3L7_msJyfTo&security=reality&sid=fc1b2a12a84ea61b&sni=promo-digital.wb.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://732ec777-bf4a-4fee-835a-25d6a8b58563@farancenew.mamadhpbot.ir:8080?type=ws&security=none&path=/real#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Aubervilliers%20%7C%20%5BBL%5D
