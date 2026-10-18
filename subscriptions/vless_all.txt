@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 39
-# Обновлено: 2026-10-18 17:09:01
+# Обновлено: 2026-10-18 17:11:58
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&sni=de3.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
