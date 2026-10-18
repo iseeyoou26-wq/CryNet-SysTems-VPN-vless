@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 22
-# Обновлено: 2026-10-18 09:51:45
+# Обновлено: 2026-10-18 09:55:23
 
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top&alpn=http%2F1.1&fp=firefox&type=tcp
 vless://4cb9157c-cd6f-451f-b786-1c92edec32cb@193.23.209.1:8467?security=reality&sni=ru.tradingview.com&fp=qq&pbk=n3BiVX_oDQXcqC0OmOm5o0RuOaXoHHhdiQ2s-xqkayA&sid=d7c8227902c1d878&flow=xtls-rprx-vision&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
