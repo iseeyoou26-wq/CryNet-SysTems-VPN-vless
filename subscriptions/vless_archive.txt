@@ -1,6 +1,16 @@
 # АРХИВ
-# Всего: 339
+# Всего: 349
 
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.129.255.169:443?security=reality&encryption=none&pbk=niV4WMTlvC1GGfEv5CqdgQCLXfAHeRA6y_K3ADYqrUc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-yt-tw.movietop24.site&sid=79fbb8c2e64269d7&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.129.255.169:443?security=reality&encryption=none&pbk=niV4WMTlvC1GGfEv5CqdgQCLXfAHeRA6y_K3ADYqrUc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-yt-tw.movietop24.site&sid=79fbb8c2e64269d7&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.129.255.169:443?security=reality&encryption=none&pbk=niV4WMTlvC1GGfEv5CqdgQCLXfAHeRA6y_K3ADYqrUc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-yt-tw.movietop24.site&sid=79fbb8c2e64269d7&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.129.255.169:443?security=reality&encryption=none&pbk=niV4WMTlvC1GGfEv5CqdgQCLXfAHeRA6y_K3ADYqrUc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-yt-tw.movietop24.site&sid=79fbb8c2e64269d7&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://9ab9291e-fd72-4af9-b227-93419e90ff2e@5.129.255.169:443?security=reality&encryption=none&pbk=niV4WMTlvC1GGfEv5CqdgQCLXfAHeRA6y_K3ADYqrUc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ru-in-yt-tw.movietop24.site&sid=79fbb8c2e64269d7&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.40:8443?flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=android
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome
