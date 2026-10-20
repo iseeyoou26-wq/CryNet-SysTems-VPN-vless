@@ -1,5 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-20 15:57:08
+# Всего: 2
+# Обновлено: 2026-10-20 15:58:16
 
-# Пока нет рабочих конфигов
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=edge
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=firefox
