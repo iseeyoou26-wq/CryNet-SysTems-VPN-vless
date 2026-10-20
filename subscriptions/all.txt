@@ -1,5 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-20 21:14:21
+# Всего: 2
+# Обновлено: 2026-10-20 21:32:43
 
-# Пока нет рабочих конфигов
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
