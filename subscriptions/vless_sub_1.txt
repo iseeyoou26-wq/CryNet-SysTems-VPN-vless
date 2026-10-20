@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 6
-# Обновлено: 2026-10-20 16:05:32
+# Обновлено: 2026-10-20 16:07:09
 
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=edge
