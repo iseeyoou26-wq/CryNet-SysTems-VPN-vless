@@ -1,14 +1,14 @@
 # Подписка #1
 # Всего: 10
-# Обновлено: 2026-10-21 20:35:24
+# Обновлено: 2026-10-21 22:07:42
 
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=edge#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Szeged%20%7C%20%5BBL%5D
-vless://6877f68f-2443-445d-8c11-16c77a2699a5@174.136.204.23:34539?security=reality&encryption=none&pbk=KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ab400d5a&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://6877f68f-2443-445d-8c11-16c77a2699a5@174.136.204.23:34539?security=reality&encryption=none&pbk=KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ab400d5a&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=chrome#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Szeged%20%7C%20%5BBL%5D
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=qq#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Szeged%20%7C%20%5BBL%5D
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=firefox#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Szeged%20%7C%20%5BBL%5D
-vless://d0d08709-093d-45dc-ac6f-fd18890fa2c5@hu3.aiage.work:443?encryption=none&security=reality&sni=hu3.aiage.work&flow=xtls-rprx-vision&pbk=M67-jEVPxSEjAhdBgL-lFgzQt_FloM7tL092KC7LTFE&sid=a09ef132e6a308ae&fp=ios#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Szeged%20%7C%20%5BBL%5D
-vless://6877f68f-2443-445d-8c11-16c77a2699a5@174.136.204.23:34539?security=reality&encryption=none&pbk=KZ95U9GVT36nb3EPuraPI2BwyikGlQv8sIyRvgECt2E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=ab400d5a&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://5c8950a3-2142-42c9-b414-fa34526ff25f@206.223.248.70:443?security=reality&encryption=none&pbk=2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ&type=tcp&flow=xtls-rprx-vision&sni=kz-2.movietop24.site&sid=aba1b7bfa1fdbb10&fp=qq#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
