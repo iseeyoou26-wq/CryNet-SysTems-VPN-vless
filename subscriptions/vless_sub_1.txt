@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 3
-# Обновлено: 2026-10-21 23:25:07
+# Обновлено: 2026-10-21 23:26:18
 
 vless://8d4c35bd-d04a-43fe-8390-47133ab90dbf@45.198.54.249:443?encryption=none&pbk=rHCPMrwRVCwxdwv4YOCso7zlYTPoX8w7x1f5Yqv2bGM&security=reality&sid=b73ab21227d33c1e&sni=6a4a06t.es3.h1clayd.click&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D
 vless://8d4c35bd-d04a-43fe-8390-47133ab90dbf@45.198.54.249:443?encryption=none&pbk=rHCPMrwRVCwxdwv4YOCso7zlYTPoX8w7x1f5Yqv2bGM&security=reality&sid=b73ab21227d33c1e&sni=6a4a06t.es3.h1clayd.click&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D
