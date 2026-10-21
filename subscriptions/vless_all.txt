@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-22 01:46:04
+# Всего: 1
+# Обновлено: 2026-10-22 01:47:38
 
-# Пока нет рабочих конфигов
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/FuckTheWall
