@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 24
-# Обновлено: 2026-10-22 02:25:20
+# Обновлено: 2026-10-22 02:29:09
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top
