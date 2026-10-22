@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 48
-# Обновлено: 2026-10-22 04:06:34
+# Всего: 51
+# Обновлено: 2026-10-22 04:11:48
 
 vless://1d690248-024b-4923-aab2-0abebe0688d3@185.147.27.92:443?security=reality&encryption=none&pbk=dMy6EEwckj-LDysvKx0HflY60Z3YiuGD7D7UeJjItDA&headerType=&fp=firefox&type=tcp&sni=fotaku.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@31.130.151.173:63799?security=reality&encryption=none&pbk=rksumj7kjb-nIMlH8fXwqgAQJj-TvCWbwiUbeOqdXiY&fp=firefox&type=grpc&sni=www.starlink.com&sid=e4b3903b4bd12d1a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -28,7 +28,9 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://261160d5-0343-4b85-8c28-3d40dd681559@147.45.46.148:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.ozon.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://261160d5-0343-4b85-8c28-3d40dd681559@45.9.118.187:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top
 vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&security=reality&sni=360.yandex.ru&fp=random&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&type=grpc&serviceName=#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?security=tls&sni=it1.dedushka.top
 vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&fp=random&mode=gun&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&security=reality&sid=27e53bbcab7593d7&sni=360.yandex.ru&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23107
 vless://7ab86f1f-871e-4de6-9dae-7addf6dc976c@185.76.241.49:443?security=reality&encryption=none&pbk=-vbYsY2UQcGl7Z6eTc5KDhxOfo_OhsqFlI_SyeL4TSE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru-in-est-4vp.movietop24.site&sid=b927c029ece94e02#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.113:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=syberia.russiavibory.online#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
@@ -49,4 +51,5 @@ vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsIm5ldCI6InRjcCIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIiwic2N5IjoiYXV0byIsImhvc3QiOiIiLCJwYXRoIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiLyIsInBvcnQiOiIzNTAzNCIsInBzIjoi8J+HufCfh7wgVGFpd2FuLCBUYW95dWFuIHwgW0JMXSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io
 vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiLwn4e58J+HvCBUYWl3YW4sIFRhb3l1YW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
