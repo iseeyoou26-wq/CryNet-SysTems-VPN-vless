@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 37
-# Обновлено: 2026-10-22 03:44:14
+# Обновлено: 2026-10-22 03:46:49
 
 vless://1d690248-024b-4923-aab2-0abebe0688d3@185.147.27.92:443?security=reality&encryption=none&pbk=dMy6EEwckj-LDysvKx0HflY60Z3YiuGD7D7UeJjItDA&headerType=&fp=firefox&type=tcp&sni=fotaku.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@31.130.151.173:63799?security=reality&encryption=none&pbk=rksumj7kjb-nIMlH8fXwqgAQJj-TvCWbwiUbeOqdXiY&fp=firefox&type=grpc&sni=www.starlink.com&sid=e4b3903b4bd12d1a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
