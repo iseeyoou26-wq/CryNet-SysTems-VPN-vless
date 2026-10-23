@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 50
-# Обновлено: 2026-10-24 01:33:04
+# Обновлено: 2026-10-24 01:34:11
 
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=safari#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@113.30.154.229:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
