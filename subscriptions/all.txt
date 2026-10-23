@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 91
-# Обновлено: 2026-10-24 01:59:59
+# Всего: 99
+# Обновлено: 2026-10-24 02:01:22
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
@@ -74,11 +74,10 @@ trojan://4fd2b10b6a754019@su106.izzzzzi.com:20008?type=tcp&security=tls&fp=ios
 trojan://4fd2b10b6a754019@su106.izzzzzi.com:20008?type=tcp&security=tls&fp=chrome
 trojan://4fd2b10b6a754019@su106.izzzzzi.com:20008?type=tcp&security=tls
 trojan://4fd2b10b6a754019@su106.izzzzzi.com:20008?type=tcp&security=tls&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios
 ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@103.107.52.106:52351
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=firefox
-trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=chrome
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&sni=iwt196.zxom.eu.org&fp=firefox
-trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&fp=chrome&sni=iwt196.zxom.eu.org
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&sni=iwt196.zxom.eu.org&fp=ios
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&sni=iwt196.zxom.eu.org&fp=chrome
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&sni=iwt196.zxom.eu.org&fp=safari
@@ -87,9 +86,18 @@ vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=real
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7&fp=edge#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%5B%2ACIDR%5D
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=edge#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%5B%2ACIDR%5D
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall&alpn=http/1.1&insecure=1&fp=chrome&type=tcp
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/fuckthewall&allowInsecure=true&fp=chrome
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=android
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=ios#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%5B%2ACIDR%5D
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=qq
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&sni=iwt196.zxom.eu.org&fp=qq
+trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=chrome
+trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?security=tls&fp=chrome&sni=iwt196.zxom.eu.org
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=ios
 trojan://82f1c096fc0d4b1a@iwt196.zxom.eu.org:20015?type=tcp&security=tls&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/FuckTheWall
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=android
 vless://4f7d0057-44d8-499e-8e5c-68fdd63698fd@193.233.112.136:443?encryption=none&flow=xtls-rprx-vision&pbk=wE9QWTa1G-PLRsptUiCjR32a2knp0-5af-snscsxexc&security=reality&sid=a91d3f7c&sni=reg2.gorodokmedia.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
