@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 119
-# Обновлено: 2026-10-24 02:50:26
+# Обновлено: 2026-10-24 02:53:20
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplTFh6VndCZ2tONzdhSW9mMnBFaGFZbXBBVFZaVklsaA==@dns2.m3hrzd.ir:8044
