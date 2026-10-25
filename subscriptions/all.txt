@@ -1,7 +1,8 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 37
-# Обновлено: 2026-10-25 23:52:00
+# Всего: 49
+# Обновлено: 2026-10-26 00:10:41
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@37.235.249.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@193.160.141.34:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2318
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@193.160.141.12:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
@@ -24,18 +25,29 @@ vless://6db6b948-655f-4f68-a9e7-865050e05b31@bak.subaru-volga.com:443?encryption
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@37.235.249.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList%20%2323
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@bak.subaru-volga.com:443?encryption=none&pbk=HGQg7VrNlEhfOEjLR1LNeBZaVJg-J1f4DhxqOp-orjA&security=reality&sid=6fda&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.223.104.147:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=abuse.ozon.ru&allowInsecure=1&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
 vless://0477e879-f2a7-4b76-aa29-28f36b45d4b6@158.160.243.46:443?type=tcp&security=reality&sni=rutube.ru&flow=xtls-rprx-vision&pbk=y3dqCRYQO7GM7DIdQRG1uDjBNRK2vyXd8RJL160WZz4&sid=8a1f9479&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20YA
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@193.160.141.34:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B9%F0%9F%87%B7%20%5B%2ACIDR%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999
 vless://0477e879-f2a7-4b76-aa29-28f36b45d4b6@158.160.243.46:443?type=tcp&security=reality&sni=rutube.ru&flow=xtls-rprx-vision&pbk=y3dqCRYQO7GM7DIdQRG1uDjBNRK2vyXd8RJL160WZz4&sid=8a1f9479&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23181
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@103.91.147.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20ozon.ru
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@147.45.46.187:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B9%F0%9F%87%B7%20%5B%2ACIDR%5D
 vless://6db6b948-655f-4f68-a9e7-865050e05b31@bak.subaru-volga.com:443?encryption=none&pbk=HGQg7VrNlEhfOEjLR1LNeBZaVJg-J1f4DhxqOp-orjA&security=reality&sid=6fda&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.223.104.147:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=abuse.ozon.ru&allowInsecure=1&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2324
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@193.160.141.12:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList%20%239
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@103.91.147.207:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5BSNI-RU%5D%20ozon.ru
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999
 vless://0477e879-f2a7-4b76-aa29-28f36b45d4b6@158.160.243.46:443?type=tcp&security=reality&sni=rutube.ru&flow=xtls-rprx-vision&pbk=y3dqCRYQO7GM7DIdQRG1uDjBNRK2vyXd8RJL160WZz4&sid=8a1f9479&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23174
 vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.223.104.147:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=abuse.ozon.ru&allowInsecure=1&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2325
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=chrome
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=safari
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=qq
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0=@pphfree2.mvpnpvpn.de5.net:52351
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
