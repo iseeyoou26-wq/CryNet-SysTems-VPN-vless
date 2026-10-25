@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 50
-# Обновлено: 2026-10-26 00:16:48
+# Обновлено: 2026-10-26 00:20:37
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@37.235.249.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
