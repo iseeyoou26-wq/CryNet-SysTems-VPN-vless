@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 26
-# Обновлено: 2026-10-25 22:31:54
+# Обновлено: 2026-10-25 22:34:46
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://531ce91b-f477-4c15-b68f-948a3eea2f70@64.118.156.138:14081?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
