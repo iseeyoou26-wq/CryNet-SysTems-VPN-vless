@@ -1,8 +1,10 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 4
-# Обновлено: 2026-10-26 23:03:46
+# Всего: 6
+# Обновлено: 2026-10-26 23:07:06
 
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=chrome
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=ios
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?security=reality&encryption=none&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lifeskaterstudent.caskstudio.org&sid=c9e5505275320b51#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList%20%2369
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23101
