@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 10
-# Обновлено: 2026-10-27 00:50:00
+# Обновлено: 2026-10-27 00:51:40
 
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&type=tcp&sni=payeeclickerhalogen.berylcord.net&host=payeeclickerhalogen.berylcord.net&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&sid=fda83f2787e6016d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&encryption=none&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=payeeclickerhalogen.berylcord.net&sid=fda83f2787e6016d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
