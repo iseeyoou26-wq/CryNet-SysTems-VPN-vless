@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 10
-# Обновлено: 2026-10-27 00:51:53
+# Всего: 13
+# Обновлено: 2026-10-27 00:54:57
 
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&type=tcp&sni=payeeclickerhalogen.berylcord.net&host=payeeclickerhalogen.berylcord.net&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&sid=fda83f2787e6016d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&encryption=none&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=payeeclickerhalogen.berylcord.net&sid=fda83f2787e6016d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
@@ -8,7 +8,10 @@ vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=realit
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&encryption=none&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=payeeclickerhalogen.berylcord.net&sid=fda83f2787e6016d&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?security=reality&encryption=none&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lifeskaterstudent.caskstudio.org&sid=c9e5505275320b51#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList%20%2369
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=chrome
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?security=reality&encryption=none&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lifeskaterstudent.caskstudio.org&sid=c9e5505275320b51#%F0%9F%87%AB%F0%9F%87%B7%20Gh0st_WhiteList%20%2358
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23101
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?encryption=none&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=math.videoticher.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?encryption=none&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=math.videoticher.com&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
