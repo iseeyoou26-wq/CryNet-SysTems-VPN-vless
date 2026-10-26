@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 17
-# Обновлено: 2026-10-26 18:10:20
+# Обновлено: 2026-10-26 18:11:25
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999
@@ -16,6 +16,6 @@ vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.230.107:443?encryption=none
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&encryption=none&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&headerType=&type=tcp&flow=xtls-rprx-vision&sni=payeeclickerhalogen.berylcord.net&sid=fda83f2787e6016d&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList%20%2345
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=firefox
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=safari
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=safari
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=chrome
