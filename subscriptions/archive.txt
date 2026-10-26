@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 443
+# Всего: 445
 
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&type=tcp&sni=payeeclickerhalogen.berylcord.net&host=payeeclickerhalogen.berylcord.net&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&sid=fda83f2787e6016d&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@188.120.234.199:443?security=reality&type=tcp&sni=payeeclickerhalogen.berylcord.net&host=payeeclickerhalogen.berylcord.net&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&sid=fda83f2787e6016d&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@129.101.115.181:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=a1.eosshop.net&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@129.101.115.181:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&type=tcp&flow=xtls-rprx-vision&sni=a1.eosshop.net&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.230.107:443?security=reality&type=tcp&sni=mortardapplebirch.kilnworkshop.info&host=mortardapplebirch.kilnworkshop.info&flow=xtls-rprx-vision&pbk=hHor6jajmC4pqV1HSOHypVaMiE9xn8qBoE_oSO-c5x0&sid=a0c58a106301b783&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5B%2ACIDR%5D
