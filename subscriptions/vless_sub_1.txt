@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 10
-# Обновлено: 2026-10-27 02:38:38
+# Обновлено: 2026-10-27 02:40:19
 
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?&security=reality&flow=xtls-rprx-vision&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&sid=a50534e181896415&fp=firefox&sni=capableconjuretarnish.clarionconsult.info&type=tcp&headerType=none&host=capableconjuretarnish.clarionconsult.info&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
