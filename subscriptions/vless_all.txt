@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-10-26 17:31:35
+# Всего: 1
+# Обновлено: 2026-10-26 17:34:01
 
-# Пока нет рабочих конфигов
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.230.107:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=hHor6jajmC4pqV1HSOHypVaMiE9xn8qBoE_oSO-c5x0&security=reality&sid=a0c58a106301b783&sni=mortardapplebirch.kilnworkshop.info&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
