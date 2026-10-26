@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 10
-# Обновлено: 2026-10-27 02:40:31
+# Всего: 12
+# Обновлено: 2026-10-27 02:43:25
 
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?&security=reality&flow=xtls-rprx-vision&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&sid=a50534e181896415&fp=firefox&sni=capableconjuretarnish.clarionconsult.info&type=tcp&headerType=none&host=capableconjuretarnish.clarionconsult.info&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
@@ -12,3 +12,5 @@ vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.141.104:443?encryption=none
 vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@147.45.47.152:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D
 vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@193.160.141.70:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gb.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?encryption=none&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=math.videoticher.com&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23165
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?encryption=none&flow=xtls-rprx-vision&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=math.videoticher.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23158
