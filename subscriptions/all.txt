@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 21
-# Обновлено: 2026-10-27 05:09:43
+# Обновлено: 2026-10-27 05:10:15
 
 vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%28%C5%9Ar%C3%B3dmie%C5%9Bcie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2,http/1.1&encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
