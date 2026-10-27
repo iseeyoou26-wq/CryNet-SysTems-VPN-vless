@@ -1,7 +1,11 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 3
-# Обновлено: 2026-10-27 06:58:32
+# Всего: 7
+# Обновлено: 2026-10-27 07:00:20
 
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=capableconjuretarnish.clarionconsult.info&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&sid=a50534e181896415#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?security=reality&encryption=none&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=capableconjuretarnish.clarionconsult.info&sid=a50534e181896415#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?flow=xtls-rprx-vision&headerType=none&host=capableconjuretarnish.clarionconsult.info&path=%2F&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&security=reality&sid=a50534e181896415&sni=capableconjuretarnish.clarionconsult.info&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.230.107:443?security=reality&type=tcp&sni=mortardapplebirch.kilnworkshop.info&host=mortardapplebirch.kilnworkshop.info&flow=xtls-rprx-vision&pbk=hHor6jajmC4pqV1HSOHypVaMiE9xn8qBoE_oSO-c5x0&sid=a0c58a106301b783&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://75b517db-1f97-4bda-a479-863d988c31a0@45.10.43.223:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&sni=www.samsung.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?flow=xtls-rprx-vision&host=washingphonicseatable.solsticedigest.me&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&security=reality&sid=c13c9bd7bd45847d&sni=washingphonicseatable.solsticedigest.me&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall&alpn=http/1.1&insecure=1&fp=chrome&type=tcp
