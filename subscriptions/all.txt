@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 35
-# Обновлено: 2026-10-27 05:37:05
+# Всего: 37
+# Обновлено: 2026-10-27 05:44:40
 
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?flow=xtls-rprx-vision&headerType=none&host=capableconjuretarnish.clarionconsult.info&path=%2F&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&security=reality&sid=a50534e181896415&sni=capableconjuretarnish.clarionconsult.info&type=tcp&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080
@@ -31,9 +31,11 @@ vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reali
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=tcp&security=reality&encryption=none&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&headerType=none&fp=safari#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall&alpn=http/1.1&insecure=1&fp=chrome&type=tcp
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=swz.proxyplankton.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall
 vless://c6b1b2d0-ed5e-48ce-99e6-112ff330030d@177.7.51.29:8443?security=reality&encryption=none&pbk=laG5BxoSbdRozpauATNFBPPTwhuDuu0JFl_SCP2ZQlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=14fbf992#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Boston%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 vless://a715374a-a745-4800-889b-0c864fad5ca0@212.103.62.233:443?encryption=none&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&type=tcp&pbk=d9PiZnm10DBNrlT1ixDCgEk0iU1Hv8Jk1xEI4-Oe6jU&sid=35d45334668b3ac5#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%5BBL%5D
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjflb.m2k699.com:24999?security=tls&sni=www.itunes.com
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?type=tcp&security=tls&fp=firefox&sni=swz.proxyplankton.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%5BBL%5D
 vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@5.178.101.95:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=qWz6ZsgHapz2_mql0OpuMmkx0K8nJ-ltiqOorbCN6A4&sid=559b76fccc9f1a16&fp=edge&sni=de.lizeg.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20%5BBL%5D
 vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?security=none&type=tcp#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Dogok-dong%20%7C%20%5BBL%5D
