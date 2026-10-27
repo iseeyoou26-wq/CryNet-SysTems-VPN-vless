@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 3
-# Обновлено: 2026-10-27 06:57:00
+# Обновлено: 2026-10-27 06:58:00
 
 vless://75b517db-1f97-4bda-a479-863d988c31a0@45.10.43.223:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=f3Ooz7Yxw4QqQNxddxYG0zOewK8zullgKVTBZxR1a0Y&sni=www.samsung.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?flow=xtls-rprx-vision&host=washingphonicseatable.solsticedigest.me&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&security=reality&sid=c13c9bd7bd45847d&sni=washingphonicseatable.solsticedigest.me&type=tcp&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
