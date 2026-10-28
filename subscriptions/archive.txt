@@ -1,6 +1,54 @@
 # АРХИВ
-# Всего: 193
+# Всего: 241
 
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=ios
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq
+trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=android
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=chrome
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=edge
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=firefox
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=qq
+trojan://humanity@212.227.90.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=safari
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=android
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=edge
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=firefox
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=ios
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=qq
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari
+trojan://humanity@192.145.30.27:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=android
+trojan://humanity@192.145.30.27:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=edge
+trojan://humanity@193.23.202.65:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge
+trojan://humanity@193.23.202.65:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=edge
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=firefox
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=ios
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=qq
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=safari
+trojan://humanity@45.131.4.38:443?alpn=http%2F1.1&host=www.pleadcourt.org&insecure=0&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=unsafe
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=chrome
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=edge
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=firefox
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=ios
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=qq
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=unsafe
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=android
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=edge
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=firefox
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=ios
+trojan://humanity@83.217.222.170:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=safari
+trojan://humanity@83.217.222.170:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=unsafe
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEppbnJvbmdqaWUgKFhpY2hlbmcgRGlzdHJpY3QpIHwgW0JMXSIsImFkZCI6IjEyMC40OC4xMzMuMTYyIiwicG9ydCI6IjEwMDg2IiwiaWQiOiJhOGQ5MzFiMC02YzI3LTQyOGItOGQ4Ni1jMjBlZmVhM2RiYTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=static.bakarova-top.ru&headerType=none&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
