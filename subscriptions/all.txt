@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 39
-# Обновлено: 2026-10-28 06:18:19
+# Обновлено: 2026-10-28 06:19:22
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://5102bcfe-05da-4368-8a90-25eecbaaacba@109.248.169.4:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=5CXpYd7nRIsBNSFEumwmFvo7FL_G9ssaf3qEfxflpkA&sid=9e30b811&fp=chrome&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
