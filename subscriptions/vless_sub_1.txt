@@ -1,5 +1,5 @@
 # Подписка #1
 # Всего: 1
-# Обновлено: 2026-10-28 07:34:15
+# Обновлено: 2026-10-28 07:35:38
 
 vless://7e1dc732-1691-4699-8517-e3ca53887978@85.198.85.55:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.max.ru&fp=firefox&pbk=J5j_EwGWM1vgrApg31dnnu5cwMP-OgfJYYwl3kn9zFg#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
