@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 26
-# Обновлено: 2026-10-28 05:50:25
+# Обновлено: 2026-10-28 05:51:19
 
 vless://9420ba04-6647-4c95-96f1-a9e094b922ed@de8ddk.vault-connect.online:443?security=reality&encryption=none&pbk=570bJ-qVwDZinvel-Vj3tDk3-iExm3KdnT-nGT3TbXI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de8ddk.vault-connect.online&sid=cfdb5828734a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20II%29%20%7C%20%5BBL%5D
 vless://5940086d-3158-464a-9abd-95ade1482140@91.197.98.94:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=uEAZ8LNf1nlIhGncag8NmLxbxmJamQx2eiX3SKTnxWs&sid=12934b0bcd48eee6#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
