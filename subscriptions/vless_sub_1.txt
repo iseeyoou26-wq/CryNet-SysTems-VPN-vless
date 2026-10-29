@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-10-29 23:20:02
+# Обновлено: 2026-10-29 23:22:11
 
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@31.58.234.135:47443?security=reality&encryption=none&pbk=r69Y55UMNEcuk345EEMQtVvpK8cNccqo3y9WjY-ugDc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl-1.waspguard.ru&sid=ae97223a8f799871&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam%20City%20Centre%29%20%7C%20%5BBL%5D
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@31.58.234.135:47443?security=reality&encryption=none&pbk=r69Y55UMNEcuk345EEMQtVvpK8cNccqo3y9WjY-ugDc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=nl-1.waspguard.ru&sid=ae97223a8f799871&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam%20City%20Centre%29%20%7C%20%5BBL%5D
