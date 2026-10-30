@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-10-30 03:52:29
+# Обновлено: 2026-10-30 03:54:29
 
 vmess://eyJhZGQiOiJmcmVlLmVydGViYXRnb29zdGFyLmlyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjExOGIwYWJjLWM4ZjYtNDc2YS05Nzc3LWJjNzNmNmUyNTQ4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e58J+HtyBUdXJrZXksIElzdGFuYnVsIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiYWxwbiI6IiIsImZwIjoiIn0=
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?allowInsecure=1&insecure=1&type=tcp&security=tls
