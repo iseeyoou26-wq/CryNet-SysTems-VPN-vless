@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 22
-# Обновлено: 2026-10-31 11:35:31
+# Обновлено: 2026-10-31 11:39:22
 
 vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2353
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
