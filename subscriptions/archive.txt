@@ -1,6 +1,9 @@
 # АРХИВ
-# Всего: 399
+# Всего: 402
 
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none&host=ee.h1cloud.net&path=%2F&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=tcp&security=reality&path=%2F&host=www.samsung.com&sni=www.samsung.com&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-tw-131.ecom-ai-solutions.com:443?encryption=none&flow=xtls-rprx-vision&pbk=RIUz-mLSh5USmpPw1uHkOLlJOlgOeNjTUyp4HEvE020&security=reality&sid=c17d00c501c75fde&sni=assets-tw-131.ecom-ai-solutions.com&type=tcp&fp=randomized#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&host=static.bakarova-top.ru&sni=static.bakarova-top.ru&headerType=none&mode=packet-up&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
