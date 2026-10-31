@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 5
-# Обновлено: 2026-10-31 10:59:23
+# Обновлено: 2026-10-31 11:00:18
 
 vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypriliv.cc&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
