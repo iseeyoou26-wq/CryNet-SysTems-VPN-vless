@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 21
-# Обновлено: 2026-10-31 11:27:33
+# Всего: 22
+# Обновлено: 2026-10-31 11:35:34
 
 vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2353
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
@@ -12,6 +12,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 vless://e8b69db2-c072-41e8-9f03-06d71db3c135@139.100.213.61:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9y3Ixv18XYzbYpJ3Q8V3tM_BHDPbaB9dN1wx7wxr3Sw&sid=95473efc7d2ca504&sni=ru.orbitaconference.com#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2367
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
+trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?security=tls&sni=en001.zestapp778.com
 vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypriliv.cc&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%2354
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
