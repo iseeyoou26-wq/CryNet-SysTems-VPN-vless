@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 32
-# Обновлено: 2026-11-01 08:38:06
+# Обновлено: 2026-11-01 08:38:38
 
 vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
