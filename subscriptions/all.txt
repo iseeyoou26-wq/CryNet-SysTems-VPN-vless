@@ -1,5 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 1
-# Обновлено: 2026-11-02 07:51:35
+# Всего: 2
+# Обновлено: 2026-11-02 07:52:44
 
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@lorettmay.top:443?type=ws&security=tls&path=/blog/posts&host=lorettmay.top&sni=lorettmay.top&fp=firefox&alpn=http/1.1&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgTG9zIEFuZ2VsZXMgKENlbnRyYWwtQWxhbWVkYSkgfCBbQkxdIiwiYWRkIjoiMjMuMTQ3LjU2LjE4MSIsInBvcnQiOiI1Mjg0MyIsImlkIjoiODhiZTc5M2MtYzM2OC00ZWIxLTg4MDktMDU3ZTVkZjk2NjA2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
