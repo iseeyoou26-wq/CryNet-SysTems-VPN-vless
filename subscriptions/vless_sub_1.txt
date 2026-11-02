@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 6
-# Обновлено: 2026-11-02 23:12:41
+# Обновлено: 2026-11-02 23:13:36
 
 vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&headerType=none&host=portal.citygrainla.com&path=%2F&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://2bdef398-4587-4d9d-b350-992e461c9325@162.248.78.234:443?security=reality&flow=xtls-rprx-vision&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&sni=portal.citygrainla.com&type=tcp&headerType=none&host=portal.citygrainla.com&path=%2F&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
