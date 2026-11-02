@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 1
-# Обновлено: 2026-11-02 23:04:49
+# Обновлено: 2026-11-02 23:05:37
 
 vless://aa4450fa-0292-4275-a17d-b01ae08360b7@de3.kartamira.cc:5555?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de6-site.kartamira.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
