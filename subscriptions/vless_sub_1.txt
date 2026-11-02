@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 12
-# Обновлено: 2026-11-02 04:20:36
+# Обновлено: 2026-11-02 04:21:41
 
 vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879?security=reality&type=tcp&sni=www.bing.com&fp=chrome&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
 vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879?&security=reality&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389&fp=qq&sni=www.bing.com&type=tcp&headerType=none&host=www.bing.com&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
