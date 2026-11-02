@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 465
+# Всего: 467
 
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&sni=likejennie.pages.dev&fp=chrome&type=ws
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?&security=reality&flow=xtls-rprx-vision&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.48:2083?encryption=none&security=tls&type=ws&sni=helloapps.cc.cd&host=helloapps.cc.cd&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.48:2083?host=helloapps.cc.cd&path=%2F&security=tls&sni=helloapps.cc.cd&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.48:2083?security=tls&type=ws&path=%2F&host=helloapps.cc.cd&packetEncoding=xudp&sni=helloapps.cc.cd&fp=chrome&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
