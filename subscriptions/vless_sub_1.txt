@@ -1,10 +1,22 @@
 # Подписка #1
-# Всего: 6
-# Обновлено: 2026-11-03 23:22:32
+# Всего: 18
+# Обновлено: 2026-11-03 23:41:17
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999
 trojan://zViIBNyzxX1SgY8aOTMM72-Oy8O4PS89@153.76.161.159:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=stoic-ridge.freedomcdnhelloworld.com&fp=android
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online&alpn=h2%2Chttp%2F1.1&fp=firefox&type=tcp&headerType=none
 vless://5cccbd26-d910-4312-9c3d-8564821fbc53@etpl3.servertest.cc:443?path=%2Fgateway%2Fv1%2Fws%2Ff7f0ea91ad60cfc1d3cec81a7d1482d3&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=etpl3.servertest.cc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Wyszk%C3%B3w%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
 trojan://zViIBNyzxX1SgY8aOTMM72-Oy8O4PS89@153.76.161.159:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=stoic-ridge.freedomcdnhelloworld.com&fp=edge
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=connect-se.mimowhat.online
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@xunlinknode.csdjhajkshdjkas.com:40006
 trojan://zViIBNyzxX1SgY8aOTMM72-Oy8O4PS89@153.76.161.159:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=stoic-ridge.freedomcdnhelloworld.com&fp=firefox
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
