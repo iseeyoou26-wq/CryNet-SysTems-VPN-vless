@@ -1,6 +1,26 @@
 # АРХИВ
-# Всего: 165
+# Всего: 185
 
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=firefox
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=safari
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.102.237:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=android
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.102.237:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=safari
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@193.163.19.232:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=edge
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@193.163.19.232:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=firefox
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=chrome
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@83.147.15.84:8443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=ios
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.102.237:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=firefox
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@179.255.102.237:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=ios
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@193.163.19.232:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=chrome
+trojan://8deb189a-3aed-4865-843b-b72dae954c46@193.163.19.232:443?host=api.85s.me&path=%2F&security=tls&sni=api.85s.me&type=ws&fp=ios
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJob3N0IjoiNDcuMjUwLjEzNS4yNDQiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwMDAwIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsInNuaSI6IjQ3LjI1MC4xMzUuMjQ0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImlkIjoiNGZjNTQzZDUtMjNjZS00NTU2LWFlMmItMDE2ODVlZGQ0Mzk3IiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEppbnJvbmdqaWUgKFhpY2hlbmcgRGlzdHJpY3QpIHwgW0JMXSIsImFkZCI6IjEyMC40OC4xMzMuMTYyIiwicG9ydCI6IjEwMDg2IiwiaWQiOiJhOGQ5MzFiMC02YzI3LTQyOGItOGQ4Ni1jMjBlZmVhM2RiYTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZmM1NDNkNS0yM2NlLTQ1NTYtYWUyYi0wMTY4NWVkZDQzOTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IvCfh6jwn4ezIENoaW5hLCBKaW5yb25namllIChYaWNoZW5nIERpc3RyaWN0KSB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImlkIjoiYThkOTMxYjAtNmMyNy00MjhiLThkODYtYzIwZWZlYTNkYmE3IiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiLwn4eo8J+HsyBDaGluYSwgSmlucm9uZ2ppZSAoWGljaGVuZyBEaXN0cmljdCkgfCBbQkxdIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIFNoZW56aGVuIHwgW0JMXSIsImFkZCI6IjM5LjEwOC4xMTMuMTI3IiwicG9ydCI6IjEwMDg2IiwiaWQiOiJmY2NiYWQwZi1lYjZjLTRiZGQtODBlZC0xNDU0MDllMmY3NjEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZmM1NDNkNS0yM2NlLTQ1NTYtYWUyYi0wMTY4NWVkZDQzOTciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IvCfh6jwn4ezIENoaW5hLCBTaGVuemhlbiB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZWRjNjZiOC05OWQ3LTRhMjEtODMxMC02MTg3MGU3Zjg3MGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwMCIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.161.4:443?security=reality&type=tcp&sni=defs-68.topp-con.xyz&flow=xtls-rprx-vision&pbk=xTePrM5IyjR8o52B2mRAO2nNivfyMpBZxya93MQk4Qc&sid=2a40b6d6495debf3&allowInsecure=1&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.161.4:443?security=reality&type=tcp&sni=defs-68.topp-con.xyz&flow=xtls-rprx-vision&pbk=xTePrM5IyjR8o52B2mRAO2nNivfyMpBZxya93MQk4Qc&sid=2a40b6d6495debf3&allowInsecure=1&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
