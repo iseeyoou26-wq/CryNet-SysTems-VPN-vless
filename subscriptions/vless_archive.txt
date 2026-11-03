@@ -1,6 +1,21 @@
 # АРХИВ
-# Всего: 214
+# Всего: 229
 
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=android
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=chrome
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=edge
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=android
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=ios
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=qq
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=safari
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIEppbnJvbmdqaWUgKFhpY2hlbmcgRGlzdHJpY3QpIHwgW0JMXSIsImFkZCI6IjEyMC40OC4xMzMuMTYyIiwicG9ydCI6IjEwMDg2IiwiaWQiOiJhOGQ5MzFiMC02YzI3LTQyOGItOGQ4Ni1jMjBlZmVhM2RiYTciLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidHlwZSI6Im5vbmUiLCJhbHBuIjoiIiwic25pIjoiIiwiZnAiOiIiLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImlkIjoiNGZjNTQzZDUtMjNjZS00NTU2LWFlMmItMDE2ODVlZGQ0Mzk3IiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiLwn4eo8J+HsyBDaGluYSwgU2hlbnpoZW4gfCBbQkxdIiwiYWlkIjoiMCIsInR5cGUiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.218:31004?encryption=none&security=reality&type=tcp&sni=usher.ttvnw.net&fp=edge&pbk=3tHDBfu396rhgI2kICqWDPE52g0XWo7KGOq19LlcwCA&sid=66e8a583cbd8f453&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
 vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.64:31050?encryption=none&security=reality&type=tcp&sni=usher.ttvnw.net&fp=edge&pbk=UUC_xyYERVMbIBkOzhvw3b7uFTRPWNnFc84d2zsnlRY&sid=e9780ccc464c90ca&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%5B%2ACIDR%5D
 vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.52:34008?encryption=none&security=reality&type=grpc&sni=usher.ttvnw.net&fp=edge&pbk=qbzFUDCvyvACx1IOpbS4Gf1cHeg-GYZ8XqkzVx6xIH8&sid=f399294e67b56ab9&serviceName=cosmos-reserve-230-8#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B2%F0%9F%87%A9%20%5B%2ACIDR%5D
