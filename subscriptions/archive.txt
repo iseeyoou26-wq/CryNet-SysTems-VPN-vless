@@ -1,6 +1,11 @@
 # АРХИВ
-# Всего: 384
+# Всего: 389
 
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=qq#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=random#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://63959ed7-d26f-48dd-8c7b-ebdb6ea68535@qtir1.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=9X-tgXeFaqxURY0nGxFNdz9bpNIo7DTXHoWXpBqiOj0&spx=%2F&type=grpc&serviceName=grpc-90&sni=max.ru&sid=cbc638acc8ac87&fp=safari#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5BSNI-RU%5D%20max.ru
 vless://5e610f80-fc6a-479d-8621-b672355b96a1@185.175.58.196:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://3305c285-8d55-4f52-a3b0-2a582f5ffd59@185.75.241.170:8443?encryption=none&security=tls&sni=sdwf-amq.pages.dev&fp=chrome&type=ws&host=sdwf-amq.pages.dev&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%5BBL%5D
 vless://5e610f80-fc6a-479d-8621-b672355b96a1@95.133.166.163:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%5BBL%5D
