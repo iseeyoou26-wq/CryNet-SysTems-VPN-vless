@@ -1,21 +1,7 @@
 # Подписка #1
-# Всего: 17
-# Обновлено: 2026-11-03 14:54:17
+# Всего: 3
+# Обновлено: 2026-11-03 15:56:49
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23218
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23217
-vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
-vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
-vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
-vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&type=tcp&headerType=none&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyODc4OTk4OC04ODdlLTRlNDEtODNjZC0yN2JiZmI3OTk5YWQ=@xunlinknode.csdjhajkshdjkas.com:40006
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
