@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 29
-# Обновлено: 2026-11-03 22:04:11
+# Обновлено: 2026-11-03 22:07:23
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@178.83.185.156:8080
 vless://05e7c58f-4d16-4821-ba50-5cedbc735e16@83.222.13.131:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=amedia-vod.cdnvideo.ru&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&sid=aabbccdd&fp=qq#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
