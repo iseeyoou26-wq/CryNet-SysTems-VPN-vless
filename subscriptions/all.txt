@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 12
-# Обновлено: 2026-11-03 08:54:12
+# Обновлено: 2026-11-03 08:54:53
 
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=firefox
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios
