@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-11-04 02:49:24
+# Обновлено: 2026-11-04 02:50:15
 
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@83.171.241.230:443?encryption=none&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&security=reality&sid=5be240e45d3c445c&sni=100497t.de2.h1clayd.click&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@83.171.241.230:443?encryption=none&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&security=reality&sid=5be240e45d3c445c&sni=100497t.de2.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
