@@ -1,20 +1,20 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 16
-# Обновлено: 2026-11-04 11:44:27
+# Обновлено: 2026-11-04 11:45:29
 
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=ios
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=qq
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=safari
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=edge
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=safari
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?encryption=none&flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=chrome
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=edge
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=chrome
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=qq
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=ios
 vless://1e7c45aa-160c-4eb9-b2e2-2387b512a36c@45.78.7.160:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dKHgzv-s518XLU_HzAVzhtRkIIowd-Ryc6h8DQtN7Fw&security=reality&sid=a768c3de3009e45e&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
