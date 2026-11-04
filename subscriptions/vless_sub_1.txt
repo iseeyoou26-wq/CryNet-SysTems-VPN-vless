@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 20
-# Обновлено: 2026-11-04 04:54:20
+# Обновлено: 2026-11-04 04:55:08
 
 vless://6e81233b-65a4-4d8c-bfb9-39afabdcd47d@78.109.16.203:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sweden08.anotherboring.top&fp=firefox&security=reality&pbk=3R1rY9vJaPHNihloaLuO6u4hY0FSyq3Px7pQMdemUDA&sid=3b4c96490ee22a00#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999
