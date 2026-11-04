@@ -1,6 +1,18 @@
 # АРХИВ
-# Всего: 182
+# Всего: 194
 
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http%2F1.1&host=nexoshop.netvia.ir&path=%2Fwss&security=tls&sni=nexoshop.netvia.ir&type=ws&fp=chrome
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http%2F1.1&host=nexoshop.netvia.ir&path=%2Fwss&security=tls&sni=nexoshop.netvia.ir&type=ws&fp=edge
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http%2F1.1&host=nexoshop.netvia.ir&path=%2Fwss&security=tls&sni=nexoshop.netvia.ir&type=ws&fp=firefox
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http%2F1.1&host=nexoshop.netvia.ir&path=%2Fwss&security=tls&sni=nexoshop.netvia.ir&type=ws&fp=ios
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=android
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=ios
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=chrome
+trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse&fp=edge
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImlkIjoiYThkOTMxYjAtNmMyNy00MjhiLThkODYtYzIwZWZlYTNkYmE3IiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgW0JMXSIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZmM1NDNkNS0yM2NlLTQ1NTYtYWUyYi0wMTY4NWVkZDQzOTciLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IvCfh6jwn4ezIENoaW5hLCBKaW5yb25namllIChYaWNoZW5nIERpc3RyaWN0KSB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6IjAiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjgwIiwicHMiOiLwn4e68J+HuCBVbml0ZWQgU3RhdGVzLCBDaGljYWdvIHwg8J+MkCB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMsIENoaWNhZ28gfCDwn4yQIHwgW0JMXSIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?encryption=none&flow=xtls-rprx-vision&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&security=reality&sid=20b37477b1d93f7e&sni=db-23.topp-con.xyz&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?encryption=none&flow=xtls-rprx-vision&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&security=reality&sid=20b37477b1d93f7e&sni=db-23.topp-con.xyz&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@201.51.29.153:443/?encryption=none&flow=xtls-rprx-vision&pbk=Elmq7GhYEGaiujWnLYeK3HidTkZV6JYH-aYJXBG9iwc&security=reality&sid=20b37477b1d93f7e&sni=db-23.topp-con.xyz&type=tcp&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
