@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 533
+# Всего: 534
 
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@121.127.33.130:443?security=tls&sni=likejennie.pages.dev&fp=chrome&type=ws
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.13:443?alpn=h3&encryption=none&host=vless2-8vx.pages.dev&path=%2F&security=tls&sni=vless2-8vx.pages.dev&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.13:443?type=ws&security=tls&fp=firefox&host=vless2-8vx.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.8:443?encryption=none&security=tls&sni=vless2-8vx.pages.dev&type=ws&host=vless2-8vx.pages.dev&path=%2F&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
