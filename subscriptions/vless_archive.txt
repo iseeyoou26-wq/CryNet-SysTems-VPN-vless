@@ -1,6 +1,9 @@
 # АРХИВ
-# Всего: 234
+# Всего: 237
 
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
 vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@141.193.213.21:8443?encryption=none&security=tls&sni=u.srilankangrill.online&type=ws&host=u.srilankangrill.online&path=%2F&fp=edge#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
