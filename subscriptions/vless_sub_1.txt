@@ -1,5 +1,5 @@
 # Подписка #1
 # Всего: 1
-# Обновлено: 2026-11-05 21:18:02
+# Обновлено: 2026-11-05 21:19:23
 
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=qq
