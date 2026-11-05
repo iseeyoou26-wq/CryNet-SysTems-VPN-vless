@@ -1,6 +1,9 @@
 # АРХИВ
-# Всего: 252
+# Всего: 255
 
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
+vless://7c602328-d732-41d9-b94a-bcf28a5f7f8f@195.58.55.18:2088?encryption=none&type=grpc&security=reality&sni=www.yandex.ru&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&serviceName=astracat&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BSNI-RU%5D%20www.yandex.ru
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=100497t.de18.h1clayd.click&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=100497t.de18.h1clayd.click&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://94042dd1-d32a-4797-b88c-dc48459e2b34@100497t.de18.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=100497t.de18.h1clayd.click&pbk=x-7K9P2E91DCL-0ONwm14gxDkUseukg98hYzB-1dW1A&sid=5be240e45d3c445c&spx=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
