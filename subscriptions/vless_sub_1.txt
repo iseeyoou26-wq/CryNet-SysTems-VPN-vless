@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 7
-# Обновлено: 2026-11-05 05:26:18
+# Обновлено: 2026-11-05 05:29:05
 
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&host=sopelka.yandex-api.com&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5B%2ACIDR%5D
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?encryption=none&security=reality&sni=sopelka.yandex-api.com&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&type=tcp&headerType=none&insecure=1&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B%2ACIDR%5D
