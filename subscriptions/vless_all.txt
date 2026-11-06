@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 48
-# Обновлено: 2026-11-06 07:58:03
+# Всего: 68
+# Обновлено: 2026-11-06 07:59:06
 
 vless://255a8044-3337-473e-af26-46a37208adcc@piston.kachow.ink:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=piston.kachow.ink&pbk=wl48cP9KpZxoAqUAePYqVmjNHO2gOzW_QCm3okkiLks&sid=87ac946b53bb52f5&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList%20%23117
 vless://255a8044-3337-473e-af26-46a37208adcc@anvil.kachow.ink:443?encryption=none&flow=xtls-rprx-vision&pbk=BGe-GOf-JkNWNay9--36nR4ZFHYNjGmpzVTQcXthR2A&security=reality&sid=647547b8f895f9b9&sni=anvil.kachow.ink&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
@@ -11,6 +11,10 @@ vless://65e7a6ab-84b4-4202-a951-7d2afe2aa352@176.123.162.102:8443?encryption=non
 vless://255a8044-3337-473e-af26-46a37208adcc@anvil.kachow.ink:443?encryption=none&flow=xtls-rprx-vision&pbk=BGe-GOf-JkNWNay9--36nR4ZFHYNjGmpzVTQcXthR2A&security=reality&sid=647547b8f895f9b9&sni=anvil.kachow.ink&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://255a8044-3337-473e-af26-46a37208adcc@anvil.kachow.ink:443?encryption=none&flow=xtls-rprx-vision&pbk=BGe-GOf-JkNWNay9--36nR4ZFHYNjGmpzVTQcXthR2A&security=reality&sid=647547b8f895f9b9&sni=anvil.kachow.ink&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://255a8044-3337-473e-af26-46a37208adcc@live.flicker.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=live.flicker.work&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&sid=1995a38bfed15b2a&fp=firefox&spx=/connect-magic#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http%2F1.1&insecure=1&security=tls&sni=t.me%2FFuckTheWall&type=tcp&fp=ios
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http%2F1.1&insecure=1&security=tls&sni=t.me%2FFuckTheWall&type=tcp&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http%2F1.1&insecure=1&security=tls&sni=t.me%2FFuckTheWall&type=tcp&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?alpn=http%2F1.1&insecure=1&security=tls&sni=t.me%2FFuckTheWall&type=tcp&fp=chrome
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList%20%23179
 vless://65e7a6ab-84b4-4202-a951-7d2afe2aa352@176.123.162.102:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.ru&pbk=5J8IRlEEy8vuB2NArH15h9EVV--wwDUdq-_9HXoy9FM&sid=dcc04e7520&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23131
@@ -46,7 +50,23 @@ vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?secur
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?security=reality&type=tcp&sni=unpkg.com&host=unpkg.com&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vless://255a8044-3337-473e-af26-46a37208adcc@hudson.glowbreeze.online:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20Gh0st_WhiteList%20%23178
 vless://255a8044-3337-473e-af26-46a37208adcc@95.213.245.84:443?encryption=none&flow=xtls-rprx-vision&pbk=qqvs2x0N1F5WgXvC7PB9wmO5RxcVgCHS1hYHYOxdBk4&security=reality&sid=5f3fd060c992bb2e&sni=hudson.glowbreeze.online&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp&fp=safari
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp&fp=firefox
 vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Gh0st_WhiteList%20%23195
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp&fp=ios
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp&fp=chrome
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=firefox
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari
+trojan://5t6i121em5lkmsmk@130.94.52.37:46298?security=tls&sni=ph001.zestapp778.com&fp=ios
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios
+trojan://5t6i121em5lkmsmk@130.94.52.37:46298?security=tls&sni=ph001.zestapp778.com&fp=firefox
+trojan://5t6i121em5lkmsmk@130.94.52.37:46298?security=tls&sni=ph001.zestapp778.com&fp=safari
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com&type=tcp&fp=chrome
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=firefox
+trojan://5t6i121em5lkmsmk@130.94.52.37:46298?security=tls&sni=ph001.zestapp778.com&fp=chrome
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=chrome
 vless://255a8044-3337-473e-af26-46a37208adcc@cdn4.anytube.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn4.anytube.ru&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://255a8044-3337-473e-af26-46a37208adcc@cdn4.anytube.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn4.anytube.ru&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://29c46e15-5adc-461a-add7-4c8e834bb488@188.225.45.170:443?encryption=none&flow=xtls-rprx-vision&pbk=P0P_zFJU0jUz97JutgEUfbjGOyplGFrn6YN232yBR2Y&security=reality&sni=static.rutube.ru&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
