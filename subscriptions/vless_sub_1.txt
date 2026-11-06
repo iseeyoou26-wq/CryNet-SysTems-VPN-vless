@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 10
-# Обновлено: 2026-11-06 06:28:23
+# Обновлено: 2026-11-06 06:30:12
 
 vless://65e7a6ab-84b4-4202-a951-7d2afe2aa352@176.123.162.102:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.ru&pbk=5J8IRlEEy8vuB2NArH15h9EVV--wwDUdq-_9HXoy9FM&sid=dcc04e7520&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://255a8044-3337-473e-af26-46a37208adcc@live.flicker.work:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=live.flicker.work&pbk=PZwky05a2NPTC1x7YolaKV7IGDuJDJD47fUEk8nVqFw&sid=1995a38bfed15b2a&fp=firefox&spx=/connect-magic#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
