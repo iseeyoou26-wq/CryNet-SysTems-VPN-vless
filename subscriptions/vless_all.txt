@@ -1,11 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 7
-# Обновлено: 2026-11-06 19:47:04
+# Всего: 0
+# Обновлено: 2026-11-06 20:48:30
 
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&security=reality&sid=0d98b07acc98ccef&sni=nl3.japancase.site&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&security=reality&sid=0d98b07acc98ccef&sni=nl3.japancase.site&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&security=reality&sid=0d98b07acc98ccef&sni=nl3.japancase.site&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=ios
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=safari
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?headerType=none&security=tls&sni=ph001.zestapp778.com&type=tcp&fp=firefox
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-1456
+# Пока нет рабочих конфигов
