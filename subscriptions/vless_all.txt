@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 1
-# Обновлено: 2026-11-06 22:34:43
+# Всего: 3
+# Обновлено: 2026-11-06 23:15:13
 
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-693
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-1431
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
