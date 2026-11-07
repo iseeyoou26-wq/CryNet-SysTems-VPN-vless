@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 2
-# Обновлено: 2026-11-07 05:16:41
+# Обновлено: 2026-11-07 05:18:35
 
 vless://4a0812f0-f9d7-4afd-9ae3-6c38e1e59485@188.130.209.204:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=promo-digital.wb.ru&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&sid=d3f314d0b692f63d&fp=qq&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
