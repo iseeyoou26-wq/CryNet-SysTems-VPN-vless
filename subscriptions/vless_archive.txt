@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 365
+# Всего: 367
 
+vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=us1.cloudvienta.com&security=reality&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&sid=0c37b64d1935ebc1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://3837e7a5-d40e-4b85-8700-5f9725a5a2cb@45.143.94.91:8443/?encryption=none&flow=xtls-rprx-vision&pbk=3Kgy_0tHtOzEn9_mEylNsBVlAHNngT6S4AuYy5wEOSU&security=reality&sid=0c37b64d1935ebc1&sni=us1.cloudvienta.com&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Charlotte%20%28Oakview%20Terrace%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B0%F0%9F%87%BC%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&extra=null&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B0%F0%9F%87%BC%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D
 vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2Fevents&sni=api.bakarova-top.ru&headerType=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5B%2ACIDR%5D
