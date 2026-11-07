@@ -1,7 +1,8 @@
 # Подписка #1
-# Всего: 11
-# Обновлено: 2026-11-08 00:19:22
+# Всего: 12
+# Обновлено: 2026-11-08 00:38:24
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQ2FtZ2x6ck9SYW9wcWJwQmxwdHpidDlRZGlINENTTg==@82.152.132.211:8044
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&fp=edge&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://fa8c52f8-d800-4ddd-bdc3-4f8a24b073c6@87.242.87.165:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=codifyr.ru&pbk=WCGVWrqI3t-c5ZIbUEmwjN3wiFFT7xV09PIio-OQGHU&sid=d16860c57700c886&fp=qq#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
