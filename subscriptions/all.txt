@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 5
-# Обновлено: 2026-11-07 09:00:41
+# Обновлено: 2026-11-07 09:01:39
 
 vless://4a0812f0-f9d7-4afd-9ae3-6c38e1e59485@188.130.209.204:443?security=reality&type=tcp&sni=promo-digital.wb.ru&host=promo-digital.wb.ru&flow=xtls-rprx-vision&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&sid=d3f314d0b692f63d&fp=random#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList%20%23164
 vless://4a0812f0-f9d7-4afd-9ae3-6c38e1e59485@188.130.209.204:443?security=reality&type=tcp&sni=promo-digital.wb.ru&host=promo-digital.wb.ru&flow=xtls-rprx-vision&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&sid=d3f314d0b692f63d&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Gh0st_WhiteList%20%23163
