@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 9
-# Обновлено: 2026-11-08 00:16:23
+# Обновлено: 2026-11-08 00:17:29
 
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&allowInsecure=1&fp=chrome#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&fp=edge&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&allowInsecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
