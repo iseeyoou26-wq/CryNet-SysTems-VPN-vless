@@ -1,5 +1,11 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-09 02:16:34
+# Всего: 7
+# Обновлено: 2026-11-09 02:18:19
 
-# Пока нет рабочих конфигов
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk9.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl2-edge.gacvpn.site&pbk=ZrIwTVGx75Dkh7b7eKnczKFkkADOfSnVgeqYXTlUhUI&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk3.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr2.gacvpn.site&pbk=uMKTD8AKrlaZTlfNfr0qMgrzLSe9LDw_otYw4OfuDy8&sid=fed2f8be3a&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk3.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr2.gacvpn.site&pbk=uMKTD8AKrlaZTlfNfr0qMgrzLSe9LDw_otYw4OfuDy8&sid=fed2f8be3a&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk8.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us2.gacvpn.site&pbk=cQma6vRmR9Jp6d0AUuoLa4Ls29g-QSRYQp7XfbFTmDk&sid=2b76008660e40fb3&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.gacvpn.site&pbk=8fSwTqCwJ2HWGxcTQsZs8Sx0hRk2Ru7HFdu-iLnesGg&sid=53d0d0611a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.gacvpn.site&pbk=8fSwTqCwJ2HWGxcTQsZs8Sx0hRk2Ru7HFdu-iLnesGg&sid=53d0d0611a&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk8.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us2.gacvpn.site&pbk=cQma6vRmR9Jp6d0AUuoLa4Ls29g-QSRYQp7XfbFTmDk&sid=2b76008660e40fb3&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
