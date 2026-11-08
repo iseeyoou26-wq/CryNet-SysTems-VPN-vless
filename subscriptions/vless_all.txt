@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 29
-# Обновлено: 2026-11-09 02:28:22
+# Обновлено: 2026-11-09 02:29:52
 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.gacvpn.site&pbk=8fSwTqCwJ2HWGxcTQsZs8Sx0hRk2Ru7HFdu-iLnesGg&sid=53d0d0611a&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=merch.locallynet.org&cs=TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
