@@ -1,5 +1,5 @@
 # Подписка #1
 # Всего: 1
-# Обновлено: 2026-11-08 18:13:12
+# Обновлено: 2026-11-08 18:14:34
 
 vless://b05c5bfc-0f53-474a-8a43-8d30af8bccd2@whitepanel-ui-production-84c0.up.railway.app:443?encryption=none&security=tls&type=ws&host=whitepanel-ui-production-84c0.up.railway.app&path=%2Fws%2Fb05c5bfc-0f53-474a-8a43-8d30af8bccd2&sni=whitepanel-ui-production-84c0.up.railway.app&fp=chrome&alpn=http/1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
