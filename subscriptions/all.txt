@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-08 10:09:12
+# Всего: 3
+# Обновлено: 2026-11-08 10:13:52
 
-# Пока нет рабочих конфигов
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43115?security=reality&type=tcp&sni=www.python.org&flow=xtls-rprx-vision&fp=edge&pbk=lOvD2OqP7J9WEDZ4q5G6Dx7XKt2eAN4CFgcNhPN-EGI&sid=f3a2231b4371&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-2-y.473221.xyz:33161?security=reality&type=tcp&sni=updates.cdn-apple.com&flow=xtls-rprx-vision&fp=edge&pbk=9WulHOrPZIMdOVwTo-9Z2puTD8GNlt6ctR3hpemHgxc&sid=e5086b3dc5&allowInsecure=1#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@3.0.70.13:1114?encryption=none&flow=xtls-rprx-vision&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&security=reality&sid=79a1e14b&sni=yahoo.com&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
