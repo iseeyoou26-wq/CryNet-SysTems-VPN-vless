@@ -1,5 +1,6 @@
 # Подписка #1
-# Всего: 1
-# Обновлено: 2026-11-08 21:14:51
+# Всего: 2
+# Обновлено: 2026-11-08 21:16:26
 
 vless://c3734677-b690-42b6-ab76-84cc7dd14c22@node2.shakalchk.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node2.shakalchk.ru&fp=chrome&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD%20Gh0st_WhiteList%20%2365
