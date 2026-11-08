@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 3
-# Обновлено: 2026-11-08 21:49:20
+# Обновлено: 2026-11-08 21:51:10
 
 vless://c3734677-b690-42b6-ab76-84cc7dd14c22@node2.shakalchk.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node2.shakalchk.ru&fp=chrome&pbk=bqzRxK5Nr7muCBDtExsYRK4yrxMwVPOH0_avLu27LQI&sid=a132a3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me/FuckTheWall
