@@ -1,5 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 1
-# Обновлено: 2026-11-08 15:45:17
+# Всего: 2
+# Обновлено: 2026-11-08 15:46:32
 
+vless://b7b8ee80-db83-4276-8c68-87dc88b0b0b5@15d7fft.nl11.h1clayd.click:443?encryption=none&fp=chrome&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp#🇧🇾[openproxylist.com] vless-BY
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
