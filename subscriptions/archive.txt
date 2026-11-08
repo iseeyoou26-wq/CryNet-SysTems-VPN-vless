@@ -1,6 +1,10 @@
 # АРХИВ
-# Всего: 512
+# Всего: 516
 
+vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?type=ws&security=tls&encryption=none&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&host=metrics.api.downloader-pet.xyz&sni=metrics.api.downloader-pet.xyz&headerType=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?type=ws&security=tls&encryption=none&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&host=metrics.api.downloader-pet.xyz&sni=metrics.api.downloader-pet.xyz&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?type=ws&security=tls&encryption=none&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&host=metrics.api.downloader-pet.xyz&sni=metrics.api.downloader-pet.xyz&headerType=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://e9b117e4-8be9-4105-9354-a5e0663294f0@91.215.43.80:443?type=ws&security=tls&encryption=none&path=%2Fgateway%2Fv1%2Fws%2Fa901ed17102fc3090ca1ab052c672f47&host=metrics.api.downloader-pet.xyz&sni=metrics.api.downloader-pet.xyz&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:443?host=vp5.1145678.xyz&path=%2Fservicefp%3Dchrome&security=tls&sni=vp5.1145678.xyz&type=ws&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
 vless://3dc83518-4002-485e-a066-d3bbcaaa2b2e@k9-85j.pages.dev:443?type=ws&security=tls&path=/1WWzkWgNslKTcceU?ed=2560&sni=K9-85J.paGEs.Dev&fp=randomized#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@162.159.130.234:2083?type=ws&security=tls&sni=vp14.1145678.xyz&host=vp14.1145678.xyz&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
