@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 381
+# Всего: 382
 
+vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZD0yMDQ4IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IPCfjJAgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsImFpZCI6IjAiLCJ0eXBlIjoibm9uZSJ9
 vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
 vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?encryption=none&host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
 vless://e3149c82-00f6-4227-b2c0-b78f1dd81279@fast.145779.xyz:2053?host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20North%20Bergen%20%7C%20%5BBL%5D
