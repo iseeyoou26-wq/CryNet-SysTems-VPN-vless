@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 392
+# Всего: 393
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=reality&encryption=none&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=reality&encryption=none&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?security=reality&encryption=none&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
