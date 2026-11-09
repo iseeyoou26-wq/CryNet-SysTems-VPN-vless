@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 7
-# Обновлено: 2026-11-09 11:20:53
+# Обновлено: 2026-11-09 11:28:53
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443
 vless://a7281f9b-39b7-47ab-9750-dac255326d5d@141.133.184.54:443?flow=xtls-rprx-vision&security=reality&sni=13.143.195.113.sslip.io&fp=firefox&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
