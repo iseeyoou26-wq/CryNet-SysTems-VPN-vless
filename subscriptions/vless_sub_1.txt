@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 9
-# Обновлено: 2026-11-09 06:05:11
+# Обновлено: 2026-11-09 06:07:11
 
 vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?encryption=none&type=ws&security=tls&sni=chat.gpt.prem-ai.shop&fp=chrome&alpn=http/1.1&path=/gateway/v1/ws/791f9a4d19f715c2ffaedfbaf99d88bd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://9d8c3007-dfcd-4d34-a729-ae793f826581@189.74.115.23:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
