@@ -1,9 +1,11 @@
 # Подписка #1
-# Всего: 19
-# Обновлено: 2026-11-09 07:52:48
+# Всего: 22
+# Обновлено: 2026-11-09 07:54:28
 
 vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?encryption=none&type=ws&security=tls&sni=chat.gpt.prem-ai.shop&fp=chrome&alpn=http/1.1&path=/gateway/v1/ws/791f9a4d19f715c2ffaedfbaf99d88bd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@188.225.58.201:8443?encryption=none&fp=firefox&mode=gun&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xtw3x.artemida.digital&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%2322
+vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&sni=bizorg.su&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🏳[openproxylist.com] vless-
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443
 vless://9d8c3007-dfcd-4d34-a729-ae793f826581@189.74.115.23:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9%20Gh0st_WhiteList%20%23113
 vless://9d8c3007-dfcd-4d34-a729-ae793f826581@189.74.115.23:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
@@ -21,3 +23,4 @@ vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?flow=xtls-rprx
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIChTaGlyb21pKSB8IPCfjJAgfCBbQkxdIiwiYWRkIjoiNDMuMTU5LjcuMjQiLCJwb3J0IjoiMTEzNTMiLCJpZCI6ImQxMDVlYWRjLWMzZWEtNGE4Mi1hMjk5LTM3M2Q3NWYyZDJiNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4sIE9zYWthIChTaGlyb21pKSB8IPCfjJAgfCBbQkxdIiwiYWRkIjoiZGYuNjY4ZnguY29tIiwicG9ydCI6IjExMzUzIiwiaWQiOiJkMTA1ZWFkYy1jM2VhLTRhODItYTI5OS0zNzNkNzVmMmQyYjciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJhbGxvd0luc2VjdXJlIjp0cnVlLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk11.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl2-edge.gacvpn.site&pbk=cuONLHT6sUKpRRNna55H_1ofXRSfA_XVOfr9ACE6vHY&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Gh0st_WhiteList%20%23165
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628
