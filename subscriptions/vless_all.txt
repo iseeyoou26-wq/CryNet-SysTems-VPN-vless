@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 4
-# Обновлено: 2026-11-09 13:21:46
+# Обновлено: 2026-11-09 13:22:18
 
 vless://747db87a-0cf6-4ea7-ae6b-3293afe2cef6@62981et.us11.h1clayd.click:443?security=reality&encryption=none&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&headerType=none&fp=chrome&spx=/&type=tcp&sni=62981et.us11.h1clayd.click&sid=ce43937e79bc30f0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
