@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 8
-# Обновлено: 2026-11-09 14:50:40
+# Обновлено: 2026-11-09 14:53:51
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@83.171.241.153:443?encryption=none&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&security=reality&sid=a91531ad58c8611c&sni=d58daft.plp1.h1cloud.net&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
