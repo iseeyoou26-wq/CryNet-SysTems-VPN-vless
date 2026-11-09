@@ -1,12 +1,14 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 8
-# Обновлено: 2026-11-09 11:33:00
+# Всего: 10
+# Обновлено: 2026-11-09 12:12:37
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443
 vless://a7281f9b-39b7-47ab-9750-dac255326d5d@141.133.184.54:443?flow=xtls-rprx-vision&security=reality&sni=13.143.195.113.sslip.io&fp=firefox&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 vless://8af1ac56-283b-4fc5-bb33-6892498a0592@83.171.241.244:25310?flow=xtls-rprx-vision&security=reality&sni=cabinet.evotor.ru&fp=firefox&pbk=TTRwt0Zvu8OWBLFTI3VQv7m8w01VAmRxtghhLIKuXXc&sid=69ca1a9ff751056f#%F0%9F%87%AB%F0%9F%87%AE%20Gh0st_WhiteList%20%23278
+vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?security=reality&sni=smart2.khinikadze.com&fp=chrome&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-42
 vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuPCfh6wgfCBbQkxdIiwiYWRkIjoiMTE2Ljg4LjIyNC4yMTciLCJwb3J0IjoiODA4MCIsImlkIjoiNmY0ZjBlYjUtZmU4Ni00MWNhLWVjY2ItYTZjYTY4Zjg4ZDliIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7jwn4esU0ctODgiLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628
