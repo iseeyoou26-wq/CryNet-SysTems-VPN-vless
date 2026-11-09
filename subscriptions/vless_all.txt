@@ -1,10 +1,18 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 6
-# Обновлено: 2026-11-10 01:38:44
+# Всего: 14
+# Обновлено: 2026-11-10 02:18:23
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@dns27.m3hrzd.ir:8044
+vless://bb3723d7-462e-442c-9472-496750476f45@179.254.170.73:443?flow=xtls-rprx-vision&security=reality&sni=dir-de7.filesapp.org&fp=firefox&pbk=8JqBmPXSb2aGu8IzkxkfLo_CkxGzq6Zjjbn6HnU3Tn8&sid=e686927aa82c825d#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-78
+vless://bb3723d7-462e-442c-9472-496750476f45@94.183.157.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VrMjCVfS9bVTnIr2X_zBMIJylL5AMPMJoiwW14kyyjY&security=reality&sid=b5e4cbe5fea54f53&sni=dir-pl2.filesapp.org&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7IR-11
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=music.3apes.online&fp=qq&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fm={#🇩🇪[openproxylist.com] vless-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINEpIa0hVMnBJUloxc2JydVEtcDM5R3JoMXo2bnhZOA==@185.4.115.146:8044
+vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ1ZGM1MDg2LWYzMGQtNGIzNC1hYWM0LTYxMmMwNzQyNDNjOCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQ1ODAiLCJwcyI6IltPcGVuUmF5XSDwn4eu8J+Ht0lSLTM1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7jwn4esU0ctODciLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7jwn4esU0ctNTkiLCJhZGQiOiIxMTYuODguMjI0LjIxNyIsInBvcnQiOiI4MDgwIiwiaWQiOiI2ZjRmMGViNS1mZTg2LTQxY2EtZWNjYi1hNmNhNjhmODhkOWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://bb3723d7-462e-442c-9472-496750476f45@109.104.155.131:2053?encryption=none&flow=xtls-rprx-vision&pbk=MwJoFytMWCLdwCCt0cSTM8L6ZzYKxlZbFMML_3nnJms&security=reality&sid=508118120e886b5a&sni=dir-br1.filesapp.org&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-58
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:13239?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=NJgrmuV1CFhj7PeKJoQfDQVagDcFITkfrM-a7sa_mWw&sid=8591c4d31f59a60d&sni=updates.cdn-apple.com&servername=updates.cdn-apple.com&spx=/&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-46
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?type=ws&encryption=none&host=bhjolq0d0l.flowersgood.top&path=/service/telemetry/045d381f1166/&security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http/1.1&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-374
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628
