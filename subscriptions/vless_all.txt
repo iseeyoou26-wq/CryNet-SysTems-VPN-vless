@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 5
-# Обновлено: 2026-11-09 20:29:16
+# Обновлено: 2026-11-09 20:30:54
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBXZXN0IENvYXN0IFZpbGxhZ2UgfCBbQkxdIiwiYWRkIjoiMTE2Ljg4LjIyNC4yMTciLCJwb3J0IjoiODA4MCIsImlkIjoiNmY0ZjBlYjUtZmU4Ni00MWNhLWVjY2ItYTZjYTY4Zjg4ZDliIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vless://f877d913-9f87-45dd-bfe8-d95043081184@8.220.241.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&pbk=jSvhKKNVMhMQOCERpOyPwfNkzMnHQExIua0oWRdbuB8#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
