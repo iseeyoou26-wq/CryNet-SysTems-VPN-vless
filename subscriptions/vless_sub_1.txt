@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 42
-# Обновлено: 2026-11-09 04:08:22
+# Всего: 43
+# Обновлено: 2026-11-09 04:09:36
 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk3.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr2.gacvpn.site&pbk=uMKTD8AKrlaZTlfNfr0qMgrzLSe9LDw_otYw4OfuDy8&sid=fed2f8be3a&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList%20%23159
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.gacvpn.site&pbk=8fSwTqCwJ2HWGxcTQsZs8Sx0hRk2Ru7HFdu-iLnesGg&sid=53d0d0611a&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23167
@@ -9,6 +9,7 @@ vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=non
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=merch.locallynet.org&cs=TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=merch.locallynet.org&fp=qq&cs=TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://68a67906-5b37-4779-a6cc-58a1655f18b4@merch.locallynet.org:7443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=merch.locallynet.org&cs=TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://90157e25-cee1-4217-921e-91f300bc1a24@fduknew.titun.su:443?security=reality&type=tcp&packetEncoding=xudp&sni=bizorg.su&fp=chrome&flow=xtls-rprx-vision&sid=428ef87fd47a3a32&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&encryption=none#🇬🇧[openproxylist.com] vless-GB
 vless://4d079fbe-33ac-4a80-8441-b0e1818b286a@direct.vpndoctor.top:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=direct.vpndoctor.top&pbk=QPmrizvOUCOOIvlupGnt1reR5bui3U8EZl00VHU4GRA&sid=3f9537eb0626292b&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%5B%2ACIDR%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443
 vless://e6fd9735-069d-478f-a237-05a0571825e3@94.249.195.155:43000?encryption=none&security=reality&fp=chrome&pbk=QaPoY-5W4Z7NA_LUG37yjYNy3JWg53Ru7eWLTzec-nE&sid=b62ac375&spx=/&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AA%F0%9F%87%AC%20%7C%20%5BBL%5D
