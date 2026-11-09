@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 42
-# Обновлено: 2026-11-09 04:06:01
+# Обновлено: 2026-11-09 04:08:22
 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk3.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr2.gacvpn.site&pbk=uMKTD8AKrlaZTlfNfr0qMgrzLSe9LDw_otYw4OfuDy8&sid=fed2f8be3a&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList%20%23159
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk5.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de2.gacvpn.site&pbk=8fSwTqCwJ2HWGxcTQsZs8Sx0hRk2Ru7HFdu-iLnesGg&sid=53d0d0611a&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23167
