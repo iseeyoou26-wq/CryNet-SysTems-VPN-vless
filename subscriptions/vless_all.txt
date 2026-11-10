@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 27
-# Обновлено: 2026-11-11 02:51:21
+# Всего: 30
+# Обновлено: 2026-11-11 02:53:06
 
 vless://546fdb65-0967-45e8-a61b-b22ff85f11c9@537df6t.nl16.h1clayd.click:443?security=reality&type=tcp&sni=537df6t.nl16.h1clayd.click&host=537df6t.nl16.h1clayd.click&pbk=U-i0W0UqanfhBrLz1OBlAJQejwhs3rE23nFAjlR6pEU&sid=b64bde4903453877&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios
@@ -11,13 +11,16 @@ trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2F
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=android
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=safari
+vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsInBvcnQiOiIxMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhaWQiOiIwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuPCfh6wgfCBbQkxdIiwiYWRkIjoiMTE2Ljg4LjIyNC4yMTciLCJwb3J0IjoiODA4MCIsImlkIjoiNmY0ZjBlYjUtZmU4Ni00MWNhLWVjY2ItYTZjYTY4Zjg4ZDliIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiIxMTYuODguMjI0LjIxNyIsImlkIjoiNmY0ZjBlYjUtZmU4Ni00MWNhLWVjY2ItYTZjYTY4Zjg4ZDliIiwicG9ydCI6IjgwODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6IvCfjJAgQW55Y2FzdC1JUCB8IPCfh7jwn4esIHwgW0JMXSIsImFpZCI6IjAiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=ios
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=edge
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=safari
+vmess://eyJ2IjoiMiIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HuPCfh6wgfCBbQkxdIiwiYWRkIjoiMTE2Ljg4LjIyNC4yMTciLCJwb3J0IjoiODA4MCIsImlkIjoiNmY0ZjBlYjUtZmU4Ni00MWNhLWVjY2ItYTZjYTY4Zjg4ZDliIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIiwidGxzIjoiIiwiaG9zdCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=qq
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=chrome
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=safari
