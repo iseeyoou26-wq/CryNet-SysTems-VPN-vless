@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-11 02:13:44
+# Всего: 1
+# Обновлено: 2026-11-11 02:15:51
 
-# Пока нет рабочих конфигов
+vless://546fdb65-0967-45e8-a61b-b22ff85f11c9@537df6t.nl16.h1clayd.click:443?security=reality&type=tcp&sni=537df6t.nl16.h1clayd.click&host=537df6t.nl16.h1clayd.click&pbk=U-i0W0UqanfhBrLz1OBlAJQejwhs3rE23nFAjlR6pEU&sid=b64bde4903453877&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
