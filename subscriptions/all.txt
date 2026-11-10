@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 53
-# Обновлено: 2026-11-10 03:38:47
+# Всего: 54
+# Обновлено: 2026-11-10 03:57:42
 
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=astralweb.tech&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&sid=496ee75c2f91f51d&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://65a3bcca-4fd7-4898-8e0c-1740d0de7dd3@189.74.106.141:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&fp=safari&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -55,3 +55,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQi
 vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsInBvcnQiOiIxMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhaWQiOiIwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://fdd162f9-1393-4229-a31c-ec5263b918ad@34.3.109.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20The%20Dalles%20%7C%20%5BBL%5D
 vless://4201786b-d99b-4147-a5f0-20d47acddb81@83.171.241.142:443?type=tcp&security=reality&sni=7aa271t.es1.h1clayd.click&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOVpaWFZhMzR4N3NDNDh3OUZLUTU0VUtIaUpKR1RWZ0tGcHBCUmd2aUxyVkNBWVZWeUtaZEQzb2JicGpDeWszMVY1YjJHMmQ3eHpxbWFQQkZkY2hlQ1ZCOVVRNFpnaEY=@156.67.120.205:51628
