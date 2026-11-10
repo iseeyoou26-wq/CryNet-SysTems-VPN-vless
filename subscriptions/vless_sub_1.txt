@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 135
-# Обновлено: 2026-11-10 11:28:38
+# Всего: 137
+# Обновлено: 2026-11-10 11:36:24
 
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20029?pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu64.cdn77.icu&type=tcp&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20029?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu64.cdn77.icu&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
@@ -17,6 +17,7 @@ vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20028?encryption=non
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@138.16.201.42:443?encryption=none&flow=xtls-rprx-vision&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&security=reality&sid=496ee75c2f91f51d&sni=lp.astralweb.tech&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20028?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&security=reality&sid=496ee75c2f91f51d&sni=lp.astralweb.tech&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20023?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=eu52.cdn77.icu&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%5B%2ACIDR%5D
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?security=reality&type=tcp&sni=lp.astralweb.tech&host=lp.astralweb.tech&flow=xtls-rprx-vision&fp=random&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&sid=496ee75c2f91f51d#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&security=reality&sid=496ee75c2f91f51d&sni=lp.astralweb.tech&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
@@ -103,6 +104,7 @@ vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=no
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20052?security=reality&type=tcp&sni=eu64.cdn77.icu&host=eu64.cdn77.icu&fp=random&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B%2ACIDR%5D
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20052?security=reality&sni=eu64.cdn77.icu&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%20%5B%2ACIDR%5D
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20016?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://a75243d0f5c2e31bd6c8c118b4f6442f81ad@176.122.173.224:443?security=tls&sni=www.cloudflare.com
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&security=reality&sid=496ee75c2f91f51d&sni=lp.astralweb.tech&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Gh0st_WhiteList%20%23215
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&security=reality&sid=496ee75c2f91f51d&sni=lp.astralweb.tech&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20019?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
