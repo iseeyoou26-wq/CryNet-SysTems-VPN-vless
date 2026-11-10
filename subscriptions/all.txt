@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 51
-# Обновлено: 2026-11-10 03:24:24
+# Всего: 52
+# Обновлено: 2026-11-10 03:27:29
 
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=astralweb.tech&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&sid=496ee75c2f91f51d&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://ec1c883a-19e5-0004-8567-a7de5c7ebeb0@lp.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lp.astralweb.tech&pbk=AcJiiNBWvqUC5QBWFNWNc6ksAnd3K9s5nb55kvLsPBE&sid=496ee75c2f91f51d&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
@@ -53,3 +53,4 @@ vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20042?encryption=non
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20005?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#%F0%9F%87%A6%F0%9F%87%B7%20Argentina%20%5B%2ACIDR%5D
 vless://3253407a-f03f-4353-8035-df10c0565162@176.122.25.48:443?flow=xtls-rprx-vision&security=reality&sni=st.vk.com&fp=firefox&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=06bf074f#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AA%20%5B%2ACIDR%5D
 vless://3253407a-f03f-4353-8035-df10c0565162@176.122.25.48:443?flow=xtls-rprx-vision&security=reality&sni=img.yandex.ru&fp=firefox&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=89186167#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AA%20%5B%2ACIDR%5D
+vless://fdd162f9-1393-4229-a31c-ec5263b918ad@34.3.109.200:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x1ql3ShHUiyfMiA9_49FPY7ZV5Oqw2LcZPI9CUIlQQg&security=reality&sni=dl.google.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20The%20Dalles%20%7C%20%5BBL%5D
