@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 30
-# Обновлено: 2026-11-11 02:53:03
+# Всего: 31
+# Обновлено: 2026-11-11 03:01:04
 
 vless://546fdb65-0967-45e8-a61b-b22ff85f11c9@537df6t.nl16.h1clayd.click:443?security=reality&type=tcp&sni=537df6t.nl16.h1clayd.click&host=537df6t.nl16.h1clayd.click&pbk=U-i0W0UqanfhBrLz1OBlAJQejwhs3rE23nFAjlR6pEU&sid=b64bde4903453877&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=ios
@@ -9,6 +9,7 @@ trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&security
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&security=tls&sni=t.me%25252Ffuckthewall&type=tcp&fp=ios
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=edge
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2FFuckTheWall&fp=firefox
+trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&insecure=1&allowInsecure=1&fp=android
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=t.me%2FFuckTheWall&alpn=http%2F1.1&insecure=1&type=tcp&fp=safari
 vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsInBvcnQiOiIxMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhaWQiOiIwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
