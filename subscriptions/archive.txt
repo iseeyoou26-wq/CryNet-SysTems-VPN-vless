@@ -1,6 +1,11 @@
 # АРХИВ
-# Всего: 540
+# Всего: 545
 
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.209.247:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.209.247:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?encryption=none&host=fst.krevetkabs111.net&path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IPCfjJAgfCBbQkxdIiwiYWRkIjoiY2YuMDkwMjI3Lnh5eiIsInBvcnQiOiI0NDMiLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@cucc.cloudflare.seeck.cn:443?security=tls&type=ws&path=%2F&host=fs.qicai99.com&packetEncoding=xudp&sni=fs.qicai99.com&fp=chrome&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@fs.qicai99.com:443?host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
