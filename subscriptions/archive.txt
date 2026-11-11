@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 545
+# Всего: 547
 
+vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?type=tcp&security=reality&sni=golos.mail.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F&encryption=none&flow=xtls-rprx-vision&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5BSNI-RU%5D%20golos.mail.ru
+vless://90157e25-cee1-4217-921e-91f300bc1a24@novonl.subv.ru:443?type=tcp&security=reality&sni=golos.mail.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&fp=firefox&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B7%F0%9F%87%BA%20%5BSNI-RU%5D%20golos.mail.ru
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.209.247:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.209.247:443?path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@fst.krevetkabs111.net:443?encryption=none&host=fst.krevetkabs111.net&path=%2Fapi%2Fgenerate&security=tls&sni=fst.krevetkabs111.net&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
