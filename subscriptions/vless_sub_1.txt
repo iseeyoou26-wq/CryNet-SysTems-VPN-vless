@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-11-11 19:55:41
+# Обновлено: 2026-11-11 19:58:43
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IFtCTF0iLCJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJjcyI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIifQ==
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@136.234.9.4:443?security=reality&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl17.h1clayd.click#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Tel%20Aviv%20%7C%20%5BBL%5D
