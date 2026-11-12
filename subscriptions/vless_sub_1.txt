@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 10
-# Обновлено: 2026-11-12 06:32:34
+# Обновлено: 2026-11-12 06:33:09
 
 vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?flow=xtls-rprx-vision&headerType=none&host=deepl.com&path=%2F&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&security=reality&sid=0492eabdb9&sni=deepl.com&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@vv9bo423qfvc.cloudymedia.click:443?security=reality&type=tcp&sni=deepl.com&host=deepl.com&flow=xtls-rprx-vision&fp=random&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&sid=0492eabdb9&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
