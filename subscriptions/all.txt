@@ -1,12 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 8
-# Обновлено: 2026-11-12 21:50:39
+# Всего: 0
+# Обновлено: 2026-11-12 22:52:23
 
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.202:443?encryption=none&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=edge#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9LT-12
-vless://2ab54cbc-bea6-4b79-8833-7b3354b97500@djjsg5.wawojk.dpdns.org:24204?security=reality&sni=www.asus.com&fp=chrome&flow=xtls-rprx-vision&pbk=cYQgUq-cSRENj3PWzyBLvXqIdVYSTqQ8vrnYGATiliI&sid=7788afae&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-150
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&spx=/&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-200
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click#%5BOpenRay%5D%20%F0%9F%8C%90XX-300
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=firefox&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-683
-vless://a03c34f9-3972-4df8-8e53-3df474654b7f@141.98.191.36:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=p0M6RumtfcATPNPUIFnFcgWy2rzk2gGVWx21sql1hV0&sid=8238d76df92c2560&sni=13.143.195.113.sslip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AABE-10
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@150.251.143.253:443?encryption=none&flow=xtls-rprx-vision&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=ios#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%AABE-5
+# Пока нет рабочих конфигов
