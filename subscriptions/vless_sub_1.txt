@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 11
-# Обновлено: 2026-11-13 00:31:43
+# Всего: 12
+# Обновлено: 2026-11-13 00:39:25
 
 vless://fb7eb79a-e746-4fb4-acdb-fa54e73e3258@189.74.106.76:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
 vless://06123471-6c45-400c-920a-3e6990060b63@189.74.117.28:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
@@ -13,3 +13,4 @@ vless://fb7eb79a-e746-4fb4-acdb-fa54e73e3258@189.74.115.23:443?flow=xtls-rprx-vi
 vless://06123471-6c45-400c-920a-3e6990060b63@189.74.116.24:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://06123471-6c45-400c-920a-3e6990060b63@189.74.116.24:443?flow=xtls-rprx-vision&security=reality&sni=api.mediatropa.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B%2ACIDR%5D
 vless://06123471-6c45-400c-920a-3e6990060b63@189.74.115.23:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%5B%2ACIDR%5D
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@179.254.115.127:443?security=reality&encryption=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=4935e4t.de25.h1clayd.click&sid=6976d670818644cc#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20844370
