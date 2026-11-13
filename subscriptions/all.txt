@@ -1,6 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 2
-# Обновлено: 2026-11-13 20:49:34
+# Всего: 0
+# Обновлено: 2026-11-13 21:51:26
 
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=firefox&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY#%5BOpenRay%5D%20%F0%9F%8C%90XX-810
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl17.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=f0d7aft.nl17.h1clayd.click&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&sid=8956c57cb4c4f8d2&fp=firefox&spx=/#%5BOpenRay%5D%20%F0%9F%8C%90XX-1743
+# Пока нет рабочих конфигов
