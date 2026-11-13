@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 1
-# Обновлено: 2026-11-14 02:02:10
+# Обновлено: 2026-11-14 02:02:42
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IFtCTF0iLCJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJjcyI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIifQ==
