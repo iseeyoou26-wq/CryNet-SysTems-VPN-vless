@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 2
-# Обновлено: 2026-11-13 14:58:06
+# Обновлено: 2026-11-13 14:58:56
 
 vless://63eecfaa-50b7-4ea9-9bec-a176bf03a215@107.189.23.205:443?flow=xtls-rprx-vision&security=reality&sni=suffolkprimarycare.uk&fp=edge&pbk=5Xgf3UO6yZb7gCK3R3GULk8jyNIp7Sr-26YXZfSW71c&sid=13975a8e0bd50e7c#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
