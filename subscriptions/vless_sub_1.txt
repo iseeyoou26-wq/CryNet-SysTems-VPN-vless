@@ -1,6 +1,7 @@
 # Подписка #1
-# Всего: 2
-# Обновлено: 2026-11-13 23:40:56
+# Всего: 3
+# Обновлено: 2026-11-13 23:42:14
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HufCfh7cgVHVya2V5LCBJc3RhbmJ1bCB8IFtCTF0iLCJhZGQiOiIxMjM0NjYucnUiLCJwb3J0IjoiMjYwMzIiLCJpZCI6IjgwNDMzNGUyLTA0Y2EtNDM0Yy04MzExLTNjY2VlODIxODE3NSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIiLCJob3N0IjoiIiwicGF0aCI6IiJ9
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=8a2e72t.nl11.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=8d0d0679f42ffd98&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA#🇧🇾[openproxylist.com] vless-BY
