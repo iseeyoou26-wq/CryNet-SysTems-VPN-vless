@@ -1,7 +1,9 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 8
-# Обновлено: 2026-11-14 04:43:30
+# Всего: 10
+# Обновлено: 2026-11-14 04:47:49
 
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&type=ws&security=tls&sni=connect6.blog-forme.ru&path=/v2/connect/a9cbd64ca09f8612#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://549766c3-fa5f-471e-8031-ffc1f8d5064f@connect6.blog-forme.ru:443?encryption=none&type=ws&security=tls&sni=connect6.blog-forme.ru&fp=firefox&alpn=http/1.1&path=/v2/connect/a9cbd64ca09f8612#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40603?security=tls&sni=fr.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?security=tls&sni=de.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40303?security=tls&sni=se.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox
