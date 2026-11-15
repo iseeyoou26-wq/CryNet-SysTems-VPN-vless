@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 9
-# Обновлено: 2026-11-15 10:44:57
+# Обновлено: 2026-11-15 10:45:34
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&type=tcp&sni=m.media-amazon.com&host=m.media-amazon.com&flow=xtls-rprx-vision&fp=random&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&flow=xtls-rprx-vision&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&sni=m.media-amazon.com&type=tcp&headerType=none&host=m.media-amazon.com&path=%2F&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
