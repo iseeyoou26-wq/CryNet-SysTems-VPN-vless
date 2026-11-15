@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 5
-# Обновлено: 2026-11-15 18:47:20
+# Обновлено: 2026-11-15 18:50:46
 
 vless://6392cd80-967f-000a-a4b2-41502f5c68b6@138.124.254.116:443?flow=xtls-rprx-vision&security=reality&sni=lywd3zccl0w7a4ih.customer.velacdn.com&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
 vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?flow=xtls-rprx-vision&security=reality&sni=84.252.100.33&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
