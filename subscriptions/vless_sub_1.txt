@@ -1,8 +1,9 @@
 # Подписка #1
-# Всего: 4
-# Обновлено: 2026-11-16 03:42:47
+# Всего: 5
+# Обновлено: 2026-11-16 03:44:23
 
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?encryption=none&type=tcp&security=reality&sni=d58daft.plp1.h1cloud.net&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c&fp=chrome&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=chrome&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?&security=reality&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c&fp=chrome&sni=d58daft.plp1.h1cloud.net&type=tcp&headerType=none&host=d58daft.plp1.h1cloud.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
 vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3eebf4b1.plp1.h1cloud.net:443?type=tcp&security=reality&fp=firefox&pbk=Rbho8R1xROOFPv5tCWDCcePuAxbzNuviUn91jR9CdQ4&sid=6941a08bb53ea2a1&sni=3eebf4b1.plp1.h1cloud.net&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+trojan://3b985d60-e252-4935-8e03-06afeb1144c9@112.49.65.212:18000?security=tls&sni=www.biliimg.com&insecure=1
