@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-16 13:20:35
+# Всего: 1
+# Обновлено: 2026-11-16 13:22:28
 
-# Пока нет рабочих конфигов
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@178.17.60.97:5443?security=tls&sni=fi1.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox
