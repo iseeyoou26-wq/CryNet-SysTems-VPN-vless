@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 9
-# Обновлено: 2026-11-16 16:41:15
+# Обновлено: 2026-11-16 16:44:53
 
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?security=reality&type=tcp&sni=zovira.me&fp=firefox&flow=xtls-rprx-vision&sid=2237b916&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@45.139.27.15:443?security=reality&sni=svc-api-io.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
