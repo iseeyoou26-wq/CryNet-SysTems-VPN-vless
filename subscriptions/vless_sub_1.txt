@@ -1,9 +1,13 @@
 # Подписка #1
-# Всего: 9
-# Обновлено: 2026-11-16 17:35:28
+# Всего: 13
+# Обновлено: 2026-11-16 17:42:28
 
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?security=reality&type=tcp&sni=zovira.me&fp=firefox&flow=xtls-rprx-vision&sid=2237b916&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@selec.homelab-cdn.cloud:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selec.homelab-cdn.cloud&type=tcp&fp=random#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@selec.homelab-cdn.cloud:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selec.homelab-cdn.cloud&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@45.139.27.15:443?security=reality&sni=svc-api-io.galioncc.com&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=6d2f8a41c9e705b3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@selec.homelab-cdn.cloud:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selec.homelab-cdn.cloud&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
+vless://0ed9418b-e687-4c2d-8869-7e368c44887e@selec.homelab-cdn.cloud:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=selec.homelab-cdn.cloud&type=tcp&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%5B%F0%9F%8F%B3%EF%B8%8FLTE%5D%20%7C%20%F0%9F%A5%AD%F0%9F%94%A7
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cy1.gofizz.in&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&sid=24f1fa53275b&fp=firefox&spx=/b4fcc6d25bda84e#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@21bd48g.us14.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=21bd48g.us14.h1clayd.click&fp=chrome&pbk=nwdvbnPAo7PyzB7zUJFU-6F0d6dIPO1mSVGdIKoQ_To&sid=36aa133397bf5a6d#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
