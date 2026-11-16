@@ -1,7 +1,8 @@
 # Подписка #1
-# Всего: 3
-# Обновлено: 2026-11-16 15:53:21
+# Всего: 4
+# Обновлено: 2026-11-16 15:55:35
 
 vless://4a923161-156f-4914-8cac-762fb2433bfb@45.91.54.162:43000?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&security=reality&sid=ee4ea980&sni=45.91.54.162&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@557e58g.pl8.h1clayd.click:443?encryption=none&pbk=ms5yeTlBCbAEEeWIbn_bV72Q9SQfpcJz6_VqNgF7ABY&security=reality&sid=43a5ba8f49a5e91a&sni=557e58g.pl8.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@557e58g.pl8.h1clayd.click:443?encryption=none&pbk=ms5yeTlBCbAEEeWIbn_bV72Q9SQfpcJz6_VqNgF7ABY&security=reality&sid=43a5ba8f49a5e91a&sni=557e58g.pl8.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@178.17.60.97:5443?security=tls&sni=fi1.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox
