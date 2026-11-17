@@ -1,8 +1,5 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 4
-# Обновлено: 2026-11-17 21:31:03
+# Всего: 0
+# Обновлено: 2026-11-17 22:32:59
 
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@557e58g.pl8.h1clayd.click:443?encryption=none&pbk=ms5yeTlBCbAEEeWIbn_bV72Q9SQfpcJz6_VqNgF7ABY&security=reality&sid=43a5ba8f49a5e91a&sni=557e58g.pl8.h1clayd.click&type=grpc&fp=edge#%5BOpenRay%5D%20%F0%9F%8C%90XX-143
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:42120?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&sni=www.tesla.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-973
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%5BOpenRay%5D%20%F0%9F%8C%90XX-1175
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-1677
+# Пока нет рабочих конфигов
