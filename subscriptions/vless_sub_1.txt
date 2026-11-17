@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 13
-# Обновлено: 2026-11-18 01:19:20
+# Обновлено: 2026-11-18 01:21:08
 
 vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.137:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de11-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://a346c521-7a7f-452b-9356-a4893feb5982@217.60.94.115:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de13-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
