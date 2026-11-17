@@ -1,7 +1,16 @@
 # Подписка #1
-# Всего: 3
-# Обновлено: 2026-11-17 23:25:05
+# Всего: 12
+# Обновлено: 2026-11-18 01:15:24
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&sni=m.media-amazon.com#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.137:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de11-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@217.60.94.115:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de13-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.137:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de11-r.bankai.party&fp=qq&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@nl-s-2-b1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl-s-2-b1.pythonmakemigreat.wiki&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=a3565610aa574a6e&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@2.26.2.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&security=reality&sid=a3565610aa574a6e&sni=nl-s-2-b1.pythonmakemigreat.wiki&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@77.83.245.79:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tr1-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.136:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de9-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.199.30:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fin3-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@147.45.60.136:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usahk2-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Atlanta%20%7C%20%5BBL%5D
+vless://a346c521-7a7f-452b-9356-a4893feb5982@193.233.199.94:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fin4-r.bankai.party&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=lodizu.hagrid-connected.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
