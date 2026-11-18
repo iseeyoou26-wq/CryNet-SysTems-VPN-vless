@@ -1,5 +1,5 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 1
-# Обновлено: 2026-11-18 20:35:21
+# Обновлено: 2026-11-18 20:36:32
 
 vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=71b840t.de7.h1clayd.click&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
