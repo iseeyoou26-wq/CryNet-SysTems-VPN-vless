@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 19
-# Обновлено: 2026-11-19 03:45:18
+# Обновлено: 2026-11-19 04:02:23
 
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@lodizu.hagrid-connected.com:443?security=tls&type=tcp&sni=lodizu.hagrid-connected.com&host=lodizu.hagrid-connected.com&flow=xtls-rprx-vision&alpn=%5B%22h2&allowInsecure=0&insecure=0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
