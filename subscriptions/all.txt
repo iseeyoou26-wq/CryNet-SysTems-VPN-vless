@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 22
-# Обновлено: 2026-11-20 22:37:10
+# Всего: 25
+# Обновлено: 2026-11-20 22:38:59
 
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
@@ -17,10 +17,13 @@ vless://8da0029e-6ff3-206c-8b4d-120432cc6414@eu90.cdn77.icu:20034?security=reali
 vless://8da0029e-6ff3-206c-8b4d-120432cc6414@eu90.cdn77.icu:20034?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu64.cdn77.icu&sid=1ed136481e0ede74&fp=firefox#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20036?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5B%2ACIDR%5D
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20036?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%7C%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20084?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu122.cdn77.icu&sid=1ed136481e0ede74&fp=edge#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20084?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu122.cdn77.icu&sid=1ed136481e0ede74&fp=chrome#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20084?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&type=tcp&sni=eu122.cdn77.icu&sid=1ed136481e0ede74&fp=firefox#%F0%9F%87%B8%F0%9F%87%AE%20Slovenia%20%7C%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20036?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=ios#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20%5B%2ACIDR%5D
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?security=reality&type=tcp&sni=swdist.apple.com&host=swdist.apple.com&flow=xtls-rprx-vision&fp=random&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
