@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 25
-# Обновлено: 2026-11-20 23:41:18
+# Обновлено: 2026-11-20 23:42:17
 
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
 vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20028?encryption=none&headerType=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
