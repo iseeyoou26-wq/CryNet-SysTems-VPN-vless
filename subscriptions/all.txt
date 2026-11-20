@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 6
-# Обновлено: 2026-11-20 12:56:01
+# Обновлено: 2026-11-20 12:57:19
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@4c980ft.fi15.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=4c980ft.fi15.h1clayd.click&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
