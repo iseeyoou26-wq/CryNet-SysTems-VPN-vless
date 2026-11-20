@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 22
-# Обновлено: 2026-11-21 00:37:08
+# Обновлено: 2026-11-21 00:38:03
 
 vless://e89a2a0e-7803-447e-b050-3ba67962ed95@87.228.92.112:25135?security=reality&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&sni=s-25452.nl18.h1clayd.click&fp=firefox#%F0%9F%87%AE%F0%9F%87%B1%20Gh0st_WhiteList%20%23181
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:19482?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
