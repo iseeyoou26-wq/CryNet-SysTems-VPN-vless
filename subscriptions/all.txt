@@ -1,7 +1,8 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 5
-# Обновлено: 2026-11-21 06:44:15
+# Всего: 6
+# Обновлено: 2026-11-21 07:02:57
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@168.113.252.145:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=tarakan.belka.tv#%F0%9F%87%A9%F0%9F%87%BF%20Algeria%2C%20Algiers%20%7C%20%5BBL%5D
 vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@168.113.252.145:443?flow=xtls-rprx-vision&security=reality&sni=tarakan.belka.tv&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=chrome#%F0%9F%87%A9%F0%9F%87%BF%20Algeria%2C%20Algiers%20%7C%20%5BBL%5D
 vless://9ce32242-557a-4d18-864d-c9c385b3dfa4@support.zoom.us:80?encryption=none&security=none&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
