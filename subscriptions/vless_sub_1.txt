@@ -1,6 +1,6 @@
 # Подписка #1
-# Всего: 16
-# Обновлено: 2026-11-21 18:08:11
+# Всего: 17
+# Обновлено: 2026-11-21 18:11:36
 
 vless://c9dcf142-10a2-4864-8359-71d4a211b512@188.225.36.108:443?security=reality&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=188.225.36.108&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
 vless://c9dcf142-10a2-4864-8359-71d4a211b512@188.225.36.108:443?security=reality&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&sid=db04ce8bdb8900f1&sni=188.225.36.108&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D
@@ -16,5 +16,6 @@ vless://e1cf85dd-8de4-44de-86f9-86dd81ae677a@191.217.244.244:443?encryption=none
 vless://9ce32242-557a-4d18-864d-c9c385b3dfa4@support.zoom.us:80?encryption=none&security=none&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
 vless://7384d777-cd1b-56f3-a31a-d7f69daf45ed@135.106.208.37:443?encryption=none&flow=xtls-rprx-vision&pbk=VgX9N3I4ELJA5PCSaEXwJMly3GprvfDWhNTAu5yfgm0&security=reality&sid=c00d8a77&sni=max.ru&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://7384d777-cd1b-56f3-a31a-d7f69daf45ed@135.106.208.37:443?encryption=none&flow=xtls-rprx-vision&pbk=VgX9N3I4ELJA5PCSaEXwJMly3GprvfDWhNTAu5yfgm0&security=reality&sid=c00d8a77&sni=max.ru&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@147.45.103.94:443?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=lUcH1QMpmsh4MyoJcJ4QuvmCo_x_vFcfOHFqNN_7wQM&sid=ccda6ab207401e4d&sni=rumicro249.grizpliz.am#%F0%9F%87%B3%F0%9F%87%B1%20Gh0st_WhiteList%20%2384
 vless://3f48cee8-2e5d-4ea4-9297-0777a79a9f06@31.129.56.229:443?encryption=none&flow=xtls-rprx-vision&pbk=HxgKgQBR0Xs-lqb0snVMzcSH2xhb90Zia8KeT1tdaVs&security=reality&sid=b3c03b6dac5f1e7f&sni=it-1.idkvpn.ru&type=tcp&fp=random#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D
 vless://3f48cee8-2e5d-4ea4-9297-0777a79a9f06@31.129.56.229:443?encryption=none&flow=xtls-rprx-vision&pbk=HxgKgQBR0Xs-lqb0snVMzcSH2xhb90Zia8KeT1tdaVs&security=reality&sid=b3c03b6dac5f1e7f&sni=it-1.idkvpn.ru&type=tcp&fp=safari#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5B%2ACIDR%5D
