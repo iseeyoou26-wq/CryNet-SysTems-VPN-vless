@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 532
+# Всего: 534
 
+vless://7384d777-cd1b-56f3-a31a-d7f69daf45ed@135.106.208.37:443?encryption=none&flow=xtls-rprx-vision&pbk=VgX9N3I4ELJA5PCSaEXwJMly3GprvfDWhNTAu5yfgm0&security=reality&sid=c00d8a77&sni=max.ru&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://7384d777-cd1b-56f3-a31a-d7f69daf45ed@135.106.208.37:443?encryption=none&flow=xtls-rprx-vision&pbk=VgX9N3I4ELJA5PCSaEXwJMly3GprvfDWhNTAu5yfgm0&security=reality&sid=c00d8a77&sni=max.ru&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
 vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?security=reality&type=tcp&sni=fontanka.ru&flow=xtls-rprx-vision&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?security=reality&type=tcp&sni=fontanka.ru&flow=xtls-rprx-vision&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?security=reality&type=tcp&sni=fontanka.ru&flow=xtls-rprx-vision&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&sid=6ad3c0f1e9b2478a&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
