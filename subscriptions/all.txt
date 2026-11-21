@@ -1,6 +1,6 @@
 # ВСЕ РАБОЧИЕ
 # Всего: 8
-# Обновлено: 2026-11-21 03:56:03
+# Обновлено: 2026-11-21 03:58:22
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
