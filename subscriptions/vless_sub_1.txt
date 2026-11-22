@@ -1,14 +1,6 @@
 # Подписка #1
-# Всего: 10
-# Обновлено: 2026-11-22 04:55:17
+# Всего: 2
+# Обновлено: 2026-11-22 07:31:18
 
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.117.13:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videodolina.cc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.117.13:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://7316d881-eeec-429b-94f1-07585747f7c8@web.belka.tv:443?flow=xtls-rprx-vision&security=reality&sni=web.belka.tv&fp=firefox&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&sid=26e2b503fada0e3a#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://4be99323-e032-4079-95d5-fe10cacbba63@45.155.204.12:443?flow=xtls-rprx-vision&security=reality&sni=web.belka.tv&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&sid=26e2b503fada0e3a&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://7316d881-eeec-429b-94f1-07585747f7c8@perdelka.belka.tv:443?flow=xtls-rprx-vision&security=reality&sni=perdelka.belka.tv&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-vless://4be99323-e032-4079-95d5-fe10cacbba63@45.155.204.12:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=D0VJmmIifi3bUyMzYYNwEU0X28N4JK-jDAmCCf8hZEo&sid=26e2b503fada0e3a&sni=web.belka.tv#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.115.30:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.115.30:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
+vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJhaWQiOiIwIiwiaWQiOiJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTAwODYiLCJwcyI6IvCfh7jwn4esIFNpbmdhcG9yZSwgRXVub3MgfCBbQkxdIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgU2luZ2Fwb3JlLCBFdW5vcyB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
