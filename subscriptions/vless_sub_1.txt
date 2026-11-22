@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 21
-# Обновлено: 2026-11-22 07:47:51
+# Обновлено: 2026-11-22 07:48:15
 
 vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.237:8445?flow=xtls-rprx-vision&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
