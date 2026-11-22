@@ -1,5 +1,7 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-23 00:28:16
+# Всего: 3
+# Обновлено: 2026-11-23 00:29:51
 
-# Пока нет рабочих конфигов
+vless://cde5d3ef-7d14-1f40-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&security=tls&sni=168.113.132.167&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://cde5d3ef-7d14-1f40-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&security=tls&sni=168.113.132.167&alpn=h2%2Chttp%2F1.1&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D
+vless://cde5d3ef-7d14-32c8-a74d-ac98e39bf9ec@168.113.132.167:52006?flow=xtls-rprx-vision&security=tls&sni=168.113.132.167&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
