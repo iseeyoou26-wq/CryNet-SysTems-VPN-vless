@@ -1,7 +1,9 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 21
-# Обновлено: 2026-11-22 07:48:30
+# Всего: 23
+# Обновлено: 2026-11-22 07:50:54
 
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@parchment.merlano.monster:443?encryption=none&type=ws&security=tls&sni=parchment.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de7/stream#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@rowanberry.moltex.click:443?encryption=none&type=ws&security=tls&sni=rowanberry.moltex.click&fp=firefox&alpn=http/1.1&path=/api/de7/stream#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFtCTF0iLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.237:8445?flow=xtls-rprx-vision&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&fp=edge#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
 vless://9ce32242-557a-4d18-864d-c9c385b3dfa4@170.114.46.6:80?security=none&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Outram%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
