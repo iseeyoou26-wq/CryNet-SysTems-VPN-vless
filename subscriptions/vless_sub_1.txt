@@ -1,6 +1,6 @@
 # Подписка #1
 # Всего: 6
-# Обновлено: 2026-11-23 18:06:44
+# Обновлено: 2026-11-23 18:08:12
 
 trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=qq
 trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox
