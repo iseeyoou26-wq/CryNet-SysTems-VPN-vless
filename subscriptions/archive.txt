@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 730
+# Всего: 731
 
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
 vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%5B%2ACIDR%5D
 vless://2e627c65-92d7-0001-b8a8-aaa3b2469494@168.113.254.3:443?security=tls&fp=chrome&sni=rbzummkhxtmdipkpij.fcloudservices.site#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%A8%F0%9F%87%BF%20%5B%2ACIDR%5D
 vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20%5B%2ACIDR%5D
