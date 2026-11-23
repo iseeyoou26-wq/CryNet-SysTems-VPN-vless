@@ -1,5 +1,8 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 0
-# Обновлено: 2026-11-23 16:50:26
+# Всего: 4
+# Обновлено: 2026-11-23 16:52:54
 
-# Пока нет рабочих конфигов
+trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=qq
+trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox
+trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox
+trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=qq
