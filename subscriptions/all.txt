@@ -1,9 +1,10 @@
 # ВСЕ РАБОЧИЕ
-# Всего: 5
-# Обновлено: 2026-11-23 17:08:40
+# Всего: 6
+# Обновлено: 2026-11-23 17:12:33
 
 trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=qq
 trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox
 vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D
+trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=safari
 trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=firefox
 trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=qq
