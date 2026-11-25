@@ -1,6 +1,11 @@
 # АРХИВ
-# Всего: 701
+# Всего: 706
 
+vless://37af0181-5598-4aad-a040-d926bcb65757@31.177.111.72:443?type=ws&headerType=none&security=tls&encryption=none&sni=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37af0181-5598-4aad-a040-d926bcb65757@31.177.111.72:443?type=ws&headerType=none&security=tls&encryption=none&sni=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37af0181-5598-4aad-a040-d926bcb65757@31.177.111.72:443?type=ws&headerType=none&security=tls&encryption=none&sni=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37af0181-5598-4aad-a040-d926bcb65757@31.177.111.72:443?type=ws&headerType=none&security=tls&encryption=none&sni=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
+vless://37af0181-5598-4aad-a040-d926bcb65757@31.177.111.72:443?type=ws&headerType=none&security=tls&encryption=none&sni=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D
 vless://c28bd116-61d1-44bf-a3e2-589978d247f2@bs.u2.1kub1.click:2096?encryption=none&type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality&fp=android#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20id.vk.com
 vless://c28bd116-61d1-44bf-a3e2-589978d247f2@bs.u2.1kub1.click:2096?encryption=none&type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20id.vk.com
 vless://c28bd116-61d1-44bf-a3e2-589978d247f2@bs.u2.1kub1.click:2096?encryption=none&type=grpc&security=reality&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&serviceName=vless-grpc-reality&fp=firefox#%F0%9F%87%B3%F0%9F%87%B4%20Norway%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20id.vk.com
