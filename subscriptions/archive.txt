@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 76
+# Всего: 78
 
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.17.19:5555
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.9.217:5555
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@sg.privatemailfiles.com:443?type=ws&security=tls&fp=chrome&sni=sg.privatemailfiles.com&host=sg.privatemailfiles.com&alpn=http/1.1
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@dry-snowflake-b29f.vpnetwork3567.workers.dev:443?security=tls&sni=dry-snowflake-b29f.vpnetwork3567.workers.dev&alpn=http/1.1&type=ws&host=dry-snowflake-b29f.vpnetwork3567.workers.dev&path=/
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@lingering-fire-1fe9.vpnetwork3567.workers.dev:443?type=ws&security=tls&fp=chrome&host=lingering-fire-1fe9.vpnetwork3567.workers.dev&alpn=http/1.1
