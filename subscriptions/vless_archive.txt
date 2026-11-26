@@ -1,6 +1,8 @@
 # АРХИВ
-# Всего: 29
+# Всего: 31
 
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.209.221.90:5555
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.211.154.126:5555
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F&fp=android
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F&fp=firefox
 trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F&fp=safari
