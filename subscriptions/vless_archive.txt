@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 104
+# Всего: 105
 
+ss://YWVzLTI1Ni1nY206MTIzNDU2@8.216.7.248:5555
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDBkNjBkMWM4NDdlNjMwOTgwNThjNzUyNDY4MGYzNDljOTA0MmY5MzJkOGU3OWM=@belgium.astroapps.io:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dbelgium.astroapps.io%3Bpath%3D%2F7a0f74508333399db96164d7%3Btls%3Bobfs%3Dwebsocket%3Bobfs-host%3Dbelgium.astroapps.io
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTE3Yjk2ZTA4NGVhNjdhMGYyMTAzMWYxMjg0ZjllZTllMWQ4MzczMjFjZTYzNjI=@denmark.astroapps.io:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Ddenmark.astroapps.io%3Bpath%3D%2Fad37249091fe1c6ac69e8c23%3Btls%3Bobfs%3Dwebsocket%3Bobfs-host%3Ddenmark.astroapps.io
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYzU3NjU0MzA4ZGY2ZDliOTNiMmJmNzQ5ZGQ5ZjIxZWQ3MzU1YWFiOGZkN2ZmYmI=@finland.astroapps.io:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dfinland.astroapps.io%3Bpath%3D%2Fccad980a661bd347eaebae0f%3Btls%3Bobfs%3Dwebsocket%3Bobfs-host%3Dfinland.astroapps.io
