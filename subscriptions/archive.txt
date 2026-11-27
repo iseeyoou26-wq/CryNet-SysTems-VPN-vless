@@ -1,6 +1,7 @@
 # АРХИВ
-# Всего: 312
+# Всего: 313
 
+trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=firefox
 trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=chrome
 trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=safari
 trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.com&type=ws&host=api.14887277.xyz&path=%2Fflow%2F&fp=edge
